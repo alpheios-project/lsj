@@ -1,0 +1,75 @@
+numerous parentheses with semantic meaning should be converted to markup
+    <entryFree id="n1" key="a)1" type="main"><orth extent="pref" lang="greek"
+    ...
+    (Sch.<bibl n="Perseus:abo:tlg,0012,002:3:279">
+    <author>Od.</author>
+    <biblScope>3.279</biblScope>
+    </bibl>, etc., cf. <bibl n="Perseus:abo:tlg,4083,001:985:16">
+    <author>Eust.</author>
+    <biblScope>985.16</biblScope>
+    </bibl>)
+
+    but would need to distinguish these from references, e.g.
+      <biblScope>29.20(21)</biblScope>
+    or standard abbreviations, e.g. (q. v.), (sic), etc.
+    Should be done with unicode not betacode to avoid spurious parens from
+    betacode breathing marks.
+
+numerous (e.g. lsj-alpha.xml 15138): square brackets
+    <entryFree id="n575" key="a)gkule/ndetos" type="main"><orth extent="full"
+    ...
+    [<foreign lang="greek">*)/arhs] a).,</foreign> i.e. javelin,
+
+    Could do:
+      1,$s/\[<foreign lang="greek">\([^<\]]*\)]/<foreign lang="greek">[\1]/g
+    on all files.
+	I.e. move left square bracket inside <foreign> if
+     a) bracket is immediately before <foreign> start tag
+     b) corresponding right bracket appears before </foreign> end tag
+
+lsj-pi.xml 160464: misspelling "uiolent" for "violent"
+    <entryFree id="n82064" key="perirru^sis" type="main"><orth extent="full"
+    ...
+    <tr>uiolent discharge</tr>, <bibl>
+
+lsj-alpha.xml 112665: misspelling "otheruise" for "otherwise"
+    <entryFree id="n4357" key="a)lla/" type="main"><orth extent="full"
+    ...
+    <sense id="n4357.0" n="A" level="1"><tr>otheruise</tr>: used adversatively
+
+lsj-kappa.xml 15757: words run together "addalimiting" for "add a limiting"
+    <entryFree id="n51951" key="kai/1" type="main"><orth extent="full"
+    ...
+    addalimiting or defining expression, <foreign lang="greek">pro\s
+
+lsj-delta.xml 160863: entryFree missing @key
+    <entryFree id="n29246" type="main"><orth extent="full" lang="greek"
+    >-&lt;*&gt;h/twr&lt;*&gt;</orth>
+
+lsj-chi.xml 28782: misspelling "mcaner" for "meaner"
+    <entryFree id="n113711" key="xei/rwn" type="main"><orth extent="full"
+    ...
+    of persons, <tr>mcaner, inferior,</tr> either in bodily strength and
+
+lsj-vau.xml 70: misspelling "bc" for "be"
+    <entryFree id="n46048" key="*v" type="main"><orth extent="full" lang="greek"
+    ...
+    (Words with initial <itype lang="greek">v</itype> will bc found
+
+lsj-mu.xml: correct letter in <tr>
+    mŠ`ārāh -> mĕ`ārāh
+
+multiple: instances of "oue" in place of "ove", "oua" for "ova", "oui" for "ovi" (and other)
+  alpha: ouerturner couered gouern shield-couered remoued proue remoue remoued
+         remoual immouable proiuberance spouied houiable prouince
+  beta: improue
+  delta: ouer
+  epsilon: louer couering approue remoue moued
+  kappa: innouation
+  mu: ouertake
+  omicron: cloues
+  pi: couertly couered ouer ouer gouernment souereign remoue mouement
+      aboui wide-rouing prouision prouocator
+  phi: louing
+  chi: couered
+  omega: ouate ouiparous

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2><text><body><div0 n="Ϝ" type="alphabetic letter" org="uniform" sample="complete" part="N"><head lang="greek">Ϝ</head><entryFree id="n46048" key="Ϝ" type="main"><orth extent="full" lang="greek">Ϝ ϝ</orth>(<etym lang="greek">ϝ</etym>), also &lt;*&gt;,
+		sixth letter of the oldest Gr. alphabets, pronounced <abbr>like</abbr>
+		Engl. <sense id="n46048.0" n="A" level="1"><tr>w,</tr>
+			<bibl>
+				<author>IG</author>
+				<biblScope>9(1).334</biblScope>
+			</bibl> (<gramGrp>
+				<gram type="dialect">Locr.</gram>
+			</gramGrp>, V B.C.), <bibl>
+				<biblScope>4.333</biblScope>
+			</bibl>, <bibl>
+				<biblScope>14.2420</biblScope>
+			</bibl>, <bibl n="Perseus:abo:tlg,0291,001:23:6">
+				<author>Alcm.</author>
+				<biblScope>23.6</biblScope>
+			</bibl>, <bibl n="Perseus:abo:tlg,0009,001:1:6">
+				<author>Sapph.</author>
+				<title>Supp.</title>
+				<biblScope>1.6</biblScope>
+			</bibl>, Corinn.ib.<bibl n="Perseus:abo:tlg,0009,001:1:29">
+				<biblScope>1.29</biblScope>
+			</bibl>, etc.; it was written in many dialects until <date>ii
+			B.C.</date> (and pronounced even later); in others (incl. <gramGrp>
+				<gram type="dialect">Ion.</gram>
+			</gramGrp> and <gramGrp>
+				<gram type="dialect">Att.</gram>
+			</gramGrp>) it died out (with the sound) before the date of the
+			earliest Inscrr., surviving only as a numeral,= <bibl n="Perseus:abo:tlg,0009,001:6">
+				<biblScope>6</biblScope>
+			</bibl>, in the form &lt;*&gt;, <bibl>
+				<title>SIG</title>
+				<biblScope>46.106</biblScope>
+			</bibl> (Halic., V B.C.), <bibl>
+				<title>IG</title>
+				<biblScope>12.760</biblScope>
+			</bibl> (Athens, V B.C.), <bibl n="Perseus:abo:pap,P.Cair.Zen.:13:4">
+				<title>PCair.Zen.</title>
+				<biblScope>13.4</biblScope>
+			</bibl>
+			<date>(iii B.C.)</date>, <title>BMus.Cat.Coins</title>, Egypt
+				Pl.XVI<bibl n="Perseus:abo:pap,P.Cair.Zen.:4">
+				<biblScope>4</biblScope>
+			</bibl> (<bibl n="Perseus:abo:pap,P.Cair.Zen.:200">
+				<biblScope>200</biblScope>
+			</bibl>/<bibl n="Perseus:abo:pap,P.Cair.Zen.:199">
+				<biblScope>199</biblScope>
+			</bibl> B.C.), later in the form <itype lang="greek">ζ</itype>,
+			ib.Egypt Pl.XXX<bibl n="Perseus:abo:pap,P.Cair.Zen.:5">
+				<biblScope>5</biblScope>
+			</bibl> (<bibl n="Perseus:abo:pap,P.Cair.Zen.:47">
+				<biblScope>47</biblScope>
+			</bibl> B.C.), <bibl>
+				<title>PMag.Lond.</title>
+				<biblScope>121.770</biblScope>
+			</bibl> (<date>iii A.D.</date>, <bibl>
+				<author>Pl.</author>
+				<biblScope>61</biblScope>
+			</bibl>) and medieval Mss. Its name was <foreign lang="greek">ϝαῦ</foreign> (cf. Semitic <tr>wāw</tr>) acc. to Varro
+			and Didymus (v. Varro <bibl>
+				<title>LL</title>
+				<biblScope>p.209</biblScope>
+			</bibl> G.-<bibl>
+				<author>S.</author>
+			</bibl>), later <foreign lang="greek">δίγαμμα</foreign> (q.v.).
+			(Words with initial <itype lang="greek">ϝ</itype> will be found
+			under the second letter.)</sense></entryFree></div0></body></text></TEI.2>
