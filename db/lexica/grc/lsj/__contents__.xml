@@ -1,0 +1,87 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lexica/grc/lsj" owner="admin" group="dba" mode="755" created="2017-10-03T09:28:21-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="ulsj-19-koppa.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:21-04:00" modified="2017-10-03T09:28:21-04:00" filename="ulsj-19-koppa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-07-zeta.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:21-04:00" modified="2017-10-03T09:28:21-04:00" filename="ulsj-07-zeta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-12-lambda.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:22-04:00" modified="2017-10-03T09:28:22-04:00" filename="ulsj-12-lambda.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-05-epsilon.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:23-04:00" modified="2017-10-03T09:28:23-04:00" filename="ulsj-05-epsilon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-11-kappa.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:27-04:00" modified="2017-10-03T09:28:27-04:00" filename="ulsj-11-kappa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-02-beta.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:30-04:00" modified="2017-10-03T09:28:30-04:00" filename="ulsj-02-beta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-08-eta.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:30-04:00" modified="2017-10-03T09:28:30-04:00" filename="ulsj-08-eta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-17-pi.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:31-04:00" modified="2017-10-03T09:28:31-04:00" filename="ulsj-17-pi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-21-sigma.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:35-04:00" modified="2017-10-03T09:28:35-04:00" filename="ulsj-21-sigma.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-04-delta.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:37-04:00" modified="2017-10-03T09:28:37-04:00" filename="ulsj-04-delta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-01-alpha.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:39-04:00" modified="2017-10-03T09:28:39-04:00" filename="ulsj-01-alpha.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-18-san.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:43-04:00" modified="2017-10-03T09:28:43-04:00" filename="ulsj-18-san.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-20-rho.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:43-04:00" modified="2017-10-03T09:28:43-04:00" filename="ulsj-20-rho.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-23-upsilon.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:44-04:00" modified="2017-10-03T09:28:44-04:00" filename="ulsj-23-upsilon.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-24-phi.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:45-04:00" modified="2017-10-03T09:28:45-04:00" filename="ulsj-24-phi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-14-nu.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:45-04:00" modified="2017-10-03T09:28:45-04:00" filename="ulsj-14-nu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-03-gamma.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:46-04:00" modified="2017-10-03T09:28:46-04:00" filename="ulsj-03-gamma.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-25-chi.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:46-04:00" modified="2017-10-03T09:28:46-04:00" filename="ulsj-25-chi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-16-omicron.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:47-04:00" modified="2017-10-03T09:28:47-04:00" filename="ulsj-16-omicron.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-13-mu.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:48-04:00" modified="2017-10-03T09:28:48-04:00" filename="ulsj-13-mu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-26-psi.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:50-04:00" modified="2017-10-03T09:28:50-04:00" filename="ulsj-26-psi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-22-tau.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:50-04:00" modified="2017-10-03T09:28:50-04:00" filename="ulsj-22-tau.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-09-theta.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:51-04:00" modified="2017-10-03T09:28:51-04:00" filename="ulsj-09-theta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-06-vau.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:51-04:00" modified="2017-10-03T09:28:51-04:00" filename="ulsj-06-vau.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-00-front.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:51-04:00" modified="2017-10-03T09:28:51-04:00" filename="ulsj-00-front.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-15-xi.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:52-04:00" modified="2017-10-03T09:28:52-04:00" filename="ulsj-15-xi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-27-omega.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:52-04:00" modified="2017-10-03T09:28:52-04:00" filename="ulsj-27-omega.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ulsj-10-iota.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:28:21-04:00" modified="2017-10-03T09:28:21-04:00" filename="ulsj-10-iota.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

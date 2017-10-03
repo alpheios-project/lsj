@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/indexes" owner="admin" group="dba" mode="755" created="2017-10-02T11:37:53-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="grc-lsj-index.xml" owner="admin" group="dba" mode="644" created="2017-10-03T08:45:43-04:00" modified="2017-10-03T08:57:18-04:00" filename="grc-lsj-index.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
