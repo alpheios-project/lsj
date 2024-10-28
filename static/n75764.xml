@@ -1,0 +1,379 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n75764" body-key=""><b><span class="alpheios-lex-greek" lang="grc">οὐδέ</span></b> , neg. Particle, related to <span class="alpheios-lex-greek" lang="grc">μηδέ</span> as <span class="alpheios-lex-greek" lang="grc">οὐ</span>
+		to <span class="alpheios-lex-greek" lang="grc">μή</span>, partly Conj., partly
+		Adv.: <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b> CONJUNCTION,
+				<i>but not</i>, mostly answering to <span class="alpheios-lex-greek" lang="grc">μέν</span> (sts. written divisim), <i><span class="en">
+				Il.
+				5.138
+			</span></i>, <i><span class="en">
+				24.418
+			</span></i>; without <span class="alpheios-lex-greek" lang="grc">μέν</span>, <i><span class="en">
+				5.21
+			</span></i>, etc.: sts. the first <span class="alpheios-lex-greek" lang="grc">οὐδέ</span>, <i>but not</i>, is folld. by <span class="alpheios-lex-greek" lang="grc">οὐδέ</span>, <i>nor</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἄλλοις μὲν πᾶσιν ἑήνδανεν, οὐδέ ποθ᾽
+					Ἥρῃ, οὐδὲ Ποσειδάων᾽, οὐδὲ γλαυκώπιδι κούρῃ</span>”
+				 <i><span class="en">
+					24.25
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> more freq.
+				<i>and not, nor</i>: sts. without a neg. preceding, 
+				“<span class="alpheios-lex-greek" lang="grc">Κίρκη δ᾽ ὡς ἐνόησεν ἔμ᾽ ἥμενον,
+					οὐδ᾽ ἐπὶ σίτῳ χεῖρας ἰάλλοντα</span>”
+				 <i><span class="en">
+					Od.
+					10.375
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τραχὺς μόναρχος οὐδ᾽ ὑπεύθυνος</span>”
+				 <i><span class="en">
+					A.
+					<u>Pr.</u>
+					326
+				</span></i>
+			, cf. <i><span class="en">
+				102
+			</span></i>,<i><span class="en">
+				259
+			</span></i>,al.; 
+				“<span class="alpheios-lex-greek" lang="grc">δεινὸν γάρ, οὐδὲ ῥητόν</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					756
+				</span></i>
+			, cf.<i><span class="en">
+				996
+			</span></i>, <i><span class="en">
+				<u>OT</u>
+				398
+			</span></i>, <i><span class="en">
+				868
+			</span></i>(lyr.), <i><span class="en">
+				Hdt.
+				1.97
+			</span></i>, etc.: after a neg. compd., 
+				“<span class="alpheios-lex-greek" lang="grc">ὃν ἠτίμησ᾽ Ἀγαμέμνων, οὐδ᾽ ἀπέλυσε
+					θύγατρα</span>”
+				 <i><span class="en">
+					Il.
+					1.95
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀνήμεροι γὰρ οὐδὲ πρόσπλατοι ξένοις</span>”
+				 <i><span class="en">
+					A.
+					<u>Pr.</u>
+					716
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄστιπτος οὐδ᾽ οἰκουμένη</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					2
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄθικτος οὐδ᾽ οἰκητός</span>”
+				 <i><span class="en">
+					Id.
+					<u>OC</u>
+					39
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> with a neg.
+			preceding, <i>nor</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">βρώμης δ᾽ οὐχ ἅπτεαι οὐ. ποτῆτος</span>”
+				 <i><span class="en">
+					Od.
+					10.379
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐκέτισοὶ . . μένος ἔμπεδον οὐ. τις
+					ἀλκή</span>”
+				 <i><span class="en">
+					22.226
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐκ ἔχων βάσιν οὐ. τιν᾽ ἐγχώρων</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					692
+				</span></i>
+			 (lyr.), cf. <i><span class="en">
+				681
+			</span></i> (lyr.), <i><span class="en">
+				905
+			</span></i>,<i><span class="en">
+				955
+			</span></i>, <i><span class="en">
+				X.
+				<u>Oec.</u>
+				20.2
+			</span></i>, etc.: sts. the preceding neg. is itself <span class="alpheios-lex-greek" lang="grc">οὐδέ</span>, =
+			<i>and not</i>, as in <i><span class="en">
+				Od.
+				22.222
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οὐδέ</span>, =
+			<i>nor</i> may be repeated any number of times, e.g. three times
+			in <i><span class="en">
+				S.
+				<u>OT</u>
+				1378
+			</span></i>.—Sts. the neg. follows the whole word-group
+			instead of preceding it, <span class="alpheios-lex-greek" lang="grc">σιδήρῳ δὲ οὐδ᾽
+				ἀργύρῳ χρέωνται οὐδέν</span> but iron <i>or</i>
+			silver use they not at all, <i><span class="en">
+				Hdt.
+				1.215
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">Θεσσαλοῦ μὲν οὐδ᾽ Ἱππάρχου οὐδεὶς
+					παῖς</span>”
+				 <i><span class="en">
+					Th.
+					6.55
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἁπλοῦν μὲν οὐ. δίκαιον οὐδὲν ἂν
+					εἰπεῖν ἔχοι</span>”
+				 <i><span class="en">
+					D.
+					22.4
+				</span></i>
+			: but <span class="alpheios-lex-greek" lang="grc">οὐδὲ . . οὐδέ</span> never
+			means <i>neither . . nor</i> (like <span class="alpheios-lex-greek" lang="grc">οὔτε .
+				. οὔτε</span>); where this combination occurs, the first
+				<span class="alpheios-lex-greek" lang="grc">οὐδέ</span> is used without reference
+			to the second, e.g. <span class="alpheios-lex-greek" lang="grc">καὶ μὴν οὐδ᾽ ἡ
+				ἐπιτείχισις οὐδὲ τὸ ναυτικὸν ἄξιον φοβηθῆναι</span>
+			and moreover we have <i>no</i> reason to fear their
+			fortifications, <i>nor yet</i> their navy, <i><span class="en">
+				Th.
+				1.142
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<span class="alpheios-lex-greek" lang="grc">οὐδέ</span> may also follow <span class="alpheios-lex-greek" lang="grc">οὔτε</span>, by an anacoluth., as in <span class="alpheios-lex-greek" lang="grc">τε . . , δέ</span> . . (v. 
+				“<span class="alpheios-lex-greek" lang="grc">οὔτε</span>”
+				 <i><span class="en">
+					11.3
+				</span></i>
+			); but <span class="alpheios-lex-greek" lang="grc">οὔτε</span> cannot follow
+				<span class="alpheios-lex-greek" lang="grc">οὐδέ</span>.—Cf. 
+				“<span class="alpheios-lex-greek" lang="grc">μηδέ</span>”
+				 <i><span class="en">
+					A.
+					2
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>B.</b> ADVERB,
+				<i>not even</i>, in <i><span class="en">
+				Hom.
+			</span></i> mostly with Advbs., <span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ῃβαιόν</span>
+			<i>not even</i> a little, <i>no not</i> a bit, <i>not at
+			all</i>, <i><span class="en">
+				Il.
+				2.386
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. τυτθόν</span>”
+				 <i><span class="en">
+					1.354
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. μίνυνθα</span>”
+				 <i><span class="en">
+					20.27
+				</span></i>
+			; so also <span class="alpheios-lex-greek" lang="grc">ἐπεὶ οὔ οἱ ἔνι φρένες
+				οὐδ᾽ ἠβαιαί</span> he has <i>no</i> sense, <i>no not
+				even</i> a little, <i><span class="en">
+				14.141
+			</span></i>, cf. <i><span class="en">
+				Od.
+				21.288
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τότε μὲν εὖ ζῶντες, νῦν δὲ οὐ.
+					ζῶντες</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					329a
+				</span></i>
+			: freq. in 
+				Att.
+			, <span class="alpheios-lex-greek" lang="grc">τούτῳ μὲν οὐ.
+			διελέγετο</span> he did <i>not even</i> exchange words with
+			him, <i><span class="en">
+				Lys.
+				3.31
+			</span></i>, cf. <i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				425
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐδ᾽, εἰ γέγονεν, οἶδα</span>”
+				 <i><span class="en">
+					D.
+					18.70
+				</span></i>
+			, etc.: in the same sense, 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. γ᾽</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Phd.</u>
+					97a
+				</span></i>
+			, <i><span class="en">
+				97b
+			</span></i>, <i><span class="en">
+				106b
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. γ᾽ αὖ</span>”
+				 <i><span class="en">
+					Id.
+					<u>R.</u>
+					499a
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. μήν</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					3.3.50
+				</span></i>
+			, etc.; 
+				Ep.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. μέν</span>”
+				 <i><span class="en">
+					Il.
+					9.374
+				</span></i>
+			, etc.: in 
+				Att.
+			 freq. with <span class="alpheios-lex-greek" lang="grc">εἷς</span> (whence
+				<span class="alpheios-lex-greek" lang="grc">οὐδείς</span>)
+				“<span class="alpheios-lex-greek" lang="grc">, οὐδ᾽ ἂν εἷς θύσειεν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					137
+				</span></i>
+			: sts. without elision, <span class="alpheios-lex-greek" lang="grc">οὐδὲ
+			εἷς</span> ib.<i><span class="en">
+				1182
+			</span></i>, <i><span class="en">
+				Herod.
+				1.45
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐκ ἄλλ᾽ οὐ. ἕν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					138
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Ra.</u>
+				927
+			</span></i>; also 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. καθ᾽ ἕν</span>”
+				 <i><span class="en">
+					Th.
+					2.87
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. παρ᾽ ἑνός</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					2.3.10
+				</span></i>
+			, etc.—This <span class="alpheios-lex-greek" lang="grc">οὐδέ</span>
+			freq. follows <span class="alpheios-lex-greek" lang="grc">καί</span>, <i>and not
+			even</i>, <span class="alpheios-lex-greek" lang="grc">καὶ οὐδ᾽ αὐτοὶ αὖ μόνον,
+				ἀλλὰ καὶ</span> . . <i><span class="en">
+				Th.
+				7.56
+			</span></i>, cf. <i><span class="en">
+				X.
+				<u>An.</u>
+				3.2.4
+			</span></i>, etc.; also <span class="alpheios-lex-greek" lang="grc">ἀλλ᾽ οὐδέ</span>,
+			most freq. in phrase <span class="alpheios-lex-greek" lang="grc">ἀλλ᾽ οὐδ᾽
+			ὧς</span> . . <i><span class="en">
+				Il.
+				7.263
+			</span></i>,<i><span class="en">
+				9.351
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>also not, not . . either, nor yet</i> . . , <span class="alpheios-lex-greek" lang="grc">ὁ δίκαιος τοῦ δικαίου δοκεῖ τί σοι ἂν
+				ἐθέλειν πλέον ἔχειν</span><i>;</i> Answ. <span class="alpheios-lex-greek" lang="grc">οὐδαμῶς</span> . . ; Qu. <span class="alpheios-lex-greek" lang="grc">τί δέ; τῆς δικαίας πράξεως</span><i>;</i> Answ. 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ. τῆς δικαίας</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					349b
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Ap.</u>
+				19d
+			</span></i>,<i><span class="en">
+				21d
+			</span></i>, <i><span class="en">
+				X.
+				<u>Mem.</u>
+				3.11.4
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>C.</b> Repetition of
+				<span class="alpheios-lex-greek" lang="grc">οὐδέ</span> and combination with
+				<span class="alpheios-lex-greek" lang="grc">οὐ</span>: </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>I.</b> in Relat. as well as antec. clause, 
+				“<span class="alpheios-lex-greek" lang="grc">ὥσπερ οὐδ᾽ ηὔχετο, οὐδ᾽ ᾤετο</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Alc.</u>
+					2.141a
+				</span></i>
+			, cf. <i><span class="en">
+				X.
+				<u>Cyr.</u>
+				1.6.18
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<span class="alpheios-lex-greek" lang="grc">οὐ γὰρ οὐδέ</span>, as 
+				“<span class="alpheios-lex-greek" lang="grc">ἀλλ᾽ οὐ γὰρ οὐ. νουθετεῖν ἔξεστί σε</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					595
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Aj.</u>
+				1242
+			</span></i>, <i><span class="en">
+				<u>OT</u>
+				287
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">οὐ. γὰρ οὐ</span>. <i><span class="en">
+				Il.
+				5.22
+			</span></i>, <i><span class="en">
+				6.130
+			</span></i>, <i><span class="en">
+				Od.
+				8.32
+			</span></i>, <i><span class="en">
+				Hdt.
+				4.16
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">οὐ. μὲν οὐ</span>. <i><span class="en">
+				Il.
+				2.703
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">οὐ μὰν οὐ</span>. <i><span class="en">
+				23.441
+			</span></i>, etc.; cf. <span class="alpheios-lex-greek" lang="grc">οὐ</span> c.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

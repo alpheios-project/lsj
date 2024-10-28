@@ -1,0 +1,630 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n50284" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἱκνέομαι</span></b> , lengthd. form of <span class="alpheios-lex-greek" lang="grc">ἵκω</span> (q. v.), <span class="alpheios-lex-greek" lang="grc">ἱκάνω</span>, wh. are the Homeric forms of the pres.
+		(exc. <span class="alpheios-lex-greek" lang="grc">ἱκνεύμεναι, ἱκνεύμεσθα</span>, <i><span class="en">
+			Od.
+			9.128
+		</span></i>, <i><span class="en">
+			24.339
+		</span></i>), first in <i><span class="en">
+			Alc.
+			98
+		</span></i> (s. v.l.): impf.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">ἱκνεῖτο</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					970
+				</span></i>
+			: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἵξομαι</span>”
+				 <i><span class="en">
+					Il.
+					6.502
+				</span></i>
+			, <i><span class="en">
+				Parm.
+				3.2
+			</span></i>, <i><span class="en">
+				A.
+				<u>Supp.</u>
+				159
+			</span></i> (lyr.); 
+				Dor.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἱξοῦμαι</span>”
+				 <i><span class="en">
+					<u>AP</u>
+					9.341
+				</span></i>
+			 (<i><span class="en">
+				Glauc.
+			</span></i>): aor. 2
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἱκόμην</span>”
+				 <i><span class="en">
+					Il.
+					8.149
+				</span></i>
+			, etc.; inf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἴκεσθαι</span>”
+				 <i><span class="en">
+					Sapph.
+					<u>Supp.</u>
+					1.2
+				</span></i>
+			 [<span class="alpheios-lex-greek" lang="grc">ῐ</span>, exc. when
+			lengthd. by the augm.]; for part.
+			<span class="alpheios-lex-greek" lang="grc">ἴκμενος</span>
+			v. sub voce: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἷγμαι</span>”
+				 <i><span class="en">
+					S.
+					<u>Tr.</u>
+					229
+				</span></i>
+			, part.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἱγμένος</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ph.</u>
+					494
+				</span></i>
+			: non-thematic aor. 2
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἷκτο</span>”
+				 <i><span class="en">
+					Hes.
+					<u>Th.</u>
+					481
+				</span></i>
+			, [<i><span class="en">
+				Simon.
+			</span></i>] <i><span class="en">
+				179.4
+			</span></i>, <i><span class="en">
+				Euph.
+				2
+			</span></i>: (<span class="alpheios-lex-greek" lang="grc">ἀφικνέομαι</span> is used in
+			early Prose, exc. in signf. <i><span class="en">
+				111
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἵκοντο</span> is f.l. in
+			<i><span class="en">
+				Th.
+				5.40
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ἵκηται</span> is a poet.
+			reminiscence in <i><span class="en">
+				Pl.
+				<u>Phdr.</u>
+				276d
+			</span></i>; but <span class="alpheios-lex-greek" lang="grc">ἵκετο</span> is found in
+				<i><span class="en">
+				Hdt.
+				1.216
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἵκηται</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Loc.Hom.</u>
+					47
+				</span></i>
+			; also in later Prose, <i><span class="en">
+				Luc.
+				<u>Salt.</u>
+				5
+			</span></i>, <i><span class="en">
+				<u>DDeor.</u>
+				6.4
+			</span></i>, <i><span class="en">
+				Procop.
+				<u>Pers.</u>
+				1.4
+			</span></i>, <i><span class="en">
+				2.21
+			</span></i>):—<i>come</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">αἶψα δ᾽ ἵκοντο</span>”
+				 <i><span class="en">
+					Il.
+					18.532
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ὁπότε Κρήτηθεν ἵκοιτο</span>
+			when he <i>came</i> to us . . , <i><span class="en">
+				3.233
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὑπότροπον οἴκαδ᾽ ἱ</span>.
+				<i><span class="en">
+				Od.
+				22.35
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐς χῶρον</span>”
+				 <i><span class="en">
+					Il.
+					4.446
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ νῆας</span>”
+				 <i><span class="en">
+					6.69
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ λειμῶνα</span>”
+				 <i><span class="en">
+					Od.
+					24.13
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς γούνατα</span>”
+				 <i><span class="en">
+					Hes.
+					<u>Th.</u>
+					460
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὑπὸ πτόλιν</span>”
+				 <i><span class="en">
+					Il.
+					11.182
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς ὁμόν</span>”
+				 <i><span class="en">
+					Parm.
+					8.46
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς ὁμοῖον</span>”
+				 <i><span class="en">
+					Emp.
+					62.6
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τυῖδ᾽ ἴκεσθαι</span>”
+				 <i><span class="en">
+					Sapph.
+				</span></i>
+			 l.c.: freq. in <i><span class="en">
+				Hom.
+			</span></i>, c. acc., <i>arrive at</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἵκετο νῆας</span>”
+				 <i><span class="en">
+					Il.
+					8.149
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τέλος ἵκεο μύθων</span>”
+				 <i><span class="en">
+					9.56
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οἶκον . . καὶ σὴν ἐς πατρίδα γαῖαν</span>”
+				 <i><span class="en">
+					Od.
+					23.258
+				</span></i>
+			; later 
+				“<span class="alpheios-lex-greek" lang="grc">ἱκέσθαι γαῖαν</span>”
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					4.118
+				</span></i>
+			 codd.; 
+				“<span class="alpheios-lex-greek" lang="grc">βένθος</span>”
+				 <i><span class="en">
+					Emp.
+					35.3
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄλσος</span>”
+				 <i><span class="en">
+					A.
+					<u>Supp.</u>
+					556
+				</span></i>
+			 (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">στέγας</span>”
+				 <i><span class="en">
+					S.
+					<u>OT</u>
+					534
+				</span></i>
+			, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>reach, attain to</i>, <span class="alpheios-lex-greek" lang="grc">ποσὶν οὖδας
+			ἱ</span>. <i><span class="en">
+				Od.
+				8.376
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ἵκετο χρόα καλόν</span>,
+			of a spear, <i><span class="en">
+				Il.
+				11.352
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ὀστέον ἵκετο</span>”
+				 <i><span class="en">
+					Od.
+					19.451
+				</span></i>
+			 (v. <span class="alpheios-lex-greek" lang="grc">ὑπερίημι</span>); so of
+			things, <span class="alpheios-lex-greek" lang="grc">ἠχή, καπνὸς αἰθέρ᾽ ἱ.</span>,
+				<i><span class="en">
+				Il.
+				13.837
+			</span></i>, <i><span class="en">
+				18.207
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔμπης ἐς γαῖάν τε καὶ οὐρανὸν
+					ἵκετ᾽ ἀϋτμή</span>”
+				 <i><span class="en">
+					14.174
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐς πόλιν ἵκετ᾽ ἀϋτή</span>”
+				 <i><span class="en">
+					Od.
+					14.265
+				</span></i>
+			; of Time, <span class="alpheios-lex-greek" lang="grc">ἥβης μέτρον</span> or
+				<span class="alpheios-lex-greek" lang="grc">ἥβην ἱ</span>., <i><span class="en">
+				Il.
+				11.225
+			</span></i>, <i><span class="en">
+				24.728
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">γήραος οὐδόν</span>”
+				 <i><span class="en">
+					Od.
+					15.246
+				</span></i>
+			; so 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ γῆρας</span>”
+				 <i><span class="en">
+					8.227
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἠῶ ἱ</span>. <i>live till</i>
+			morn, <i><span class="en">
+				17.497
+			</span></i>; also <span class="alpheios-lex-greek" lang="grc">ὀλέθρου πείραθ᾽ ἱ</span>.
+				<i><span class="en">
+				Il.
+				6.143
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">λέκτροιο παλαιοῦ θεσμὸν ἵκοντο</span>”
+				 <i><span class="en">
+					Od.
+					23.296
+				</span></i>
+			, cf. <i><span class="en">
+				354
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">θίλην ἐπὶ γένναν ἵ</span>.
+				<i><span class="en">
+				Emp.
+				110.9
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐς ἄπειρον</span>”
+				 <i><span class="en">
+					Xenoph.
+					28
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐς τὸ τυθῆναι</span>”
+				 <i><span class="en">
+					Hdt.
+					1.216
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς τὸ λήθης γῆρας</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Phdr.</u>
+				</span></i>
+			 l.c.:—in various phrases, <span class="alpheios-lex-greek" lang="grc">ἱ.
+				μετὰ κλέος</span>
+			<i>come</i> in quest of glory, <i><span class="en">
+				Il.
+				11.227
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἐς χεῖρας ἱ</span>.
+			<i>come</i> into one's power, <i><span class="en">
+				10.448
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὅ τι χεῖρας ἵκοιτο</span>
+			whatever <i>came</i> to hand, <i><span class="en">
+				Od.
+				12.331
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἱ. ἐς γενεάν τινος</span> into
+			his family, <i><span class="en">
+				Pi.
+				<u>N.</u>
+				10.14
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἐς λόγους τοὺς σοὺς ἱ</span>.
+			to speak with thee, <i><span class="en">
+				S.
+				<u>El.</u>
+				315
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἐνθάδ᾽ ἵξομαι</span>
+			<i>shall come</i> to this <i>at last</i>, <i><span class="en">
+				Id.
+				<u>Aj.</u>
+				1365
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἤν ποτε δασμὸς ἵκηται</span>
+			if ever a division <i>come about</i>, <i><span class="en">
+				Il.
+				1.166
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> with a
+			person as object, <span class="alpheios-lex-greek" lang="grc">τινα</span> ib.<i><span class="en">
+				139
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔς τινα</span>”
+				 <i><span class="en">
+					Od.
+					6.176
+				</span></i>
+			; but also, <i>come to</i> his <i>house</i>, <i><span class="en">
+				20.372
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">Πηλεΐωνάδ᾽ ἵ</span>. <i>to
+				the hut</i> of the son of P., <i><span class="en">
+				Il.
+				24.338
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">μετὰ Τρῶας ἱ</span>. <i><span class="en">
+				3.264
+			</span></i>: rarely c. dat., <span class="alpheios-lex-greek" lang="grc">ἐπειγομένοισι δ᾽
+				ἵκοντο</span>
+			<i>came to</i> them at need, <i><span class="en">
+				12.374
+			</span></i>; cf. 
+				“<span class="alpheios-lex-greek" lang="grc">ἱκάνω</span>”
+				 <i><span class="en">
+					11
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> of suffering,
+			desire, anger, etc., <i>come upon</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">Ἀχιλλῆος ποθὴ ἵξεται υἷας Ἀχαιῶν</span>”
+				 <i><span class="en">
+					Il.
+					1.240
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τί σε φρένας ἵκετο
+			πένθος</span>; ib.<i><span class="en">
+				362
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ὅν τιν᾽ ἵκηται ἄλη καὶ πῆμα καὶ
+					ἄλγος</span>”
+				 <i><span class="en">
+					Od.
+					15.345
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὁππότε μιν κάματός τε καὶ ἱδρὼς
+					γούναθ᾽ ἵκοιτο</span>”
+				 <i><span class="en">
+					Il.
+					13.711
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἅδος, σέβας ἵ. τινα
+			θυμόν</span>, <i><span class="en">
+				11.88
+			</span></i>, <i><span class="en">
+				18.178
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">με ἵ. ἄχος κραδίην</span>”
+				 <i><span class="en">
+					23.47
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>approach as suppliant</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τὴν ἱκόμην φεύγων</span>”
+				 <i><span class="en">
+					14.260
+				</span></i>
+			, cf. <i><span class="en">
+				22.123
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ σὰ γοῦνα ἱκόμεθ᾽</span>”
+				 <i><span class="en">
+					Od.
+					9.267
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">θεοὺς προστροπαῖς ἱκνουμένη</span>”
+				 <i><span class="en">
+					A.
+					<u>Pers.</u>
+					216
+				</span></i>
+			 (troch.); 
+				“<span class="alpheios-lex-greek" lang="grc">Ζῆνα . . ἱξόμεσθα σὺν κλάδοις</span>”
+				 <i><span class="en">
+					Id.
+					<u>Supp.</u>
+					159
+				</span></i>
+			 (lyr.); [<span class="alpheios-lex-greek" lang="grc">θεὸν] θυέεσσιν ἱκνεῖσθαι</span>
+			<i>approach</i> a god with offerings and prayer, <i><span class="en">
+				Theoc.
+				<u>Ep.</u>
+				8.3
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Poet. in
+				pres., <i>supplicate, beseech</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τάσδε τὰς θεὰς καλῶν ἱκνοῦμαι</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					1011
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">καί σε πρὸς τοῦ σοῦ τέκνου καὶ θεῶν
+					ἱκνοῦμαι μή . . </span>”
+				 <i><span class="en">
+					Id.
+					<u>Aj.</u>
+					588
+				</span></i>
+			, cf. <i><span class="en">
+				<u>OC</u>
+				275
+			</span></i>, <i><span class="en">
+				<u>Ph.</u>
+				470
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ταύτης ἱκνοῦμαί ς</span>'
+				<i><span class="en">
+				E.
+				<u>Or.</u>
+				671
+			</span></i>: c. inf., 
+				“<span class="alpheios-lex-greek" lang="grc">πάντες σ᾽ ἱκνοῦνται . . θάψαι νεκρούς</span>”
+				 <i><span class="en">
+					Id.
+					<u>Supp.</u>
+					130
+				</span></i>
+			: freq. parenthetic, <i><span class="en">
+				S.
+				<u>Ph.</u>
+				932
+			</span></i>, <i><span class="en">
+				<u>El.</u>
+				136
+			</span></i> (lyr.), <i><span class="en">
+				Ar.
+				<u>Ec.</u>
+				958
+			</span></i>, <i><span class="en">
+				Tim.
+				<u>Pers.</u>
+				139
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			pres. and impf., <i>it becomes, befits,
+				pertains to</i>, c. acc. et inf., 
+				“<span class="alpheios-lex-greek" lang="grc">φαμὲν ἡμέας ἱκνέεσθαι ἡγεμονεύειν</span>”
+				 <i><span class="en">
+					Hdt.
+					9.26
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τοὺς μάλιστα ἱκνέεται</span>
+			(sc. <span class="alpheios-lex-greek" lang="grc">κεκάρθαι</span>) <i><span class="en">
+				Id.
+				2.36
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἱκνέεται</span>
+			<i>it is usual</i> that . . , <i><span class="en">
+				Hp.
+				<u>Art.</u>
+				63
+			</span></i>; later, not impers., 
+				“<span class="alpheios-lex-greek" lang="grc">οὗ ἡ ἱερουργία ἱκνεῖτο</span>”
+				 <i><span class="en">
+					D.C.
+					<u>Fr.</u>
+					25.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὅ[σα τᾶς δίκας ἱ] κνεῖται</span>”
+				 <i><span class="en">
+					<u>SIG</u>
+					953.46
+				</span></i>
+			
+			 (Cnidos, <span class="entity">ii B.C.</span>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<span class="alpheios-lex-greek" lang="grc">αὐτὸς καὶ ὧν ἱκνεῖται</span>, of a
+			man and <i>those to whom he belongs</i>, i.e. his family, ib.<i><span class="en">
+				46.25
+			</span></i>, al. (Halic.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			freq. in part., <span class="alpheios-lex-greek" lang="grc">τὸ ἱκνεύμενον</span>
+			<i>that which is fitting, proper</i>, <i><span class="en">
+				Hdt.
+				6.84
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὁ ἱ.</span>, with or without
+				<span class="alpheios-lex-greek" lang="grc">χρόνος</span>, <i>the fit,
+			proper</i> time, <i><span class="en">
+				Hp.
+			</span></i><i>Aër.</i><i><span class="en">
+				7
+			</span></i>, <i><span class="en">
+				Hdt.
+				6.86
+			</span></i>.<span class="alpheios-lex-greek" lang="grc">ά; ἐν ἱκνουμένᾳ
+			ἁμέρᾳ</span> Orac. ap. <i><span class="en">
+				D.
+				43.66
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὸ ἱ. ἀνάλωμα</span>
+			<i>the quota</i> of expense, <i><span class="en">
+				Th.
+				1.99
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ τοὺς ἱ. χρόνους</span>”
+				 <i><span class="en">
+					Arist.
+					<u>GA</u>
+					750b13
+				</span></i>
+			 (also of <i>the latter days</i>, <i><span class="en">
+				D.H.
+				1.66
+			</span></i>); 
+				“<span class="alpheios-lex-greek" lang="grc">ἱ. καιροί</span>”
+				 <i><span class="en">
+					Thphr.
+					<u>CP</u>
+					1.13.3
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ -ούμενα μεγέθη</span>”
+				 <i><span class="en">
+					Arist.
+					<u>GA</u>
+					772a8
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ ἱ. ἐπιστήμη</span>”
+				 <i><span class="en">
+					Id.
+					<u>Pol.</u>
+					1288b16
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τῆς ἱ. ἡλικίας τυχεῖν</span>
+				ib.<i><span class="en">
+				1332b41
+			</span></i>; also <span class="alpheios-lex-greek" lang="grc">ἱκνούμεναι ἀποδείξεις</span>
+			<i>convincing</i> proofs, <i><span class="en">
+				Phld.
+				<u>Piet.</u>
+				79
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οὐδὲν εἴρηται ἱ</span>. <i><span class="en">
+				S.E.
+				<u>M.</u>
+				1.205
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">λόγος τινὶ ἱκνούμενος</span>
+			<i>favourable</i>, <i><span class="en">
+				<u>SIG</u>
+				679.77
+			</span></i> (<i><span class="en">
+				Magn.
+			</span></i> Mae., <span class="entity">ii B.C.</span>). Adv.
+			<span class="alpheios-lex-greek" lang="grc">ἱκνουμένως</span>, 
+				Ion.
+			
+			<span class="alpheios-lex-greek" lang="grc">-ευμένως</span>, <i>fittingly,
+			aright</i>, <i><span class="en">
+				Hdt.
+				6.65
+			</span></i>, <i><span class="en">
+				Hp.
+				<u>Mul.</u>
+				2.135
+			</span></i>, <i><span class="en">
+				M.Ant.
+				5.12
+			</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

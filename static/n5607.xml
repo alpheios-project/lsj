@@ -1,0 +1,429 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n5607" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἀμύνω</span></b> 
+		<span class="alpheios-lex-greek" lang="grc">[ῡ]</span>, 
+			Ep.
+		
+		impf.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">ἄμῡνον</span>”
+				 <i><span class="en">
+					Il.
+					15.731
+				</span></i>
+			: fut.
+			<span class="alpheios-lex-greek" lang="grc">ἀμῠνῶ,</span>
+			
+				Ion.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">-ῠνέω</span>”
+				 <i><span class="en">
+					Hdt.
+					9.60
+				</span></i>
+			, 3pl.
+			<span class="alpheios-lex-greek" lang="grc">-εῦσι</span> ib.<i><span class="en">
+				6
+			</span></i>: aor. 1
+			<span class="alpheios-lex-greek" lang="grc">ἤμῡνα,</span>
+			
+				Ep.
+			
+			<span class="alpheios-lex-greek" lang="grc">ἄμυνα <span class="alpheios-lex-greek" lang="grc">[ᾰμ]</span></span>
+			<i><span class="en">
+				Il.
+				17.615
+			</span></i>: aor. 2, 
+				v.
+				<span class="alpheios-lex-greek" lang="grc">ἀμυνάθω</span>
+			:—
+				Med.
+			, 
+				Ep.
+			
+			impf.
+			<span class="alpheios-lex-greek" lang="grc">ἀμυνόμην</span> ib.<i><span class="en">
+				13.514
+			</span></i>: fut.
+			<span class="alpheios-lex-greek" lang="grc">ἀμυνοῦμαι</span>: aor. 1
+			<span class="alpheios-lex-greek" lang="grc">ἠμυνάμην</span>: aor. 2, 
+				v.
+				<span class="alpheios-lex-greek" lang="grc">ἀμυνάθω</span>
+			:—
+				Pass.
+			 rare (v. infr. c):—<i>keep off, ward off,</i>
+			<i><span class="en">
+				Hom.
+			</span></i>, mostly in <i><span class="en">
+				Il.
+			</span></i>—Construction: </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> c.acc. of the person or thing <i>to be kept off,</i> c.
+			dat. pers. <i>for</i> or <i>from whom</i> danger averted,
+				<span class="alpheios-lex-greek" lang="grc">Δαναοῖσιν λοιγὸν ἄμυνον</span>
+			<i>ward off</i> ruin <i>from</i> the Danai, <i><span class="en">
+				Il.
+				1.456
+			</span></i>, cf. <i><span class="en">
+				341
+			</span></i>, <i><span class="en">
+				Od.
+				8.525
+			</span></i>:—dat. freq. omitted, 
+				“<span class="alpheios-lex-greek" lang="grc">ὃς λοιγὸν ἀμύνει</span>”
+				 <i><span class="en">
+					Il.
+					5.603
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄ. τὸν βάρβαρον</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					692e
+				</span></i>
+			, cf.<i><span class="en">
+				<u>AB</u>
+				79
+			</span></i>. b. c. dat. only, <i>defend, aid, succour,</i>
+			<span class="alpheios-lex-greek" lang="grc">ἀ. ὤρεσσι, σοῖσιν ἔτῃσι,</span>
+			<i><span class="en">
+				Il.
+				5.486
+			</span></i>, <i><span class="en">
+				6.262
+			</span></i>, cf. <i><span class="en">
+				Od.
+				11.500
+			</span></i>, <i><span class="en">
+				Hdt.
+				8.87
+			</span></i>, <i><span class="en">
+				9.6
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">τοιαῦτ᾽ ἀμύνεθ᾽
+			Ἡρακλεῖ</span> such <i>aid ye give</i> to H., <i><span class="en">
+				E.
+				<u>HF</u>
+				219
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀ. τῇ πόλει, τῷ δήμῳ,</span>
+			<i><span class="en">
+				Ar.
+				<u>Eq.</u>
+				577
+			</span></i>,<i><span class="en">
+				790
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τῷ νόμῳ</span>”
+				 <i><span class="en">
+					E.
+					<u>Or.</u>
+					523
+				</span></i>
+			, <i><span class="en">
+				Th.
+				3.67
+			</span></i>:—with inf. added, <span class="alpheios-lex-greek" lang="grc">τοῖς μὲν οὐκ ἠμύνατε σωθῆναι</span> so
+			that they might be saved, <i><span class="en">
+				Th.
+				6.80
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> c. acc. et
+			gen., <span class="alpheios-lex-greek" lang="grc">Τρῶας ἄμυνε νεῶν</span>
+			<i>he kept</i> the Trojans <i>off from</i> the ships, <i><span class="en">
+				Il.
+				15.731
+			</span></i>, cf.<i><span class="en">
+				4.11
+			</span></i>, <i><span class="en">
+				12.402
+			</span></i>. b. c. gen. only, <span class="alpheios-lex-greek" lang="grc">ἀ. νηῶν</span>
+			<i>defend</i> the ships, ib.<i><span class="en">
+				13.109
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> abs.,
+				<i>succour,</i>
+			<span class="alpheios-lex-greek" lang="grc">χεῖρες ἀμύνειν</span> hands <i>to
+			aid,</i> ib.<i><span class="en">
+				814
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀμύνειν εἰσὶ καὶ
+			ἄλλοι</span> ib.<i><span class="en">
+				312
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ὦ ξυνδικασταί . . ἀμύνατε</span>”
+				<i>help!</i>
+				 <i><span class="en">
+					Ar.
+					<u>V.</u>
+					197
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ ἀμυνεῦντα</span>”
+				<i>means of defence,</i>
+				 <i><span class="en">
+					Hdt.
+					3.155
+				</span></i>
+			: c. dat. modi, <span class="alpheios-lex-greek" lang="grc">δθένει ἀ.</span>
+			<i>defend</i> with might, <i><span class="en">
+				Il.
+				13.678
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> with Preps.,
+			once in <i><span class="en">
+				Hom.
+			</span></i> with <span class="alpheios-lex-greek" lang="grc">περί, ἀμυνέμεναι περὶ
+				Πατρόκλοιο</span> (cf. <i><span class="en">
+				B.
+				1.3
+			</span></i>) ib.<i><span class="en">
+				17.182
+			</span></i>; in Prose, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. ὑπὲρ τῆς Ἑλλάδος</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					692d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. πρὸ πάντων</span>”
+				 <i><span class="en">
+					Plb.
+					6.6.8
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> less freq.
+				like
+			<i><span class="en">
+				B.
+				11
+			</span></i>, <i>requite, repay,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔργ᾽ ἀμύνουσιν κακά</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					602
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμύνειν . . τοῖσδε τοῖς λόγοις τάδε</span>”
+				 <i><span class="en">
+					Id.
+					<u>OC</u>
+					1128
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>B.</b>
+			
+				Med.
+			, <i>keep</i> or <i>ward off from oneself, guard</i>
+			or <i>defend oneself against,</i> freq. with collat. notion of
+				<i>requital, revenge:</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> c. acc. rei, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμύνετο νηλεὲς ἦμαρ</span>”
+				 <i><span class="en">
+					Il.
+					13.514
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμύνεσθαι μόρον</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					1381
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ δυστυχὲς γὰρ ηὑγένει᾽ ἀμύνεται</span>”
+				 <i><span class="en">
+					E.
+					<u>Heracl.</u>
+					303
+				</span></i>
+			, cf. <i><span class="en">
+				S.
+				<u>Fr.</u>
+				1004
+			</span></i>. b. c.acc. pers., 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. τὴν Δαρείου στρατιήν</span>”
+				 <i><span class="en">
+					Hdt.
+					3.158
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐκεῖνον ἠμύναντο</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					589
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> that from which
+			danger is warded off in gen., as in 
+				Act.
+			<i><span class="en">
+				1.2
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμυνόμενοι σφῶν αὐτῶν</span>”
+				 <i><span class="en">
+					Il.
+					12.155
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">νηῶν ἠμύνοντο</span> ib.<i><span class="en">
+				179
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> with Preps.,
+				<span class="alpheios-lex-greek" lang="grc">ἀμύνεσθαι περὶ πάτρης</span>
+				ib.<i><span class="en">
+				243
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">περὶ τῶν οἰκείων</span>”
+				 <i><span class="en">
+					Th.
+					2.39
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὑπέρ τινος</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyn.</u>
+					9.9
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> abs.,
+				<i>defend oneself, act in self-defence,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἀμύνεσθαι φίλον ἔστω</span>”
+				 <i><span class="en">
+					Il.
+					16.556
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἢν συλλαμβανόμενος ἀμύνηται</span>”
+				 <i><span class="en">
+					Hdt.
+					1.80
+				</span></i>
+			, cf. <i><span class="en">
+				4.174
+			</span></i>,al.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀλλ᾽ ἀμύνου</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Eq.</u>
+					244
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ ἄρξαντος καὶ οὐ τοῦ ἀμυνομένου</span>”
+				 <i><span class="en">
+					Antipho
+					44.8
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ἀμυνόμενος ἀλλ᾽ ὑπάρχων</span>”
+				 <i><span class="en">
+					Isoc.
+					16.44
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>Grg.</u>
+				456e
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">κακῶς πάσχοντα ἀ. ἀντιδρῶντα κακῶς</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Cri.</u>
+					49d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἂν ᾖ χαρίεις, ἀ. εὖ δρῶν</span>”
+				 <i><span class="en">
+					Arist.
+					<u>EN</u>
+					1162b10
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> after <i><span class="en">
+				Hom.
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ἀ. τινά</span>
+			<i>avenge oneself on</i> an enemy: hence, <i>requite, repay,</i>
+			<i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				1428
+			</span></i>, etc.: freq. c. dat. instr., 
+				“<span class="alpheios-lex-greek" lang="grc">ἔργοις πεπονθὼς ῥήμασίν σ᾽ ἀμύνομαι</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					873
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. τινὰ σιδήρῳ</span>”
+				 <i><span class="en">
+					Antipho
+					4.2.2
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τοῖς ὁμοίοις, ἀρετῇ,</span>
+			<i><span class="en">
+				Th.
+				1.42
+			</span></i>, <i><span class="en">
+				4.63
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ὠμότητα ὠμότητι</span>”
+				 <i><span class="en">
+					D.S.
+					14.53
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἀ. τινὰς ὑπέρ τινος</span> to
+			punish <i>for</i> a thing, <i><span class="en">
+				Th.
+				5.69
+			</span></i>; good sense, <i><span class="en">
+				Simon.
+				229
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. ὁμοίως εὖ παθόντα, ὥσπερ κακῶς</span>”
+				 <i><span class="en">
+					Socr.
+				</span></i>
+			 ap. <i><span class="en">
+				Arist.
+				<u>Rh.</u>
+				1398a25
+			</span></i>: abs., <i>retaliate,</i> c. dat. instr., 
+				“<span class="alpheios-lex-greek" lang="grc">ταῖς ναυσίν</span>”
+				 <i><span class="en">
+					Th.
+					1.142
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. ὧν ἔπαθον</span>”
+				 <i><span class="en">
+					1.96
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>C.</b> very rarely 
+				Pass.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμύνονται ἆται</span>”
+				<i>are warded off,</i>
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					11.54
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμυνέσθω</span>”
+				<i>let him be driven away,</i>
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					845c
+				</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

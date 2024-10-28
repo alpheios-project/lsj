@@ -1,0 +1,534 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n20621" body-key=""><b><span class="alpheios-lex-greek" lang="grc">βούλομαι</span></b>  (
+			Ep.
+		 also <b><span class="alpheios-lex-greek" lang="grc">βόλομαι</span></b> , q.
+		v.), 
+			Dor.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">βώλ-</span></b>  (q. v.), 
+			Aeol.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">βόλλ-</span></b>  (v. <span class="alpheios-lex-greek" lang="grc">βόλομαι</span>), Thess. <b><span class="alpheios-lex-greek" lang="grc">βέλλ-</span></b> 
+		<i><span class="en">
+			<u>IG</u>
+			9(2).517.20
+		</span></i>, 
+			Boeot.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">βείλ-</span></b>  ib.<i><span class="en">
+			7.3080
+		</span></i>, <b><span class="alpheios-lex-greek" lang="grc">βήλ-</span></b> 
+		<i><span class="en">
+			<u>SIG</u>
+			1185.18
+		</span></i> (Tanagra, <span class="entity">iii B. C.</span>), 
+			Locr.
+		and Delph. <b><span class="alpheios-lex-greek" lang="grc">δείλ-</span></b> 
+		<i><span class="en">
+			<u>IG</u>
+			9(1).334.3
+		</span></i>, <i><span class="en">
+			<u>GDI</u>
+			2034.10
+		</span></i>, Coan, etc. <b><span class="alpheios-lex-greek" lang="grc">δήλ-</span></b>  (q.
+		v.), 
+			Ion.
+		
+		2sg.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">βούλεαι</span>”
+				 <i><span class="en">
+					Od.
+					18.364
+				</span></i>
+			, <i><span class="en">
+				Hdt.
+				1.11
+			</span></i>: impf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐβουλόμην</span>”
+				 <i><span class="en">
+					Il.
+					11.79
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἠβουλόμην</span>”
+				 <i><span class="en">
+					E.
+					<u>Hel.</u>
+					752
+				</span></i>
+			, <i><span class="en">
+				D.
+				1.15
+			</span></i>, etc.; 
+				Ion.
+			
+			3pl.
+			<span class="alpheios-lex-greek" lang="grc">ἐβουλέατο</span> codd. in <i><span class="en">
+				Hdt.
+				1.4
+			</span></i>, <i><span class="en">
+				3.143
+			</span></i>: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">βουλήσομαι</span>”
+				 <i><span class="en">
+					A.
+					<u>Pr.</u>
+					867
+				</span></i>
+			, <i><span class="en">
+				S.
+				<u>OT</u>
+				1077
+			</span></i>, etc.; later fut.
+			<span class="alpheios-lex-greek" lang="grc">βουληθήσομαι</span>
+			v.l. in
+			<i><span class="en">
+				Aristid.
+				<u>Or.</u>
+				48(24).8
+			</span></i>, <i><span class="en">
+				Gal.
+				13.636
+			</span></i>: aor.
+			<span class="alpheios-lex-greek" lang="grc">ἐβουλήθην</span>, also <span class="alpheios-lex-greek" lang="grc">ἠβ-</span> (v. infr.), 
+				“<span class="alpheios-lex-greek" lang="grc">βουληθείς</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					732
+				</span></i>
+			, <i><span class="en">
+				<u>IG</u>
+				22.1236
+			</span></i>, etc., but 
+				Ep.
+			
+			aor.
+			subj.
+			3sg.
+			<span class="alpheios-lex-greek" lang="grc">βούλεται</span> (from <span class="alpheios-lex-greek" lang="grc">Βόλσ-ε-ται</span>) <i><span class="en">
+				Il.
+				1.67
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">βεβούλημαι</span>”
+				 <i><span class="en">
+					D.
+					18.2
+				</span></i>
+			; also <span class="alpheios-lex-greek" lang="grc">βέβουλα </span>(<span class="alpheios-lex-greek" lang="grc">προ-</span>) <i><span class="en">
+				Il.
+				1.113
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">ἐβέβουλε</span> dub. in Epigr.
+			in <i><span class="en">
+				<u>Berl.Sitzb.</u>
+				1894.907
+			</span></i>):— forms with augm. <span class="alpheios-lex-greek" lang="grc">ἠ-</span> are found in 
+				Att.
+			 Inscrr. from <i><span class="en">
+				300
+			</span></i> B.C. onwards, as <i><span class="en">
+				<u>IG</u>
+				22.657
+			</span></i>, al., and occur frequently in Mss. as <span class="alpheios-lex-greek" lang="grc">ἠβούλοντο</span>
+			v.l.in
+			<i><span class="en">
+				Th.
+				2.2
+			</span></i>, <i><span class="en">
+				6.79
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἠβούλου</span>”
+				 <i><span class="en">
+					Hyp.
+					<u>Lyc.</u>
+					11
+				</span></i>
+			; said to be Ionic in <i><span class="en">
+				<u>An.Ox.</u>
+				2.374
+			</span></i>.— An 
+				Act.
+			
+			<span class="alpheios-lex-greek" lang="grc">βούλητε </span>( 
+				=
+				<span class="alpheios-lex-greek" lang="grc">βούλησθε</span>
+			) Mitteis <i><span class="en">
+				<u>Chr.</u>
+				361.10
+			</span></i>
+			<span class="entity">(iv A. D.)</span>:—<i>will, wish, be willing</i>, <i><span class="en">
+				Hom.
+			</span></i>, etc.: usu. implying choice or preference (cf. IV) opp.
+				<span class="alpheios-lex-greek" lang="grc">ἐθέλω</span> 'consent', 
+				“<span class="alpheios-lex-greek" lang="grc">εἰ βούλει, ἐγὼ ἐθέλω</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Grg.</u>
+					522e
+				</span></i>
+			, cf. <i><span class="en">
+				<u>R.</u>
+				347b
+			</span></i>, <i><span class="en">
+				437b
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐὰν βούλῃ σὺ . . ἐὰν θεὸς ἐθέλῃ</span>”
+				 <i><span class="en">
+					Id.
+					<u>Alc.</u>
+					1.135d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἂν οἵ τε θεοὶ ᾽θέλωσι καὶ ὑμεῖς
+					βούλησθε</span>”
+				 <i><span class="en">
+					D.
+					2.20
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὔτ᾽ ἀκούειν ἠθέλετ᾽ οὔτε πιστεύειν
+					ἐβούλεσθε</span>”
+				 <i><span class="en">
+					Id.
+					19.23
+				</span></i>
+			; but <span class="alpheios-lex-greek" lang="grc">ἐθέλω</span> is also used
+				= 'wish', <span class="alpheios-lex-greek" lang="grc">λέξαι θέλω σοι,
+				πρὶν θανεῖν, ἃ βούλομαι</span>, <i><span class="en">
+				E.
+				<u>Alc.</u>
+				281
+			</span></i> (so 
+				“<span class="alpheios-lex-greek" lang="grc">ἐθέλω εἰπεῖν</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Prt.</u>
+					309b
+				</span></i>
+			, but 
+				“<span class="alpheios-lex-greek" lang="grc">φράσαι τι βούλομαι</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					1090
+				</span></i>
+			): <i><span class="en">
+				Hom.
+			</span></i> uses <span class="alpheios-lex-greek" lang="grc">βούλομαι</span> for <span class="alpheios-lex-greek" lang="grc">ἐθέλω</span> in the case of the gods, for with
+			them <i>wish is will</i>: <span class="alpheios-lex-greek" lang="grc">ἐθέλω</span>
+			is more general, and is sts. used where <span class="alpheios-lex-greek" lang="grc">βούλομαι</span> might have stood, e.g. <i><span class="en">
+				Il.
+				7.182
+			</span></i>.—Construct.: mostly c. inf., 
+				“<span class="alpheios-lex-greek" lang="grc">Τρώεσσιν ἐβούλετο κῦδος ὀρέξαι</span>”
+				 <i><span class="en">
+					11.79
+				</span></i>
+			, etc.; sts. c. inf.
+			fut., <i><span class="en">
+				Thgn.
+				184
+			</span></i>; c. acc. et inf., <i><span class="en">
+				Od.
+				4.353
+			</span></i>, and freq. in Prose: when <span class="alpheios-lex-greek" lang="grc">βούλομαι</span> is folld. by acc. only, an inf.
+			may generally be supplied, as <span class="alpheios-lex-greek" lang="grc">καί κε τὸ
+				βουλοίμην</span> (sc. <span class="alpheios-lex-greek" lang="grc">γενέσθαι</span>) <i><span class="en">
+				Od.
+				20.316
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἔτυχεν ὧν ἐβούλετο</span>
+			(sc. <span class="alpheios-lex-greek" lang="grc">τυχεῖν</span>) <i><span class="en">
+				Antiph.
+				18.6
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">πλακοῦντα β.</span> (sc. <span class="alpheios-lex-greek" lang="grc">σε λέγειν</span>) <i><span class="en">
+				Id.
+				52.11
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">καὶ εἰ μάλα βούλεται ἄλλῃ
+				[Ποσειδάων</span>] (sc. <span class="alpheios-lex-greek" lang="grc">τοῦτο
+				γενέσθαι</span>) <i><span class="en">
+				Il.
+				15.51
+			</span></i>; so <span class="alpheios-lex-greek" lang="grc">εἰς τὸ βαλανεῖον
+			βούλομαι</span> (sc. <span class="alpheios-lex-greek" lang="grc">ἰέναι</span>)
+				<i><span class="en">
+				Ar.
+				<u>Ra.</u>
+				1279
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">βουλοίμην ἄν</span> (sc.
+				<span class="alpheios-lex-greek" lang="grc">τόδε γενέσθαι</span>) <i><span class="en">
+				Pl.
+				<u>Euthphr.</u>
+				3a
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> in <i><span class="en">
+				Hom.
+			</span></i> of gods, c. acc. rei et dat. pers., <span class="alpheios-lex-greek" lang="grc">Τρώεσσιν . . ἐβούλετο νίκην</span> he <i>willed</i>
+			victory to the Trojans, <i><span class="en">
+				Il.
+				7.21
+			</span></i>, cf. <i><span class="en">
+				23.682
+			</span></i>: later c. acc., <span class="alpheios-lex-greek" lang="grc">τὸ βουλόμενον τὴν
+				πολιτείαν πλῆθος</span>
+			<i>that supports</i> the constitution, <i><span class="en">
+				Arist.
+				<u>Pol.</u>
+				1309b17
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			
+				Att.
+			 usages: </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<span class="alpheios-lex-greek" lang="grc">βούλει</span> or <span class="alpheios-lex-greek" lang="grc">βούλεσθε</span> folld. by Verb in subj.,
+				<span class="alpheios-lex-greek" lang="grc">βούλει λάβωμαι</span>; <i>would you
+				have</i> me take hold? <i><span class="en">
+				S.
+				<u>Ph.</u>
+				761
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">βούλει φράσω</span>; <i><span class="en">
+				Ar.
+				<u>Eq.</u>
+				36
+			</span></i>, cf. <i><span class="en">
+				Pl.
+				<u>Phd.</u>
+				79a
+			</span></i>, <i><span class="en">
+				<u>R.</u>
+				596a
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ποῦ δὴ βούλει
+			ἀναγνῶμεν</span>; <i><span class="en">
+				Id.
+				<u>Phdr.</u>
+				228e
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<span class="alpheios-lex-greek" lang="grc">εἰ βούλει</span> if <i>you please</i>,
+				<i><span class="en">
+				S.
+				<u>Ant.</u>
+				1168
+			</span></i>, <i><span class="en">
+				X.
+				<u>An.</u>
+				3.4.41
+			</span></i>; also <span class="alpheios-lex-greek" lang="grc">εἰ δὲ βούλει, ἐὰν δὲ
+				βούλῃ</span>, to express a concession, or if <i>you
+			like</i>, <i><span class="en">
+				Pl.
+				<u>Smp.</u>
+				201a
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">εἰ μὲν β., φρονήσει, εἰ δὲ β., ἰσχύι</span>”
+				 <i><span class="en">
+					Id.
+					<u>R.</u>
+					432a
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<span class="alpheios-lex-greek" lang="grc">ὁ βουλόμενος</span>
+			<i>any one who likes</i>, <i><span class="en">
+				Hdt.
+				1.54
+			</span></i>, <i><span class="en">
+				Th.
+				1.26
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔδωκεν ἅπαντι τῷ βουλομένῳ</span>”
+				 <i><span class="en">
+					D.
+					21.45
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ὁ β.</span> the 'common in
+			former', <i><span class="en">
+				Ar.
+				<u>Pl.</u>
+				918
+			</span></i> (whence, in jest, <span class="alpheios-lex-greek" lang="grc">βούλομαι</span>
+				ib.<i><span class="en">
+				908
+			</span></i>); <span class="alpheios-lex-greek" lang="grc">ὅστις βούλει</span> who or
+			which ever <i>you like</i>, <i><span class="en">
+				Pl.
+				<u>Grg.</u>
+				517b
+			</span></i>, <i><span class="en">
+				<u>Cra.</u>
+				432a
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<span class="alpheios-lex-greek" lang="grc">βουλομένῳ μοί ἐστι</span>, c.
+				inf., it is <i>according to</i> my <i>wish</i>
+			that . . , <i><span class="en">
+				Th.
+				2.3
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">εἰ σοὶ β. ἐστὶν ἀποκρίνεσθαι</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Grg.</u>
+					448d
+				</span></i>
+			; also 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ θεῶν οὕτω βουλόμεν᾽ ἔσται</span>”
+				 <i><span class="en">
+					E.
+					<u>IA</u>
+					33
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τὸ κεἰνου βουλόμενον</span> his
+				<i>wish</i>, ib. <i><span class="en">
+				1270
+			</span></i>; but with pass. sense, <span class="alpheios-lex-greek" lang="grc">τὸ
+			β.</span> the <i>object of desire</i>, <i><span class="en">
+				Luc.
+				<u>Am.</u>
+				37
+			</span></i>, <i><span class="en">
+				Plu.
+				<u>Art.</u>
+				28
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<span class="alpheios-lex-greek" lang="grc">τί βουλόμενος</span>; <i>with</i> what
+				
+			<i>purpose?</i>
+			<i><span class="en">
+				Pl.
+				<u>Phd.</u>
+				63a
+			</span></i>, <i><span class="en">
+				D.
+				18.172
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τί βουληθεὶς πάρει</span>”
+				<i>;</i>
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					1100
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>mean</i>, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				362e
+			</span></i>, <i><span class="en">
+				590e
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">τί ἡμῖν βούλεται οὗτος ὁ
+				μῦθος</span><i>;</i> (folld. by <span class="alpheios-lex-greek" lang="grc">β.
+				λέγειν ὡς</span> . . ) <i><span class="en">
+				Id.
+				<u>Tht.</u>
+				156c
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τί β. σημαίνειν τὸ τέρας</span>”
+				 <i><span class="en">
+					D.H.
+					4.59
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">βούλεται εἶναι</span>
+			<i>professes</i> or <i>pretends</i> to be, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				595c
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">β. τὸ ὄνομα ἐπικεῖσθαι</span>”
+				 <i><span class="en">
+					Id.
+					<u>Cra.</u>
+					412c
+				</span></i>
+			; freq. in <i><span class="en">
+				Arist.
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">τὸ ἀκούσιον βούλεται λέγεσθαι
+				οὐκ εἰ</span> . . <i><span class="en">
+				<u>EN</u>
+				1110b30
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">β. ἄσωτος εἶναι ὁ ἕν τι κακὸν
+				ἔχων</span> ib.<i><span class="en">
+				1119b34
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">β. ὁ πρᾶος ἀτάραχος
+			εἶναι</span> ib.<i><span class="en">
+				1125b33
+			</span></i>; <i>tend</i> to be, 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ τοῦ ὕδατος φύσις β. εἶναι ἄχυμος</span>”
+				 <i><span class="en">
+					Id.
+					<u>Sens.</u>
+					441a3
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">β. ἤδη τότε εἶναι πόλις
+			ὅταν</span> . . <i><span class="en">
+				Id.
+				<u>Pol.</u>
+				1261b12
+			</span></i>, cf. <i><span class="en">
+				1293b40
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἡ φύσις β. μὲν τοῦτο ποιεῖν
+				πολλάκις, οὐ μέντοι δύναται</span> ib. <i><span class="en">
+				1255b3
+			</span></i>, cf. <i><span class="en">
+				<u>GA</u>
+				778a4
+			</span></i>, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>to be wont</i>, <i><span class="en">
+				X.
+				<u>An.</u>
+				6.3.18
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>IV.</b> folld. by
+				<span class="alpheios-lex-greek" lang="grc">ἤ</span> . . , <i>prefer</i>, for
+				<span class="alpheios-lex-greek" lang="grc">βούλομαι μᾶλλον</span> (which is more
+			usu. in Prose), <span class="alpheios-lex-greek" lang="grc">βούλομ᾽ ἐγὼ λαὸν σόον
+				ἔμμεναι ἢ ἀπολέσθαι</span> I <i>had rather</i> . . ,
+				<i><span class="en">
+				Il.
+				1.117
+			</span></i>, cf. <i><span class="en">
+				23.594
+			</span></i>, <i><span class="en">
+				Od.
+				3.232
+			</span></i>, <i><span class="en">
+				11.489
+			</span></i>, <i><span class="en">
+				12.350
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">β. τὸ μέν τι εὐτυχέειν . . ἢ
+					εὐτυχέειν τὰ πάντα</span>”
+				 <i><span class="en">
+					Hdt.
+					3.40
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">β. παρθενεύεσθαι πλέω χρόνον ἢ
+				πατρὸς ἐστερῆσθαι</span> (for <span class="alpheios-lex-greek" lang="grc">πολὺν
+				χρόνον, μᾶλλον ἤ</span> . . ) ib.<i><span class="en">
+				124
+			</span></i>, cf. <i><span class="en">
+				E.
+				<u>Andr.</u>
+				351
+			</span></i>; less freq. without <span class="alpheios-lex-greek" lang="grc">ἤ . . , πολὺ
+				βούλομαι αὐτὴν οἴκοι ἔχειν</span> I much
+			<i>prefer</i> . . , <i><span class="en">
+				Il.
+				1.112
+			</span></i>, cf. <i><span class="en">
+				Od.
+				15.88
+			</span></i>. (<i>g[uglide]el-g[uglide]ol-</i>, cf. the
+			dialectic forms.)</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

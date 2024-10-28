@@ -1,0 +1,575 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n34855" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἐναντίος</span></b> , <span class="alpheios-lex-greek" lang="grc">α</span>,
+			<span class="alpheios-lex-greek" lang="grc">ον</span>, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b><i>opposite</i>, 
+				=
+				<span class="alpheios-lex-greek" lang="grc">ἀντίος</span>
+			 (which is rare in Prose): </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> of Place, <i>on the opposite side, opposite</i>,
+			c.dat., 
+				“<span class="alpheios-lex-greek" lang="grc">ἀκταὶ ἐναντίαι ἀλλήλῃσιν</span>”
+				 <i><span class="en">
+					Od.
+					10.89
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">Πάτροκλος δέ οἱ . . ἐ. ἧστο</span>”
+				 <i><span class="en">
+					Il.
+					9.190
+				</span></i>
+			, cf. <i><span class="en">
+				Od.
+				23.89
+			</span></i>: hence, <i>fronting, face to face</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">αὐτῳ οὔ πω φαίνετ᾽ ἐναντίη</span>”
+				 <i><span class="en">
+					6.329
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὄττις ἐ. τοι ἰσδάνει</span>”
+				 <i><span class="en">
+					Sapph.
+					2.2
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">δεῖξον . . τὸ σὸν πρόσωπον δεῦρ᾽
+				ἐ. πατρί</span>
+			<i>before</i> him, <i><span class="en">
+				E.
+				<u>Hipp.</u>
+				947
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὰναντία τινί</span>
+			<i>things open to</i> one's <i>sight</i>, <i><span class="en">
+				X.
+				<u>Cyr.</u>
+				3.3.345
+			</span></i>: abs., 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. στάνθ᾽</span>”
+				 <i><span class="en">
+					E.
+					<u>Hipp.</u>
+					1078
+				</span></i>
+			 (but <span class="alpheios-lex-greek" lang="grc">ἐ. κεῖσθαι</span> look
+				<i>opposite</i> ways, <i><span class="en">
+				Pl.
+				<u>Smp.</u>
+				190a
+			</span></i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> with Verbs
+			of motion, <i>in the opposite direction</i>, <span class="alpheios-lex-greek" lang="grc">ἔνθα οἱ . . ἐναντίη ἤλυθε μήτηρ</span> came <i>to
+				meet</i> him, <i><span class="en">
+				Il.
+				6.251
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐναντίοι ἀλλήλοισιν ὄγμον ἐλαύνωσιν</span>”
+				 <i><span class="en">
+					11.67
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δύο ἅμαξαι ἐ. ἀλλήλαις</span>”
+				 <i><span class="en">
+					Th.
+					1.93
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄνεμος ἐ. ἔπνει</span>”
+				 <i><span class="en">
+					X.
+					<u>An.</u>
+					4.5.3
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b> Astrol.,
+				<i>in diametrical aspect</i>, <i><span class="en">
+				Vett.Val.
+				70.16
+			</span></i>, <i><span class="en">
+				Man.
+				3.360
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> in hostile
+			sense, <i>opposing, facing</i> in fight, c. gen., 
+				“<span class="alpheios-lex-greek" lang="grc">ἐναντίοι ἔσταν Ἀχαιῶν</span>”
+				 <i><span class="en">
+					Il.
+					5.497
+				</span></i>
+			, cf. <i><span class="en">
+				S.
+				<u>Aj.</u>
+				1284
+			</span></i>, <i><span class="en">
+				X.
+				<u>An.</u>
+				4.3.28
+			</span></i>, etc.: c. dat., <i><span class="en">
+				Il.
+				5.12
+			</span></i>, <i><span class="en">
+				E.
+				<u>Supp.</u>
+				856
+			</span></i>, <i><span class="en">
+				<u>IT</u>
+				1415
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οἱ ἐ</span>. <i>one's
+				adversaries</i>, <i><span class="en">
+				A.
+				<u>Th.</u>
+				375
+			</span></i>, <i><span class="en">
+				Gorg.
+				<u>Fr.</u>
+				12
+			</span></i>
+			<i><span class="en">
+				D.
+			</span></i>, etc.; <i>the enemy</i>, <i><span class="en">
+				Hdt.
+				7.225
+			</span></i>, <i><span class="en">
+				Th.
+				4.64
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			generally, <i>opposed to</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τινί</span>”
+				 <i><span class="en">
+					X.
+					<u>An.</u>
+					3.2.10
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τὸ ἐ</span>. <i>the opposite
+				party</i>, <i><span class="en">
+				Id.
+				<u>Ath.</u>
+				1.4
+			</span></i>; <i>presenting obstacles, hindering</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τινί</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					642
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			<span class="alpheios-lex-greek" lang="grc">ὁ δι ἐναντίας</span> the
+			<i>opponent</i> in a alawsuit, <i><span class="en">
+				<u>PFlor.</u>
+				1.58.15
+			</span></i>
+			<span class="entity">(iii A.D.)</span>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> of qualities, acts, etc., <i>opposite, contrary,
+			reverse</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τἀναντί᾽ εἰπεῖν</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					1373
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δίκαια καὶ τἀναντία</span>”
+				 <i><span class="en">
+					S.
+					<u>Ant.</u>
+					667
+				</span></i>
+			: mostly c.gen., <span class="alpheios-lex-greek" lang="grc">τὰ ἐ.
+			τούτων</span> the <i>very reverse</i> of these things, <i><span class="en">
+				Hdt.
+				1.82
+			</span></i>, cf. <i><span class="en">
+				Th.
+				7.75
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">δείξας . . ἄστρων τὴν ἐ.
+				ὁδόν</span>, i.e. 
+				“<span class="alpheios-lex-greek" lang="grc">τὴν τοῦ ἡλίου ὁδὸν ἐ. οὖσαν τοῖς
+					ἄστροις</span>”
+				 <i><span class="en">
+					E.
+					<u>Fr.</u>
+					861
+				</span></i>
+			: also c. dat., 
+				“<span class="alpheios-lex-greek" lang="grc">Ὀρφεῖ δὲ γλῶσσαν τὴν ἐναντίαν
+					ἔχεις</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					1629
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τἀναντία πρήσσειν</span>
+				[<span class="alpheios-lex-greek" lang="grc">τῇ ὑγιείῃ</span>] <i><span class="en">
+				Democr.
+				234
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δύο τὰ -ώτατα εὐβουλίᾳ</span>”
+				 <i><span class="en">
+					Th.
+					3.42
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀγαθῷ κακὸν -ώτερον ἢ τῷ μὴ
+					ἀγαθῷ</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					491d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐναντία λέγει αὐτὸς αὑτῷ</span>”
+				 <i><span class="en">
+					Id.
+					<u>Prt.</u>
+					339b
+				</span></i>
+			, cf.<i><span class="en">
+				Ar.
+				<u>Ach.</u>
+				493
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τἀναντία τούτοις</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Prt</u>
+					323d
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐναντία γνῶναι ταῖς
+			πλείσταις</span> [<span class="alpheios-lex-greek" lang="grc">πόλεσιν</span>]
+				<i><span class="en">
+				X.
+				<u>Lac.</u>
+				1.2
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὴν ἐ. τινὶ ψῆφον θέσθαι</span>”
+				 <i><span class="en">
+					D.
+					19.65
+				</span></i>
+			; simply 
+				“<span class="alpheios-lex-greek" lang="grc">τὴν ἐ. θέσθαι τινί</span>”
+				 <i><span class="en">
+					Pl.
+					<u>La.</u>
+					184d
+				</span></i>
+			: folld. by 
+				“<span class="alpheios-lex-greek" lang="grc">ἤ, τοὺς ἐ. λόγους ἢ ὡς αὐτὸς
+					κατεδόκεε</span>”
+				 <i><span class="en">
+					Hdt.
+					1.22
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοὐ. δρῶν ἢ προσῆκ᾽ αὐτῷ ποιεῖν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					14
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοὐ. ἔπαθεν ἢ τὸ προσδοκώμενον</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					966e
+				</span></i>
+			, cf. <i><span class="en">
+				<u>R.</u>
+				567c
+			</span></i>, etc.: freq. strengthd., <span class="alpheios-lex-greek" lang="grc">πᾶν τοὐ.,
+				πάντα τἀ</span>., quite <i>the contrary, Lg.</i>
+			<i><span class="en">
+				967a
+			</span></i>, <i><span class="en">
+				X.
+				<u>Mem.</u>
+				3.12.4
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">πολὺ τοὐ</span>. <i><span class="en">
+				Stratt.
+				57
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ δὲ πολὺ ἐναντίον ἀποβήσεται</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Ap.</u>
+					39c
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<span class="alpheios-lex-greek" lang="grc">τὰ ἐ</span>. <i>opposites</i> in
+			Philos., <i><span class="en">
+				Pherecyd.Syr.
+				3
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>Metaph.</u>
+				986b3
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> in the
+			Philos. of <i><span class="en">
+				Arist.
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">τἀναντία</span> (dist. fr. other
+				<span class="alpheios-lex-greek" lang="grc">ἀντικείμενα</span>, <i><span class="en">
+				<u>Metaph.</u>
+				1018a25
+			</span></i>) are <i>contraries</i>, esp. the two attributes within the
+			same genus which differ most widely from each other (as hot and
+			cold), <i><span class="en">
+				<u>Cat.</u>
+				6a18
+			</span></i>, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἐ. ἀποφάνσεις, προτάσεις</span>,
+				<i>contrary</i> propositions (All <u>B</u> is
+			<u>A</u>, No <u>B</u> is <u>A</u>), opp.
+				<i>contradictory</i> (v. <span class="alpheios-lex-greek" lang="grc">ἀντιφατικῶς</span>), <i><span class="en">
+				Id.
+				<u>Int.</u>
+				17b4
+			</span></i>, <i><span class="en">
+				<u>APr.</u>
+				63b28
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> freq. in
+				Adv.
+			 usages: </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			from <i><span class="en">
+				Hom.
+			</span></i> downwds., neut. <span class="alpheios-lex-greek" lang="grc">ἐναντίον</span>
+			as Adv., <i>opposite, facing</i>, <span class="alpheios-lex-greek" lang="grc">ἐ. ὧδε κάλεσσον</span> here <i>to my face</i>, <i><span class="en">
+				Od.
+				17.544
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">εἰς ὦπα ἰδέσθαι ἐ</span>. to
+			look one <i>in the face</i>, <i><span class="en">
+				23.107
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. προσβλέπειν τινά</span>”
+				 <i><span class="en">
+					E.
+					<u>Hec.</u>
+					968
+				</span></i>
+			, etc.; <span class="alpheios-lex-greek" lang="grc">γυναῖκας ἀνδρῶν μὴ βλέπειν
+				ἐ</span>. ib.<i><span class="en">
+				975
+			</span></i>: abs., <i><span class="en">
+				D.
+				4.40
+			</span></i>, etc.: hence, like a Prep. c. gen., <i>in the
+				presence of</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τῆς βουλῆς</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					12.91
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τῶνδ᾽ ἐ</span>. <i><span class="en">
+				S.
+				<u>OC</u>
+				1002
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">μαρτύρων ἐ</span>. <i><span class="en">
+				Ar.
+				<u>Ec.</u>
+				448
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. τοῦ παιδίου</span>”
+				 <i><span class="en">
+					Id.
+					<u>Lys.</u>
+					907
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. ἁπάντων λέγειν</span>”
+				 <i><span class="en">
+					Th.
+					6.25
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. Διός</span>”
+				 <i><span class="en">
+					Plb.
+					7.9.2
+				</span></i>
+			; also neut. pl., <i><span class="en">
+				<u>IG</u>
+				7.1779
+			</span></i> (<span class="entity">Thespiae</span>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> in hostile sense, <i>against</i>, c.
+			gen., <span class="alpheios-lex-greek" lang="grc">ἀνέσταν . . σφοῦ πατρὸς
+			ἐ</span>. <i><span class="en">
+				Il.
+				1.534
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. ἰέναι τινός</span>”
+				 <i><span class="en">
+					21.574
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. μάχεσθαί τινος</span>”
+				 <i><span class="en">
+					20.97
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. ἵστασ᾽ ἐμεῖο</span>”
+				 <i><span class="en">
+					13.448
+				</span></i>
+			: abs., <span class="alpheios-lex-greek" lang="grc">ἐ. μίμνειν</span> stand
+			one's ground <i>against</i>, ib. <i><span class="en">
+				106
+			</span></i>: c. dat., <span class="alpheios-lex-greek" lang="grc">νεικεῖν ἀλλήλοισιν
+			ἐ</span>. <i><span class="en">
+				20.252
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. θεοῖς</span>”
+				 <i><span class="en">
+					E.
+					<u>Or.</u>
+					624
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. τῷ ὅρκῳ πράττειν</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					22.1258.2
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			<i>contrariwise</i>, in 
+				Att.
+			 also with the Art., <span class="alpheios-lex-greek" lang="grc">τοὐναντίον</span>
+			<i>on the other hand</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τοὐ. δέ . .</span>”
+				 <i><span class="en">
+					Antiph.
+					80.4
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἢ πάλιν τοὐ</span>. <i><span class="en">
+				Men.
+				460.5
+			</span></i>; <i>conversely</i>, <i><span class="en">
+				Pl.
+				<u>Men.</u>
+				89e
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b> neut. pl.
+				<span class="alpheios-lex-greek" lang="grc">ἐναντία</span> as Adv., c.
+			dat., <i><span class="en">
+				Hdt.
+				6.32
+			</span></i>, <i><span class="en">
+				Th.
+				1.29
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> with
+			Preps., <span class="alpheios-lex-greek" lang="grc">ἐκ τοῦ ἐ</span>. <i>over
+				against, opposite</i>, opp. <span class="alpheios-lex-greek" lang="grc">ἐκ
+			πλαγίου</span>, <i><span class="en">
+				X.
+				<u>HG</u>
+				4.5.15
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">ἐξ ἐναντίας</span>, 
+				Ion.
+			
+			<span class="alpheios-lex-greek" lang="grc">-ίης</span>, <i><span class="en">
+				Hdt.
+				7.225
+			</span></i>, <i><span class="en">
+				Th.
+				4.33
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">οἱ ἐξ ἐ</span>. the
+				<i>opposing parties</i>, prob. in <i><span class="en">
+				<u>PGrenf.</u>
+				2.78.26
+			</span></i>
+			<span class="entity">(iv A. D.)</span>); <span class="alpheios-lex-greek" lang="grc">ἐκ τῶν
+			ἐ</span>. <i>on the contrary</i>, <i><span class="en">
+				Plb.
+				5.9.9
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀπ᾽ ἐναντίας</span>”
+				 <i><span class="en">
+					Ascl.
+					<u>Tact.</u>
+					1.2
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀπ᾽ ἐ. Χωρεῖν</span>”
+				 <i><span class="en">
+					Procop.
+					<u>Arc.</u>
+					4
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">κατὰ τὰ ἐ</span>. <i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				39a
+			</span></i>: Geom., <span class="alpheios-lex-greek" lang="grc">αἱ κατ᾽ ἐναντίον τοῦ
+				παραλληλογράμμου πλευραί</span> the <i>opposite</i> sides
+			of the parallelogram, <i><span class="en">
+				Archim.
+				<u>Aequil.</u>
+				1.9
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">αἱ κατ᾽ ἐ. τομαί</span>
+			<i>opposite</i> sections (i. e. branches) of the hyperbola, <i><span class="en">
+				Apollon.Perg.
+				<u>Con.</u>
+				3.23
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+				regul.Adv.
+			<span class="alpheios-lex-greek" lang="grc">-ίως</span>
+			<i>contrariwise</i>, c. dat., 
+				“<span class="alpheios-lex-greek" lang="grc">τούτοις οὐκ ἐ. λέγεις</span>”
+				 <i><span class="en">
+					A.
+					<u>Eu.</u>
+					642
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. διακεῖσθαί τινι</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					361c
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. ἀντικεῖσθαι</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Int.</u>
+					17b20
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">πικρῶς καὶ ἐ</span>. <i>like an
+				enemy</i>, <i><span class="en">
+				D.
+				19.339
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐ. ἢ ὡς ἀνδραπόδοις τραφεῖσι</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Tht.</u>
+					175d
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐ. ἔχειν</span> to be
+				<i>exactly opposed</i>, <i><span class="en">
+				Id.
+				<u>Euthd.</u>
+				278a
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">πρός τι</span> to be
+			<i>contrary</i> in respect of . ., <i><span class="en">
+				D.
+				1.4
+			</span></i>; in the Logic of <i><span class="en">Arist.,
+					<u>Metaph.</u>1057b11</span></i>,
+			al., cf. <i><span class="en">
+				Procl.
+				<u>in Alc.</u>
+				p.268C.
+			</span></i></div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

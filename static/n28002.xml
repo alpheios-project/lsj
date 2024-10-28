@@ -1,0 +1,397 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n28002" body-key=""><b><span class="alpheios-lex-greek" lang="grc">δόξᾰ</span></b> , ἡ, (<span class="alpheios-lex-greek" lang="grc">δοκέω, δέκομαι</span>) <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b><i>expectation,</i>
+			<span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ἀπὸ δόξης</span> not otherwise
+			than <i>one expects,</i>
+			<i><span class="en">
+				Il.
+				10.324
+			</span></i>, <i><span class="en">
+				Od.
+				11.344
+			</span></i>; in Prose, 
+				“<span class="alpheios-lex-greek" lang="grc">παρὰ δόξαν ἢ ὡς κατεδόκεε</span>”
+				 <i><span class="en">
+					Hdt.
+					1.79
+				</span></i>
+			, etc.; <span class="alpheios-lex-greek" lang="grc">ἐν δόξᾳ θέμενος εὖχος</span>
+			<i>hoping for</i> . . , <i><span class="en">
+				Pi.
+				<u>O.</u>
+				10(11).63
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">δόξαν παρέχειν τινὶ μὴ
+				ποιήσεσθαι</span> . . to make one <i>expect</i> that . . ,
+				<i><span class="en">
+				X.
+				<u>HG</u>
+				7.5.21
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">δόξαν παρέχεσθαί τινι
+			ὡς</span> . . , c. part., <i><span class="en">
+				Pl.
+				<u>Sph.</u>
+				216d
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀπὸ τῆς δ. πεσέειν,</span>
+			= Lat. <i>spe excidere,</i>
+			<i><span class="en">
+				Hdt.
+				7.203
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> after <i><span class="en">
+				Hom.
+			</span></i>, <i>notion, opinion, judgement,</i> whether well grounded
+			or not, 
+				“<span class="alpheios-lex-greek" lang="grc">βροτῶν δόξαι</span>”
+				 <i><span class="en">
+					Parm.
+					1.30
+				</span></i>
+			, cf. <i><span class="en">
+				8.51
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ψυχῆς εὐτλήμονι δόξῃ</span>”
+				 <i><span class="en">
+					A.
+					<u>Pers.</u>
+					28
+				</span></i>
+			 (anap.); 
+				“<span class="alpheios-lex-greek" lang="grc">ἃ δόξῃ τοπάζω</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					235
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξῃ γοῦν ἐμῇ</span>”
+				 <i><span class="en">
+					Id.
+					<u>Tr.</u>
+					718
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">κατά γε τὴν ἐμήν,</span> with
+			or without <span class="alpheios-lex-greek" lang="grc">δόξαν,</span>
+			<i><span class="en">
+				Pl.
+				<u>Grg.</u>
+				472e
+			</span></i>, <i><span class="en">
+				<u>Phlb.</u>
+				41b
+			</span></i>: opp. <span class="alpheios-lex-greek" lang="grc">ἐπιστήμη,</span>
+			<i><span class="en">
+				Id.
+				<u>Tht.</u>
+				187b
+			</span></i> sq., <i><span class="en">
+				<u>R.</u>
+				506c
+			</span></i>, <i><span class="en">
+				Hp.
+				<u>Lex</u>
+				4
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>Metaph.</u>
+				1074b36
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">φάσεις καὶ δ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>EN</u>
+					1143b13
+				</span></i>
+			; opp. <span class="alpheios-lex-greek" lang="grc">νόησις,</span>
+			<i><span class="en">
+				Pl.
+				<u>R.</u>
+				534a
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀληθεῖ δόξῃ δοξασταί</span>
+			capable of being subjects of true <i>opinion,</i>
+			<i><span class="en">
+				Id.
+				<u>Tht.</u>
+				202b
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἀληθεῖς ἢ ψευδεῖς</span>”
+				 <i><span class="en">
+					Id.
+					<u>Phlb.</u>
+					36c
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξης ὀρθότης ἀλήθεια</span>”
+				 <i><span class="en">
+					Arist.
+					<u>EN</u>
+					1142b11
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἐμποιεῖν περί τινος</span>”
+				 <i><span class="en">
+					Id.
+					<u>Pol.</u>
+					1314b22
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">κύριαι δ.</span> philosophical
+				<i>maxims,</i> title of work by Epicurus, <i><span class="en">
+				Phld.
+				<u>Ir.</u>
+				p.86
+			</span></i> W., etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">αἱ κοιναὶ δ.</span>”
+				<i>axioms,</i>
+				 <i><span class="en">
+					Arist.
+					<u>Metaph.</u>
+					996b28
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>mere opinion, conjecture,</i>
+			<span class="alpheios-lex-greek" lang="grc">δόξῃ ἐπίστασθαι, ἡγεῖσθαι,</span>
+			<i>imagine, suppose</i> (wrongly), <i><span class="en">
+				Hdt.
+				8.132
+			</span></i>, <i><span class="en">
+				Th.
+				5.105
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξης ἁμαρτία</span>”
+				 <i><span class="en">
+					Id.
+					1.32
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">δόξαι</span> joined with <span class="alpheios-lex-greek" lang="grc">φαντασίαι,</span>
+			<i><span class="en">
+				Pl.
+				<u>Tht.</u>
+				161e
+			</span></i>, cf. <i><span class="en">
+				Arist.
+				<u>Ph.</u>
+				254a29
+			</span></i> (but distd. fr. <span class="alpheios-lex-greek" lang="grc">φαντασ&lt;&gt;,</span>
+			<i><span class="en">
+				Id.
+				<u>de An.</u>
+				428a20
+			</span></i>); <span class="alpheios-lex-greek" lang="grc">κατὰ δόξαν,</span> opp.
+				<span class="alpheios-lex-greek" lang="grc">κατ᾽ οὐσίαν,</span>
+			<i><span class="en">
+				Pl.
+				<u>R.</u>
+				534c
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὡς δο&lt;&gt;
+			χρώμενοι</span> speaking <i>by guess,</i>
+			<i><span class="en">
+				Isoc.
+				8.8
+			</span></i>, cf. <i><span class="en">
+				13.8
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>fancy, vision,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἀκόνας λιγυρᾶς</span>”
+				 <i><span class="en">
+					Pi.
+					<u>O.</u>
+					6.82
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. βριζούσης φρενός</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					275
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐκ εἰσὶ δόξαι τῶνδε πημάτων</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ch.</u>
+					1053
+				</span></i>
+			, cf. <i><span class="en">
+				1051
+			</span></i>; of a dream, <i><span class="en">
+				E.
+				<u>Rh.</u>
+				780
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἐνυπνίου</span>”
+				 <i><span class="en">
+					Philostr.
+					<u>VA</u>
+					1.23
+				</span></i>
+			: pl., <i>hallucinations,</i>
+			<i><span class="en">
+				Alex.Trall.
+				1.17
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>the opinion which others have of one, estimation, repute,</i>
+			first in <i><span class="en">
+				Sol.
+				13.4
+			</span></i>
+			<span class="alpheios-lex-greek" lang="grc">ἀνθρώπων δόξαν ἔχειν ἀγαθήν,</span>
+			cf. <i><span class="en">
+				34
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἐπ᾽ ἀμφότερα φέρεσθαι</span>”
+				 <i><span class="en">
+					Th.
+					2.11
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> mostly,
+				<i>good repute, honour, glory,</i>
+			<i><span class="en">
+				Alc.
+				<u>Supp.</u>
+				25.11
+			</span></i>, <i><span class="en">
+				A.
+				<u>Eu.</u>
+				373
+			</span></i> (lyr., pl.), <i><span class="en">
+				Pi.
+				<u>O.</u>
+				8.64
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξαν φύσας</span>”
+				 <i><span class="en">
+					Hdt.
+					5.91
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">δόξαν σχεῖν τινός</span>
+			<i>for</i> a thing, <i><span class="en">
+				E.
+				<u>HF</u>
+				157
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ σοφίᾳ δ. εἰληφώς</span>”
+				 <i><span class="en">
+					Isoc.
+					13.2
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ καλοκἀγαθίᾳ καὶ σωφροσύνῃ δ.
+					ὁμολογουμένην πεποιημένος</span>”
+				 <i><span class="en">
+					Plb.
+					35.4.8
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξαν ἀντὶ τοῦ ζῆν ᾑρημένος</span>”
+				 <i><span class="en">
+					D.
+					2.15
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δόξαν εἶχον ἄμαχοι εἶναι</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Mx.</u>
+					241b
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">δ. ἔχειν ὥς εἰσι</span> . .
+				<i><span class="en">
+				D.
+				2.17
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. καταλιπεῖν</span>”
+				 <i><span class="en">
+					Id.
+					3.24
+				</span></i>
+			: in pl., 
+				“<span class="alpheios-lex-greek" lang="grc">οἱ ἐν ταῖς μεγίσταις δόξαις ὄντες</span>”
+				 <i><span class="en">
+					Isoc.
+					4.51
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> rarely of
+				<i>ill repute,</i> [
+				“<span class="alpheios-lex-greek" lang="grc">δ.] ἀντὶ καλῆς αἰσχρὰν τῇ πόλει
+					περιάπτειν</span>”
+				 <i><span class="en">
+					D.
+					20.10
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">λαμβάνειν δ. φαύλην</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ep.</u>
+					3.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">κληρονομήσειν τὴν ἐπ᾽ ἀσεβείᾳ δ.</span>”
+				 <i><span class="en">
+					Plb.
+					15.22.3
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>popular repute</i> or <i>estimate,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἰσφέρων οὐκ ἀφ᾽ ὑπαρχούσης οὐσίας .
+					. ἀλλ᾽ ἀπὸ τῆς δόξης ὧν ὁ πατήρ μοι κατέλιπεν</span>”
+				 <i><span class="en">
+					D.
+					21.157
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>IV.</b> of external
+			appearance, <i>glory, splendour,</i> esp. of the <i>Shechinah,</i>
+			<i><span class="en">
+				LXX
+				<u>Ex.</u>
+				16.10
+			</span></i>, al.; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. τοῦ φωτός</span>”
+				 <i><span class="en">
+					<u>Act.Ap.</u>
+					22.11
+				</span></i>
+			: generally, <i>magnificence,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">πλοῦτον καὶ δ.</span>”
+				 <i><span class="en">
+					LXX
+					<u>Ge.</u>
+					31.16
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Ev.Matt.</u>
+				4.8
+			</span></i>, al.; esp. of <i>celestial beatitude,</i>
+			<i><span class="en">
+				<u>2 Ep.Cor.</u>
+				4.17
+			</span></i>: pl., <i><span class="en">
+				<u>1 Ep.Pet.</u>
+				1.11
+			</span></i>; also of <i>illustrious persons, dignities,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">δόξας οὐ τρέμουσιν</span>”
+				 <i><span class="en">
+					<u>2 Ep.Pet.</u>
+					2.10
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. βλασφημεῖν</span>”
+				 <i><span class="en">
+					<u>Ep.Jud.</u>
+					8
+				</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

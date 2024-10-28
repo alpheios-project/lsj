@@ -1,0 +1,610 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n28569" body-key=""><b><span class="alpheios-lex-greek" lang="grc">δύνᾰμις</span></b>  [<span class="alpheios-lex-greek" lang="grc">ῠ], ἡ</span>, gen. <span class="alpheios-lex-greek" lang="grc">εως</span>, 
+			Ion.
+		
+		<span class="alpheios-lex-greek" lang="grc">ιος</span>, 
+			Ion.
+		 dat. <span class="alpheios-lex-greek" lang="grc">δυνάμι</span> : (<span class="alpheios-lex-greek" lang="grc">δύναμαι</span>):— <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b><i>power, might</i>, in <i><span class="en">
+				Hom.
+			</span></i>, esp. of <i>bodily strength</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">εἴ μοι δ. γε παρείη</span>”
+				 <i><span class="en">
+					Od.
+					2.62
+				</span></i>
+			, cf. <i><span class="en">
+				Il.
+				8.294
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οἵη ἐμὴ δ. καὶ χεῖρες</span>”
+				 <i><span class="en">
+					Od.
+					20.237
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ δ. τῶν νέων</span>”
+				 <i><span class="en">
+					Antipho
+					4.3.2
+				</span></i>
+			, etc.: generally, <i>strength, power, ability</i> to do
+			anything, <span class="alpheios-lex-greek" lang="grc">πὰρ δύναμιν</span> beyond one's
+				<i>strength</i>, <i><span class="en">
+				Il.
+				13.787
+			</span></i>; in Prose, 
+				“<span class="alpheios-lex-greek" lang="grc">παρὰ δ. τολμηταί</span>”
+				 <i><span class="en">
+					Th.
+					1.70
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ὑπὲρ δ.</span>”
+				 <i><span class="en">
+					D.
+					18.193
+				</span></i>
+			; opp. <span class="alpheios-lex-greek" lang="grc">κατὰ δ.</span> as far as
+				<i>lies in one</i>, <i><span class="en">
+				Hdt.
+				3.142
+			</span></i>, etc. (
+				“<span class="alpheios-lex-greek" lang="grc">κὰδ δ.</span>”
+				 <i><span class="en">
+					Hes.
+					<u>Op.</u>
+					336
+				</span></i>
+			); 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς δύναμιν</span>”
+				 <i><span class="en">
+					Cratin.
+					172
+				</span></i>
+			, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				458e
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς τὴν δ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>Phdr.</u>
+					231a
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>outward power, influence, authority</i>, <i><span class="en">
+				A.
+				<u>Pers.</u>
+				174
+			</span></i> (anap.), <i><span class="en">
+				<u>Ag.</u>
+				779
+			</span></i> (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">καταπαύσαντα τὴν Κύρου δ.</span>”
+				 <i><span class="en">
+					Hdt.
+					1.90
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δυνάμει προὔχοντες</span>”
+				 <i><span class="en">
+					Th.
+					7.21
+				</span></i>
+			, etc.; <span class="alpheios-lex-greek" lang="grc">ἐν δ. εἶναι,
+			γενέσθαι</span>, <i><span class="en">
+				X.
+				<u>HG</u>
+				4.4.5
+			</span></i>, <i><span class="en">
+				D.
+				13.29
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>force for war, forces</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἀνδρῶν</span>”
+				 <i><span class="en">
+					Hdt.
+					5.100
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>Mx.</u>
+				240d
+			</span></i>, <i><span class="en">
+				Plb.
+				1.41.2
+			</span></i>, <i><span class="en">
+				LXX
+				<u>Ge.</u>
+				21.22
+			</span></i>, <i><span class="en">
+				<u>OGI</u>
+				139.8
+			</span></i>
+			<span class="entity">(ii B. C.)</span>; <span class="alpheios-lex-greek" lang="grc">μετὰ</span>
+			<span class="alpheios-lex-greek" lang="grc">δυνάμεων ἱκανῶν</span> Wilcken <i><span class="en">
+				<u>Chr.</u>
+				10
+			</span></i>
+			<span class="entity">(ii B. C.)</span>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. καὶ πεζὴ καὶ ἱππικὴ καὶ ναυτική</span>”
+				 <i><span class="en">
+					X.
+					<u>An.</u>
+					1.3.12
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">πέντε δυνάμεσι
+			πεφρουρημένον</span>, of the five projecting rows of sarissae in
+			the phalanx, <i><span class="en">
+				Ascl.
+				<u>Tact.</u>
+				5.2
+			</span></i>,al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>a power, quantity</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">χρημάτων δ.</span>”
+				 <i><span class="en">
+					Hdt.
+					7.9
+				</span></i>
+			.<span class="alpheios-lex-greek" lang="grc">ά</span>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>means</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ δύναμιν</span>”
+				 <i><span class="en">
+					Arist.
+					<u>EE</u>
+					1243b12
+				</span></i>
+			; opp. <span class="alpheios-lex-greek" lang="grc">παρὰ δ.</span>, <i><span class="en">
+				<u>2 Ep.Cor.</u>
+				8.3
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ δ. τῶν ὑπαρχόντων</span>”
+				 <i><span class="en">
+					<u>BGU</u>
+					1051.17
+				</span></i>
+			 (Aug.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>power, faculty, capacity</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">αἱ ἀμφὶ τὸ σῶμα δ.</span>”
+				 <i><span class="en">
+					Hp.
+					<u>VM</u>
+					14
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">αἱ τοῦ σώματος δυνάμεις</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Tht.</u>
+					185e
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ τῆς ὄψεως δ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>R.</u>
+					532a
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ τῶν λεγόντων δ.</span>”
+				 <i><span class="en">
+					D.
+					22.11
+				</span></i>
+			: c. gen. rei, <i>capacity for</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τῶν ἔργων</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Pol.</u>
+					1309a35
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ λέγειν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Rh.</u>
+					1362b22
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τοῦ λόγου, τῶν λόγων</span>,
+				<i><span class="en">
+				Men.
+				578
+			</span></i>, <i><span class="en">
+				Alex.
+				94
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. στρατηγική</span>”
+				 <i><span class="en">
+					Plb.
+					1.84.6
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἐν πραγματείᾳ</span>”
+				 <i><span class="en">
+					Id.
+					2.56.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. συνθετική</span>”
+				 <i><span class="en">
+					D.H.
+					<u>Comp.</u>
+					2
+				</span></i>
+			: abs., any <i>natural capacity</i> or <i>faculty</i>,
+			that may be improved and may be used for good or ill, <i><span class="en">
+				Arist.
+				<u>Top.</u>
+				126a37
+			</span></i>, cf. <i><span class="en">
+				<u>MM</u>
+				1183b28
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>elementary force</i>, such as heat, cold, etc., <i><span class="en">
+				Hp.
+				<u>VM</u>
+				16
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>PA</u>
+				646a14
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἡ τοῦ θερμοῦ δ.</span>ib.<i><span class="en">
+				650a5
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">θερμαντικὴ δ.</span>”
+				 <i><span class="en">
+					Epicur.
+					<u>Fr.</u>
+					60
+				</span></i>
+			, cf. Polystr.<i><span class="en">
+				p.23
+			</span></i> W. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>property, quality</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἰδίην δύναμιν καὶ φύσιν ἔχειν</span>”
+				 <i><span class="en">
+					Hp.
+					<u>VM</u>
+					13
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Nat.Hom.</u>
+				5
+			</span></i>, <i><span class="en">
+				<u>Vict.</u>
+				1.10
+			</span></i>; esp. of the <i>natural properties</i> of plants, etc.,
+				<span class="alpheios-lex-greek" lang="grc">αἱ δ. τῶν φυομένων, τῶν
+			σπερμάτων</span>, <i><span class="en">
+				X.
+				<u>Cyr.</u>
+				8.8.14
+			</span></i>, <i><span class="en">
+				Thphr.
+				<u>HP</u>
+				8.11.1
+			</span></i>; <i>productive power</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τῆς γῆς</span>”
+				 <i><span class="en">
+					Id.
+					<u>Oec.</u>
+					16.4
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">μετάλλων</span>”
+				 <i><span class="en">
+					Id.
+					<u>Vect.</u>
+					4.1
+				</span></i>
+			: generally, <i>function, faculty</i>, <span class="alpheios-lex-greek" lang="grc">δύναμις φυσική, ζωική, ψυχική</span>, <i><span class="en">
+				Gal.
+				10.635
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">περὶ φυσικῶν δ.</span>, title of
+			work by Galen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b> in pl.,
+				<i>agencies</i>, <span class="alpheios-lex-greek" lang="grc">ὑπάρχειν ἐν τῇ
+				φύσει τὰς τοιαύτας δυνάμεις</span> (sc. the gods) Polystr.<i><span class="en">
+				p.10
+			</span></i> W. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b>
+			<i>function, meaning</i>, of part in whole, <i><span class="en">
+				Id.
+				p.17
+			</span></i> W. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>e.</b> in Music,
+				<i>function, value</i>, of a note in the scale, 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἐστι τάξις φθόγγου ἐν συστήματι</span>”
+				 <i><span class="en">
+					Cleonid.
+					<u>Harm.</u>
+					14
+				</span></i>
+			, cf. <i><span class="en">
+				Aristox.
+				<u>Harm.</u>
+				p.69M.
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">μέση κατὰ δύναμιν</span>, opp.
+				<span class="alpheios-lex-greek" lang="grc">κατὰ θέσιν</span>, <i><span class="en">
+				Ptol.
+				<u>Harm.</u>
+				2.5
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>faculty, art</i>, or <i>craft</i>, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				532d
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>Metaph.</u>
+				1018a30
+			</span></i>, <i><span class="en">
+				<u>EN</u>
+				1094a10
+			</span></i>, <i><span class="en">
+				Arr.
+				<u>Epict.</u>
+				1.1.1
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">δ. σκεπτική</span> the
+				<i>doctrine</i> of the Sceptics, <i><span class="en">
+				S.E.
+				<u>M.</u>
+				7.1
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>a medicine</i>, <i><span class="en">
+				Timostr.
+				7
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. ἁπλαῖ</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Decent.</u>
+					9
+				</span></i>
+			, <i><span class="en">
+				Aret.
+				<u>CD</u>
+				1.4
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">δ. πολυφάρμακοι</span>”
+				 <i><span class="en">
+					Plu.
+					2.403c
+				</span></i>
+			, <i><span class="en">
+				Gal.
+				13.365
+			</span></i>: in pl., <i>collection of formulae</i> or
+				<i>prescriptions</i>, <i><span class="en">
+				Orib.
+				10.33
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>action</i> of medicines, <span class="alpheios-lex-greek" lang="grc">περὶ τῆς
+				ἁπλῶν φαρμάκων δ.</span>, title of work by Galen; also,
+				<i>potency</i>, <span class="alpheios-lex-greek" lang="grc">δυνάμει θερμά,
+			ψυχρά</span>, <i><span class="en">
+				Id.
+				1.672
+			</span></i>, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>magically potent substance</i> or <i>object,</i>
+			<i><span class="en">
+				PMag.Leid.V.
+				8.12
+			</span></i>: in pl., <i>magical powers</i>, <i><span class="en">
+				Hld.
+				4.7
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>force</i> or <i>meaning</i> of a word, <i><span class="en">
+				Lys.
+				10.7
+			</span></i>, <i><span class="en">
+				Pl.
+				<u>Cra.</u>
+				394b
+			</span></i>, <i><span class="en">
+				Diog.Oen.
+				12
+			</span></i>, <i><span class="en">
+				Phld.
+				<u>Sign.</u>
+				31
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			phonetic <i>value</i> of sounds or letters, <i><span class="en">
+				Plb.
+				10.47.8
+			</span></i>, <i><span class="en">
+				D.H.
+				<u>Comp.</u>
+				12
+			</span></i>, <i><span class="en">
+				Luc.
+				<u>Jud.Voc.</u>
+				5
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>worth</i> or <i>value</i> of money, <i><span class="en">
+				Th.
+				6.46
+			</span></i>,<i><span class="en">
+				2.97
+			</span></i>, <i><span class="en">
+				Plu.
+				<u>Lyc.</u>
+				9
+			</span></i>, <i><span class="en">
+				<u>Sol.</u>
+				15
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>IV.</b>
+			<i>capability of existing</i> or <i>acting, potentiality</i>,
+			opp. <i>actuality</i> (<span class="alpheios-lex-greek" lang="grc">ἐνέργεια</span>),
+				<i><span class="en">
+				Arist.
+				<u>Metaph.</u>
+				1047b31
+			</span></i>, <i><span class="en">
+				1051a5
+			</span></i>, etc.: hence <span class="alpheios-lex-greek" lang="grc">δυνάμει</span> as
+				Adv., <i>virtually</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ὕστερον ὂν τῇ τάξει, πρότερον τῇ
+					δυνάμει . . ἐστί</span>”
+				 <i><span class="en">
+					D.
+					3.15
+				</span></i>
+			; opp. <span class="alpheios-lex-greek" lang="grc">ἐνεργείᾳ</span>, <i><span class="en">
+				Arist.
+				<u>APo.</u>
+				86a28
+			</span></i>, al.; opp. <span class="alpheios-lex-greek" lang="grc">ἐντελεχείᾳ</span>,
+				<i><span class="en">
+				Id.
+				<u>Ph.</u>
+				193b8
+			</span></i>, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>V.</b> Math.,
+				<i>power</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ μεταφορὰν ἡ ἐν γεωμετρίᾳ λέγεται
+					δ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>Metaph.</u>
+					1019b33
+				</span></i>
+			; usu. <i>second power, square</i>, <span class="alpheios-lex-greek" lang="grc">κατὰ δύναμιν</span> in <i>square</i>, <i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				54b
+			</span></i>, cf. <i><span class="en">
+				<u>Theol.Ar.</u>
+				11
+			</span></i>, etc.: chiefly in dat., [<span class="alpheios-lex-greek" lang="grc">εὐθεῖα]
+				δυνάμει ἴση</span> a line <i>the square</i> on which is
+			equal to an area, ἡ BA <span class="alpheios-lex-greek" lang="grc">ἐλάσσων ἐστὶν ἢ διπλασίων δυνάμει
+			τῆς</span> AK the <i>square</i> on BA is less than double of
+			the <i>square</i> on AK, <i><span class="en">
+				Archim.
+				<u>Sph.Cyl.</u>
+				2.9
+			</span></i>: <span class="alpheios-lex-greek" lang="grc">εὐθεῖαι δ. σύμμετροι</span>
+			commensurable <i>in square</i>, <i><span class="en">
+				Euc.
+				10
+			</span></i><i><span class="en">
+				<u>Def.</u>
+				2
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἡ δυνάμει δεκάς</span> the
+			series <i><span class="en">
+				12
+			</span></i> + <i><span class="en">
+				22
+			</span></i> . . . + <i><span class="en">
+				102
+			</span></i>, <i><span class="en">
+				<u>Theol.Ar.</u>
+				64
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>square number</i>, <i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				32a
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			<i>square</i> of an unknown quantity (<i><span class="en">
+				x2
+			</span></i>), <i><span class="en">
+				Dioph.
+				<u>Def.</u>
+				2
+			</span></i>, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>square root</i> of a number which is not a perfect square,
+				<i>surd</i>, opp. <span class="alpheios-lex-greek" lang="grc">μῆκος</span>,
+				<i><span class="en">
+				Pl.
+				<u>Tht.</u>
+				147d
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>product</i> of two numbers, <span class="alpheios-lex-greek" lang="grc">ἡ
+			ἀμφοῖν</span> (sc. <span class="alpheios-lex-greek" lang="grc">τριάδος καὶ δυάδος</span>)
+				“<span class="alpheios-lex-greek" lang="grc"> δ. ἑξάς</span>”
+				 <i><span class="en">
+					Ph.
+					1.3
+				</span></i>
+			, cf. <i><span class="en">
+				Iamb.
+				<u>in Nic.</u>
+				p.108
+			</span></i> P.; <span class="alpheios-lex-greek" lang="grc">δυνάμει</span>
+			<i>in product</i>, <i><span class="en">
+				Hero
+				<u>Metr.</u>
+				1.15
+			</span></i>, <i><span class="en">
+				<u>Theol.Ar.</u>
+				33
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>VI.</b> concrete,
+				<i>powers</i>, esp. of divine beings, 
+				“<span class="alpheios-lex-greek" lang="grc">αἱ δ. τῶν οὐρανῶν</span>”
+				 <i><span class="en">
+					LXX
+					<u>Is.</u>
+					34.4
+				</span></i>
+			, cf. <i><span class="en">
+				<u>1 Ep.Pet.</u>
+				3.22
+			</span></i>, al., <i><span class="en">
+				Ph.
+				1.587
+			</span></i>, <i><span class="en">
+				<u>Corp.Herm.</u>
+				1.26
+			</span></i>, <i><span class="en">
+				Porph.
+				<u>Abst.</u>
+				2.34
+			</span></i>: sg., <i><span class="en">
+				<u>Act.Ap.</u>
+				8.10
+			</span></i>, <i><span class="en">
+				<u>PMag.Par.</u>
+				1.1275
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">πολυώνυμος δ.</span>, of God,
+				<i><span class="en">
+				Secund.
+				<u>Sent.</u>
+				3
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>VII.</b>
+			<i>manifestation of divine power, miracle,</i>
+			<i><span class="en">
+				Ev.Matt.
+				11.21
+			</span></i>, al., Buresch <i>Aus Lydien</i>
+			<i><span class="en">
+				113
+			</span></i>, etc.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

@@ -1,0 +1,870 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n97186" body-key=""><b><span class="alpheios-lex-greek" lang="grc">στρέφω</span></b> , <i><span class="en">
+			Il.
+			23.323
+		</span></i>, etc.; 
+			Dor.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">στράφω</span></b> 
+		<span class="alpheios-lex-greek" lang="grc">[ᾰ]</span>
+		<i><span class="en">
+			<u>IG</u>
+			12(3).92.6
+		</span></i> (Nisyrus, dub.); 
+			Aeol.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">στροφῶ</span></b>  (leg. <span class="alpheios-lex-greek" lang="grc">στρόφω</span>) <i><span class="en">
+			<u>EM</u>
+			728.44
+		</span></i>: 
+			Ep.
+		
+		impf.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">στρέψασκον</span>”
+				 <i><span class="en">
+					Il.
+					18.546
+				</span></i>
+			: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">στρέψω</span>”
+				 <i><span class="en">
+					E.
+					<u>Med.</u>
+					1152
+				</span></i>
+			, etc.: aor. 1
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔστρεψα</span>”
+				 <i><span class="en">
+					Id.
+					<u>Tr.</u>
+					1243
+				</span></i>
+			, etc., 
+				Ep.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">στρέψα</span>”
+				 <i><span class="en">
+					Od.
+					4.520
+				</span></i>
+			: pf.
+			<span class="alpheios-lex-greek" lang="grc">ἔστροφα </span>(<span class="alpheios-lex-greek" lang="grc">ἀν-</span>) <i><span class="en">
+				Cerc.
+				17.30
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">ἀντ-</span>, 
+				v.l.
+				<span class="alpheios-lex-greek" lang="grc">ἀν-</span>
+			) <i><span class="en">
+				Theognet.
+				1.8
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">ἐπ-</span>) <i><span class="en">
+				Plb.
+				5.110.6
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">μετ-</span>) <i><span class="en">
+				Aristid.
+				1.435
+			</span></i>
+			<i><span class="en">
+				J.
+			</span></i>; also <span class="alpheios-lex-greek" lang="grc">ἔστρᾰφα </span>(<span class="alpheios-lex-greek" lang="grc">κατ-</span>) <i><span class="en">
+				Plb.
+				23.11.2
+			</span></i> codd.:—
+				Med.
+			, <i><span class="en">
+				Il.
+				18.488
+			</span></i>, etc.: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">στρέψομαι</span>”
+				 <i><span class="en">
+					6.516
+				</span></i>
+			, etc.: aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐστρεψάμην</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					1416
+				</span></i>
+			, (<span class="alpheios-lex-greek" lang="grc">κατ-</span>) <i><span class="en">
+				Th.
+				1.94
+			</span></i>, etc.: pf.
+			
+				Pass.
+			 (in med. sense) <span class="alpheios-lex-greek" lang="grc">ἔστραμμαι
+				</span>(<span class="alpheios-lex-greek" lang="grc">κατ-</span>) <i><span class="en">
+				Isoc.
+				5.21
+			</span></i>:—
+				Pass.
+			, fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">στρᾰφήσομαι</span>”
+				 <i><span class="en">
+					LXX
+					<u>1 Ki.</u>
+					10.6
+				</span></i>
+			, (<span class="alpheios-lex-greek" lang="grc">ἀνα-</span>) <i><span class="en">
+				Isoc.
+				5.64
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">δια-</span>) <i><span class="en">
+				Ar.
+				<u>Eq.</u>
+				175
+			</span></i>, <i><span class="en">
+				<u>Av.</u>
+				177
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">μετα-</span>) <i><span class="en">
+				Pl.
+				<u>R.</u>
+				518d
+			</span></i>; fut.
+			
+				Med.
+			 (in pass. sense) <span class="alpheios-lex-greek" lang="grc">στρέψομαι
+				</span>(<span class="alpheios-lex-greek" lang="grc">ἀπο-</span>) <i><span class="en">
+				X.
+				<u>Cyr.</u>
+				5.5.36
+			</span></i>: aor.1
+			<span class="alpheios-lex-greek" lang="grc">ἐστρέφθην</span> freq. in <i><span class="en">
+				Hom.
+			</span></i>, <i><span class="en">
+				Il.
+				5.40
+			</span></i>, al., rare in 
+				Att.
+			, <i><span class="en">
+				Ar.
+				<u>Th.</u>
+				1128
+			</span></i>, <i><span class="en">
+				Pl.
+				<u>Plt.</u>
+				273e
+			</span></i>; 
+				Dor.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐστράφθην</span>”
+				 <i><span class="en">
+					Sophr.
+					88
+				</span></i>
+			, <i><span class="en">
+				Theoc.
+				7.132
+			</span></i>, also v.l. (for <span class="alpheios-lex-greek" lang="grc">κατεστράφησαν</span>) in <i><span class="en">
+				Hdt.
+				1.130
+			</span></i> (but 
+				“<span class="alpheios-lex-greek" lang="grc">στραφῆναι</span>”
+				 <i><span class="en">
+					Id.
+					3.129
+				</span></i>
+			): aor. 2
+			<span class="alpheios-lex-greek" lang="grc">ἐστράφην [ᾰ</span>] <i><span class="en">
+				Sol.
+				37.6
+			</span></i>, always in Trag., <i><span class="en">
+				S.
+				<u>Ant.</u>
+				315
+			</span></i>, etc., freq. in 
+				Att.
+			, <i><span class="en">
+				Ar.
+				<u>Ach.</u>
+				537
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">μετα-</span>), <i><span class="en">
+				Th.
+				5.97
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">κατα-</span>), <i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				77b
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔστραμμαι</span>”
+				 <i><span class="en">
+					<u>h.Merc.</u>
+					411
+				</span></i>
+			, <i><span class="en">
+				Hp.
+			</span></i><i>Aër.</i><i><span class="en">
+				5
+			</span></i>, <i><span class="en">
+				X.
+				<u>An.</u>
+				4.7.15
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔστρεμμαι</span>”
+				 <i><span class="en">
+					Eudox.
+					<u>Ars</u>
+					12.10
+				</span></i>
+			 (Pap.), cf. <span class="alpheios-lex-greek" lang="grc">ἀποστρέφω,
+				καταστρέφω</span>:—<i>turn about</i> or
+				<i>aside</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἂψ δὲ θεοὶ οὖρον στρέψαν</span>”
+				 <i><span class="en">
+					Od.
+					4.520
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἵππους ς</span>. <i>turn</i>
+			horses, <i><span class="en">
+				Il.
+				8.168
+			</span></i>, <i><span class="en">
+				Od.
+				15.205
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ς. πηδάλιον</span>”
+				 <i><span class="en">
+					Pi.
+					<u>Fr.</u>
+					40
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν οἴακα</span>”
+				 <i><span class="en">
+					Anaxandr.
+					4.5
+				</span></i>
+			, cf. <i><span class="en">
+				Men.
+				482.4
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">σάκος</span>”
+				 <i><span class="en">
+					S.
+					<u>Aj.</u>
+					575
+				</span></i>
+			; of persons, 
+				“<span class="alpheios-lex-greek" lang="grc">ἡλίου πρὸς ἀντολὰς στρέψασα σαυτήν</span>”
+				 <i><span class="en">
+					A.
+					<u>Pr.</u>
+					708
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πρόσωπον πρὸς κασίγνητον στρέφε</span>”
+				 <i><span class="en">
+					E.
+					<u>Ph.</u>
+					457
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Hec.</u>
+				344
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">πάλιν στρέψεις κάρα</span>”
+				 <i><span class="en">
+					Id.
+					<u>Med.</u>
+					1152
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὄμμα πανταχῇ στρέφων</span>”
+				 <i><span class="en">
+					Id.
+					<u>IT</u>
+					68
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ς. ἀνταυγεῖς κόρας</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Th.</u>
+					902
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">σεαυτὸν εἰς πονηρὰ πράγματα</span>”
+				 <i><span class="en">
+					Id.
+					<u>Nu.</u>
+					1455
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πόλιν πρὸς κέρδος ἴδιον</span>”
+				 <i><span class="en">
+					E.
+					<u>Supp.</u>
+					413
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">στρατὸν πρὸς ἀλκήν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Andr.</u>
+					1149
+				</span></i>
+			; <i>wheel</i> soldiers <i>round</i>, <i><span class="en">
+				X.
+				<u>Lac.</u>
+				11.9
+			</span></i>; v. infr. <i><span class="en">
+				D.
+			</span></i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>cause to rotate</i> as on an axis, <span class="alpheios-lex-greek" lang="grc">κεραμικὴν γαῖαν ς</span>., i.e. on the potter's wheel,
+				<i><span class="en">
+				Sannyr.
+				4
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν ἄτρακτον</span>”
+				 <i><span class="en">
+					Hdt.
+					5.12
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν κόσμον μήτε αὐτὸν στρέφειν
+					ἑαυτόν, μήτε . . ὑπὸ θεοῦ στρέφεσθαι διττὰς
+					περιαγωγάς</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Plt.</u>
+					269e
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Epin.</u>
+				977b
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<span class="alpheios-lex-greek" lang="grc">πάντ᾽ ἄνω τε καὶ κάτω ς</span>.
+				<i>turn</i> upside down, <i><span class="en">
+				A.
+				<u>Eu.</u>
+				651
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">κάτω ς</span>. <i><span class="en">
+				S.
+				<u>Ant.</u>
+				717
+			</span></i>, <i><span class="en">
+				Ar.
+				<u>Ec.</u>
+				733
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ς. λόγους ἄνω καὶ κάτω</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Grg.</u>
+					511a
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Euthd.</u>
+				276d
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἄνω κάτω τοὺς νόμους
+			ς</span>. <i><span class="en">
+				D.
+				21.91
+			</span></i>; so 
+				“<span class="alpheios-lex-greek" lang="grc">δίκα καὶ πάντα πάλιν στρέφεται</span>”
+				 <i><span class="en">
+					E.
+					<u>Med.</u>
+					411
+				</span></i>
+			 (lyr.); <span class="alpheios-lex-greek" lang="grc">στρέφειν</span> alone,
+				<i>overturn, upset</i>, <i><span class="en">
+				Id.
+				<u>IT</u>
+				1166
+			</span></i>, <i><span class="en">
+				<u>Fr.</u>
+				536
+			</span></i> (troch.); <span class="alpheios-lex-greek" lang="grc">γῆν ς</span>.
+			<i>turn</i> it <i>over</i> by digging or ploughing, <i><span class="en">
+				X.
+				<u>Oec.</u>
+				16.15
+			</span></i>: c. acc. cogn., 
+				“<span class="alpheios-lex-greek" lang="grc">πάσας ς. στροφάς</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Ti.</u>
+					43e
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">γράμματα πανταχῇ ς</span>. <i><span class="en">
+				Id.
+				<u>Cra.</u>
+				414c
+			</span></i>: c. inf., <i>change</i> a thing <i>so as to
+				. . </i>, 
+				“<span class="alpheios-lex-greek" lang="grc">εὔκλειαν ἔχειν βιοτὰν στρέψουσι φᾶμαι</span>”
+				 <i><span class="en">
+					E.
+					<u>Med.</u>
+					416
+				</span></i>
+			 (lyr.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<span class="alpheios-lex-greek" lang="grc">ς. σφυρόν</span>
+			<i>sprain</i> or <i>dislocate</i> it, <i><span class="en">
+				Epict.
+				<u>Ench.</u>
+				29.2
+			</span></i>, <i><span class="en">
+				Arr.
+				<u>Epict.</u>
+				3.15.4
+			</span></i> (so 
+				“<span class="alpheios-lex-greek" lang="grc">στραφῆναι τὸν πόδα</span>”
+				 <i><span class="en">
+					Hdt.
+					3.129
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>Lg.</u>
+				789e
+			</span></i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> metaph. of
+			pain, <i>twist, torture</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">κακὸν στρέφει με περὶ τὴν γαστέρα</span>”
+				 <i><span class="en">
+					Antiph.
+					177
+				</span></i>
+			, cf. <i><span class="en">
+				Ar.
+				<u>Pl.</u>
+				1131
+			</span></i>, <i><span class="en">
+				<u>Fr.</u>
+				462
+			</span></i>, <i><span class="en">
+				Ael.
+				<u>NA</u>
+				2.44
+			</span></i> (
+				Pass.
+			), <i><span class="en">
+				Gal.
+				19.141
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">βρέμει ἡ κοιλίη καὶ στρέφει καὶ
+					βορβορύζει</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Int.</u>
+					6
+				</span></i>
+			: so <span class="alpheios-lex-greek" lang="grc">ς. τὴν ψυχήν</span>
+			<i>torment</i>, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				330e
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> of
+			corruptions in Music, 
+				“<span class="alpheios-lex-greek" lang="grc">κάμπτων καὶ στρέφων</span>”
+				 <i><span class="en">
+					Pherecr.
+					145.15
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>IV.</b>
+			<i>twist, plait</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">σπάρτα ἐστραμμένα</span>”
+				 <i><span class="en">
+					X.
+					<u>An.</u>
+					4.7.15
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐμβολάδην ἐστραμμέναι ἀλλήλῃσι</span>”
+				 <i><span class="en">
+					<u>h.Merc.</u>
+					411
+				</span></i>
+			; <i>spin</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ὑπὸ μακρῷ λίνῳ στρεφομένη</span>”
+				 <i><span class="en">
+					Luc.
+					<u>JConf.</u>
+					7
+				</span></i>
+			, cf. <i><span class="en">
+				1
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔστρεψεν Μοιρῶν μία νήματα</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					14.607i
+				</span></i>
+			 (<span class="entity">Caralis</span>); <span class="alpheios-lex-greek" lang="grc">κρόκην ς</span>. <i><span class="en">
+				Luc.
+				<u>Fug.</u>
+				12
+			</span></i>: metaph., 
+				“<span class="alpheios-lex-greek" lang="grc">μεγάλας ς. περιόδους</span>”
+				 <i><span class="en">
+					Plu.
+					2.235e
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>V.</b> t.t. of
+			wrestlers, <i>twist</i> the adversary <i>back</i>, <i><span class="en">
+				Poll.
+				3.155
+			</span></i>: metaph., <span class="alpheios-lex-greek" lang="grc">ἔριδα ς</span>. <i><span class="en">
+				Pi.
+				<u>N.</u>
+				4.93
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>VI.</b> metaph.,
+				<i>turn</i> a thing <i>over</i> in one's mind, <span class="alpheios-lex-greek" lang="grc">τί στρέφω τάδε</span>; <i><span class="en">
+				E.
+				<u>Hec.</u>
+				750
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς ἀλλήλους</span>”
+				 <i><span class="en">
+					Luc.
+					<u>Alex.</u>
+					8
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">βουλὴν ἐν ἑαυτῷ</span>”
+				 <i><span class="en">
+					Ael.
+					<u>NA</u>
+					10.48
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ πρᾶγμα πανταχῇ στρέφων ἀγαγεῖν
+					ἐπ᾽ ἐμέ</span>”
+				 <i><span class="en">
+					D.
+					21.116
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>VII.</b>
+			<i>return, give back</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀργύριά τισι</span>”
+				 <i><span class="en">
+					<u>Ev.Matt.</u>
+					27.3
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>VIII.</b>
+			<i>convert</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τὴν πέτραν εἰς λίμνας ὑδάτων</span>”
+				 <i><span class="en">
+					LXX
+					<u>Ps.</u>
+					113(114).8
+				</span></i>
+			, cf. <i><span class="en">
+				29(30).12
+			</span></i>, <i><span class="en">
+				<u>Ex.</u>
+				4.17
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">στραφήσῃ εἰς ἄνδρα
+			ἄλλον</span> ib.<i><span class="en">
+				<u>1 Ki.</u>
+				10.6
+			</span></i>; <i>transmute</i> metals, Zos.Alch.<i><span class="en">
+				p.195
+			</span></i>
+			<i><span class="en">
+				B.
+			</span></i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>IX.</b>
+			
+				f.l. for
+				<span class="alpheios-lex-greek" lang="grc">τρέπω</span>
+			 in <i><span class="en">
+				Lys.
+				32.20
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>B.</b>
+			
+				Pass.
+			 and 
+				Med.
+			, <i>twist</i> or <i>turn oneself</i>, <span class="alpheios-lex-greek" lang="grc">στρεφθείς</span>
+			<i>having turned face upward</i>, <i><span class="en">
+				Od.
+				9.435
+			</span></i>; <i>turn round</i> or <i>about, turn to and fro</i>,
+				<i><span class="en">
+				Il.
+				5.40
+			</span></i>, <i><span class="en">
+				575
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔν τε κύνεσσι κάπριος ἠὲ λέων
+					στρέφεται</span>”
+				 <i><span class="en">
+					12.42
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐστρέφετ᾽ ἔνθα καὶ
+			ἔνθα</span>, of one <i>tossing</i> in bed, <i><span class="en">
+				24.5
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τί δυσκολαίνεις καὶ στρέφει τὴν
+				νύχθ᾽ ὅλην</span>; <i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				36
+			</span></i>, cf. <i><span class="en">
+				Amphis
+				20.4
+			</span></i>; of patients, <i><span class="en">
+				Gal.
+				7.664
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>turn to</i> or <i>from</i> an object, 
+				“<span class="alpheios-lex-greek" lang="grc">ἔμελλε στρέψεσθ᾽ ἐκ χώρης</span>”
+				 <i><span class="en">
+					Il.
+					6.516
+				</span></i>
+			, cf. <i><span class="en">
+				Od.
+				16.352
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">στρεφθεὶς μετόπισθεν</span>
+			<i>turning</i> back, <i><span class="en">
+				Il.
+				15.645
+			</span></i>; <i>return</i>, <i><span class="en">
+				S.
+				<u>OC</u>
+				1648
+			</span></i>, <i><span class="en">
+				<u>Ant.</u>
+				315
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">στραφέντες ἔφευγον</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					3.3.63
+				</span></i>
+			, <i><span class="en">
+				<u>An.</u>
+				3.5.1
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ποῖ στρέφει</span>; <i>whither
+				away?</i>
+			<i><span class="en">
+				Ar.
+				<u>Th.</u>
+				230
+			</span></i>,<i><span class="en">
+				610
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> of the
+			heavenly bodies, <i>revolve, circle</i>, <i><span class="en">
+				Od.
+				5.274
+			</span></i>, <i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				40b
+			</span></i>; of the distaff, <i><span class="en">
+				Id.
+				<u>R.</u>
+				617a
+			</span></i>; of a joint, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν ἄρθροις ς. κοτυληδών</span>”
+				 <i><span class="en">
+					Ar.
+					<u>V.</u>
+					1495
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>turn</i> or <i>twist about</i>, like a wrestler
+			trying to elude his adversary: hence, in argument, <i>twist and
+				turn, shuffle</i>, <span class="alpheios-lex-greek" lang="grc">τί ταῦτα
+			στρέφει</span>; <i><span class="en">
+				Id.
+				<u>Ach.</u>
+				385
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τί δῆτα ἔχων στρέφει</span>;
+				<i><span class="en">
+				Pl.
+				<u>Phdr.</u>
+				236e
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">πάσας στροφὰς στρέφεσθαι</span>
+			<i>twist</i> every way, <i><span class="en">
+				Id.
+				<u>R.</u>
+				405c
+			</span></i>, cf. <i><span class="en">
+				<u>Euthd.</u>
+				302b
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>turn and change</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">κἂν σοῦ στραφείη θυμός</span>”
+				 <i><span class="en">
+					S.
+					<u>Tr.</u>
+					1134
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">στρεφόμενα λέγων</span>
+			<i>things that tell both ways</i>, <i><span class="en">
+				D.H.
+				<u>Rh.</u>
+				8.15
+			</span></i>: c. gen. causae, <span class="alpheios-lex-greek" lang="grc">τοῦ δὲ σοῦ ψόφου
+				οὐκ ἂν στραφείην</span>
+			<i>I would</i> not <i>turn for</i> any noise of thine, <i><span class="en">
+				S.
+				<u>Aj.</u>
+				1117
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>to be always engaged in</i> or <i>about</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν τούτοις στρέφεται καὶ ἑλίττεται ἡ
+					δόξα</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Tht.</u>
+					194b
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">περὶ τὸ αὐτὸ γένος στρέφεται ἡ
+					σοφιστική</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Metaph.</u>
+					1004b22
+				</span></i>
+			, cf. <i><span class="en">
+				Phld.
+				<u>Rh.</u>
+				2p.124S.
+			</span></i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> generally, <i>to be</i>
+			<i>at large, go about</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀνειμένη στρέφει</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					516
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν κυσὶν . . ἐστράφην λύκος</span>”
+				 <i><span class="en">
+					Sol.
+					37.6
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">στρέφεσθαι περὶ τὰ δικαστήρια</span>”
+				 <i><span class="en">
+					Phld.
+					<u>Rh.</u>
+					2.139
+				</span></i>
+			
+			<i><span class="en">
+				S.
+			</span></i>; of things, <i>to be rife</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ταῦτα μὲν ἐν δήμῳ στρέφεται κακά</span>”
+				 <i><span class="en">
+					Sol.
+					4.23
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> of places,
+				<span class="alpheios-lex-greek" lang="grc">τόποι ἐπὶ . . τὰς ἄρκτους
+				ἐστραμμένοι</span>
+			<i>turned, lying</i> towards . ., <i><span class="en">
+				Plb.
+				2.15.8
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>C.</b> in
+			strict med. sense, <i>turn about with oneself, take back</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">στράτευμ᾽ ἐς Ἄργος</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					1416
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>D.</b> intr. in 
+				Act.
+			, like
+			
+				Pass.
+			, <i>turn about</i>, <i><span class="en">
+				Il.
+				18.544
+			</span></i>,<i><span class="en">
+				546
+			</span></i>, where, however, <span class="alpheios-lex-greek" lang="grc">ζεύγεα</span> may
+			be supplied from <i><span class="en">
+				543
+			</span></i>, as may <span class="alpheios-lex-greek" lang="grc">ὄϊς</span> in <i><span class="en">
+				Od.
+				10.528
+			</span></i>, and <span class="alpheios-lex-greek" lang="grc">ἵππους</span> in <i><span class="en">
+				X.
+				<u>Eq.</u>
+				7.18
+			</span></i>; of soldiers, <i>wheel about</i>, <i><span class="en">
+				Id.
+				<u>An.</u>
+				4.3.26
+			</span></i> and <i><span class="en">
+				32
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">στρέψαντες ἀπεχώρουν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ages.</u>
+					2.3
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ποῖ στροφαὶ . . μανιῶν
+			στρέφουσι</span>; <i><span class="en">
+				S.
+				<u>Ichn.</u>
+				224
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὸν στρέφοντα κύκλον ἡλίου</span>
+			<i>revolving</i>, <i><span class="en">
+				Id.
+				<u>Fr.</u>
+				738
+			</span></i>, cf. <i><span class="en">
+				E.
+				<u>Ion</u>
+				1154
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">στρέψαι δεῦρ</span>', of the
+			Comic Chorus, <i><span class="en">
+				Pl.Com.
+				92
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">στρέψον τι, δούλη</span>
+			<i>withdraw</i> a little, <i><span class="en">
+				Herod.
+				1.8
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔστρεψεν ὁ θεός</span>”
+				 <i><span class="en">
+					<u>Act.Ap.</u>
+					7.42
+				</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

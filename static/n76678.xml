@@ -1,0 +1,456 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n76678" body-key=""><b><span class="alpheios-lex-greek" lang="grc">παίζω</span></b> , 
+			Dor.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">παίσδω</span></b> 
+		<i><span class="en">
+			Theoc.
+			15.42
+		</span></i>: 
+			Lacon.
+		
+		pres.
+		part. gen. pl. fem. <b><span class="alpheios-lex-greek" lang="grc">παιδδωἇν</span></b> 
+		<i><span class="en">
+			Ar.
+			<u>Lys.</u>
+			1313
+		</span></i> (lyr.): fut.
+		<span class="alpheios-lex-greek" lang="grc">παιξοῦμαι</span> Syrac. in <i><span class="en">
+			X.
+			<u>Smp.</u>
+			9.2
+		</span></i>, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">παίξομαι</span>”
+				 <i><span class="en">
+					LXX
+					<u>2 Ki.</u>
+					6.21
+				</span></i>
+			, <i><span class="en">
+				<u>AP</u>
+				12.46
+			</span></i> (<i><span class="en">
+				Asclep.
+			</span></i>), <span class="alpheios-lex-greek" lang="grc">παίξω</span> ib.<i><span class="en">
+				211
+			</span></i> (<i><span class="en">
+				Strat.
+			</span></i>), <i><span class="en">
+				<u>Anacreont.</u>
+				41.8
+			</span></i>: aor. 1
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔπαισα</span>”
+				 <i><span class="en">
+					Hom.
+				</span></i>
+			 (v. infr.), <i><span class="en">
+				Ar.
+				<u>Pl.</u>
+				1055
+			</span></i>, etc.: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">πέπαικα</span>”
+				 <i><span class="en">
+					Men.
+					923.3
+				</span></i>
+			: pf.
+			
+				Pass.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">πέπαισμαι</span>”
+				 <i><span class="en">
+					Hdt.
+					4.77
+				</span></i>
+			 (
+				v.l.
+				<span class="alpheios-lex-greek" lang="grc">πέπλασται</span>
+			), <i><span class="en">
+				Ar.
+				<u>Th.</u>
+				1227
+			</span></i>; imper. 
+				“<span class="alpheios-lex-greek" lang="grc">πεπαίσθω</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Euthd.</u>
+					278d
+				</span></i>
+			: also aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔπαιξα</span>”
+				 <i><span class="en">
+					Crates Com.
+					23
+				</span></i>
+			, <i><span class="en">
+				Ctes.
+				<u>Fr.</u>
+				29.59
+			</span></i>, <i><span class="en">
+				LXX
+				<u>Jd.</u>
+				16.25
+			</span></i>, <i><span class="en">
+				Luc.
+				<u>DDeor.</u>
+				6.4
+			</span></i>, etc.: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">πέπαιχα</span>”
+				 <i><span class="en">
+					Plu.
+					<u>Dem.</u>
+					9
+				</span></i>
+			:—
+				Pass.
+			, aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐπαίχθην</span>”
+				 <i><span class="en">
+					Id.
+					2.123f
+				</span></i>
+			, <i><span class="en">
+				Hld.
+				8.6
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">πέπαιγμαι</span>”
+				 <i><span class="en">
+					<u>Epigr.Gr.</u>
+					979.3
+				</span></i>
+			 (<span class="entity">Philae</span>); inf.
+			<span class="alpheios-lex-greek" lang="grc">πεπαῖχθαι</span> Timarch. ap. <i><span class="en">
+				Ath.
+				11.501f
+			</span></i>; imper. 
+				“<span class="alpheios-lex-greek" lang="grc">πεπαίχθω</span>”
+				 <i><span class="en">
+					Phld.
+					<u>Mus.</u>
+					p.106
+				</span></i>
+			 K., Fronto <i><span class="en">
+				<u>Epig.Gr.</u>
+				5.86
+			</span></i>: <i><span class="en">
+				Hom.
+			</span></i> uses only pres. and impf., and (in
+				<i><span class="en">
+				Od.
+				8.251
+			</span></i>) aor. imper. <span class="alpheios-lex-greek" lang="grc">παίσατε</span>; Trag. only pres.: (<span class="alpheios-lex-greek" lang="grc">παῖς</span>):—prop., <i>play like a
+				child, sport</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τῇ δέ θ᾽ ἅμα Νύμφαι . . ἀγρονόμοι
+					παίζουσι</span>”
+				 <i><span class="en">
+					Od.
+					6.106
+				</span></i>
+			, cf. <i><span class="en">
+				7.291
+			</span></i> (never in <i><span class="en">
+				Il.
+			</span></i>), <i><span class="en">
+				Hdt.
+				1.114
+			</span></i>, etc.: metaph., 
+				“<span class="alpheios-lex-greek" lang="grc">αἰὼν παῖς ἐστὶ παίζων</span>”
+				 <i><span class="en">
+					Heraclit.
+					52
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> esp.
+			<i>dance</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">παίσατε</span>”
+				 <i><span class="en">
+					Od.
+					8.251
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δῶμα περιστεναχίζετο ποσσὶν ἀνδρῶν
+					παιζόντων</span>”
+				 <i><span class="en">
+					23.147
+				</span></i>
+			, cf. <i><span class="en">
+				Hes.
+				<u>Sc.</u>
+				277
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">π. τε καὶ χορεύειν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ra.</u>
+					409
+				</span></i>
+			, cf. <i><span class="en">
+				390
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐνόπλια χαλκωθεὶς ἔπαιζεν</span>”
+				 <i><span class="en">
+					Pi.
+					<u>O.</u>
+					13.86
+				</span></i>
+			:—
+				Pass.
+			, <span class="alpheios-lex-greek" lang="grc">ἀλλὰ πέπαισται μετρίως
+			ἡμῖν</span>, of the chorus, <i><span class="en">
+				Ar.
+				<u>Th.</u>
+				1227
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>play</i> [a game], 
+				“<span class="alpheios-lex-greek" lang="grc">σφαίρῃ π.</span>”
+				 <i><span class="en">
+					Od.
+					6.100
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">κλεψύδρῃ</span>”
+				 <i><span class="en">
+					Emp.
+					100.9
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">κύβοις ἐπὶ συνθήκαις π</span>.
+			Ctes.l.c.; <span class="alpheios-lex-greek" lang="grc">ἀντ᾽ ἀστραγάλων κονδύλοισι
+			π</span>. <i><span class="en">
+				Pherecr.
+				43
+			</span></i>, cf. <i><span class="en">
+				Antiph.
+				92
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">π. διὰ γραμμῆς</span> (v.
+				<span class="alpheios-lex-greek" lang="grc">γραμμή</span> III. <i><span class="en">
+				2
+			</span></i>); 
+				“<span class="alpheios-lex-greek" lang="grc">π. πρὸς κότταβον</span>”
+				 <i><span class="en">
+					Pl.Com.
+					46.1
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">μετά τινων</span> with others,
+				<i><span class="en">
+				Hdt.
+				1.114
+			</span></i>: c. acc. cogn., <span class="alpheios-lex-greek" lang="grc">κότταβον
+				ἀ&lt;&gt;γκύλῃ π</span>. <i><span class="en">
+				Anacr.
+				53
+			</span></i> (dub.); 
+				“<span class="alpheios-lex-greek" lang="grc">σφαῖραν</span>”
+				 <i><span class="en">
+					Plu.
+					<u>Alex.</u>
+					73
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">π. παιδιὰν πρός τινα</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					1055
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>Alc.</u>
+				1.110b
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">κύνα καὶ πόλιν π.</span>, of a
+			game similar to our draughts, <i><span class="en">
+				Cratin.
+				56
+			</span></i>: with Advbs., <span class="alpheios-lex-greek" lang="grc">φαινίνδα π</span>.
+				<i><span class="en">
+				Antiph.
+				283
+			</span></i>, cf. <i><span class="en">
+				Crates Com.
+			</span></i> l.c., etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>play</i> on a musical instrument, <i><span class="en">
+				<u>h.Ap.</u>
+				206
+			</span></i>: c. acc., 
+				“<span class="alpheios-lex-greek" lang="grc">Πὰν ὁ καλαμόφθογγα παίζων</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ra.</u>
+					230
+				</span></i>
+			; <i>dance and sing</i>, <i><span class="en">
+				Pi.
+				<u>O.</u>
+				1.16
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>play amorously</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς ἀλλήλους</span>”
+				 <i><span class="en">
+					X.
+					<u>Smp.</u>
+					9.2
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">μετά τινος</span>”
+				 <i><span class="en">
+					LXX
+					<u>Ge.</u>
+					26.8
+				</span></i>
+			; of mares, <i><span class="en">
+				Arist.
+				<u>HA</u>
+				572a30
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<i>hunt, pursue game</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">π. κατ᾽ ἄλσος</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					567
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>jest, sport</i>, <i><span class="en">
+				Hdt.
+				2.28
+			</span></i>, <i><span class="en">
+				5.4
+			</span></i>, <i><span class="en">
+				9.11
+			</span></i>; opp. <span class="alpheios-lex-greek" lang="grc">σπουδάζω</span>, <i><span class="en">
+				X.
+				<u>Mem.</u>
+				4.1.1
+			</span></i>; opp. <span class="alpheios-lex-greek" lang="grc">σπουδῇ λέγω</span>, <i><span class="en">
+				Id.
+				<u>Cyr.</u>
+				8.3.47
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">παίζετε ταῦτα λέγοντες</span>
+			(opp. <span class="alpheios-lex-greek" lang="grc">σπουδάζετε</span>) <i><span class="en">
+				Pl.
+				<u>Euthd.</u>
+				283b
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">π. καὶ χλευάζειν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ra.</u>
+					376
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">π. καὶ γελᾶν</span>”
+				 <i><span class="en">
+					Antiph.
+					218.4
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πῖνε, παῖζε</span>”
+				 <i><span class="en">
+					Amphis
+					8
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">π. πρός τινα</span>
+			<i>make fun</i> with a person, <i><span class="en">
+				E.
+				<u>HF</u>
+				952
+			</span></i>, cf. <i><span class="en">
+				Pl.
+				<u>Men.</u>
+				79a
+			</span></i>, <i><span class="en">
+				Men.
+				<u>Pk.</u>
+				198
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">π. εἴς τι</span>
+			<i>play</i> with a thing, <i><span class="en">
+				Pl.
+				<u>Phd.</u>
+				89b
+			</span></i>: c. Adj. neut., 
+				“<span class="alpheios-lex-greek" lang="grc">τοιαῦτα ἔπαιζον σπουδῇ πρὸς ἀλλήλους</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					6.1.6
+				</span></i>
+			: part.
+			<span class="alpheios-lex-greek" lang="grc">παίζων</span> is freq. abs.,
+			<i>jestingly</i>, <i><span class="en">
+				Pl.
+				<u>Tht.</u>
+				145b
+			</span></i>, al.; opp. <span class="alpheios-lex-greek" lang="grc">σπουδάζων</span>, <i><span class="en">
+				Id.
+				<u>Lg.</u>
+				636c
+			</span></i>, al.:—
+				Pass.
+			, <span class="alpheios-lex-greek" lang="grc">ὁ λόγος πέπαισται</span>
+			<i>has been made up as a jest</i> (
+				v.l. for
+				<span class="alpheios-lex-greek" lang="grc">πέπλασται</span>
+			), <i><span class="en">
+				Hdt.
+				4.77
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ταῦτα πεπαίσθω ὑμῖν</span>
+			enough of <i>jest</i>, <i><span class="en">
+				Pl.
+				<u>Euthd.</u>
+				278d
+			</span></i>, cf. <i><span class="en">
+				<u>Phdr.</u>
+				278b
+			</span></i>, <i><span class="en">
+				Phld.
+			</span></i> l.c.; <span class="alpheios-lex-greek" lang="grc">πεπαῖχθαι τὴν λέξιν</span>
+			Timarch. l.c.; <span class="alpheios-lex-greek" lang="grc">τοῦτο τὸ
+			παιζόμενον</span> 'as the joke is', <i><span class="en">
+				Plu.
+				2.1090f
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὸ Μενεδήμῳ
+			πεπαιγμένον</span> ib.<i><span class="en">
+				81e
+			</span></i>; but <span class="alpheios-lex-greek" lang="grc">οἷα πέπαιγμαι</span>, in
+			act. sense, <i><span class="en">
+				<u>Epigr.Gr.</u>
+				979.3
+			</span></i> (<span class="entity">Philae</span>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> c. acc., <i>play with, make sport of</i>,
+				<i><span class="en">
+				Luc.
+				<u>Nigr.</u>
+				20
+			</span></i>, <i><span class="en">
+				<u>AP</u>
+				10.64
+			</span></i> (<i><span class="en">
+				Agath.
+			</span></i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> Gramm., of
+			words <i>played upon</i> or <i>coined for the joke's sake</i>,
+				<span class="alpheios-lex-greek" lang="grc">οἱ κωμῳδοὶ παίζειν εἰώθασι τὰ
+				τοιαῦτα</span> Sch.<i><span class="en">
+				Ar.
+				<u>Av.</u>
+				42
+			</span></i>, cf. <i><span class="en">
+				68
+			</span></i>, etc.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

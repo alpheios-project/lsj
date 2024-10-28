@@ -1,0 +1,584 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n101611" body-key=""><b><span class="alpheios-lex-greek" lang="grc">σφάλλω</span></b> , <i><span class="en">
+			S.
+			<u>Fr.</u>
+			192
+		</span></i>, <i><span class="en">
+			Hdt.
+			7.16
+		</span></i>.<span class="alpheios-lex-greek" lang="grc">ά</span>, etc.: fut.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">σφᾰλῶ</span>”
+				 <i><span class="en">
+					Th.
+					7.67
+				</span></i>
+			: aor. 1
+			<span class="alpheios-lex-greek" lang="grc">ἔσφηλα</span>, 
+				Ep.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">σφῆλα</span>”
+				 <i><span class="en">
+					Od.
+					17.464
+				</span></i>
+			, 
+				Dor.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔσφᾱλα</span>”
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					8.15
+				</span></i>
+			: but the intrans. 
+				“<span class="alpheios-lex-greek" lang="grc">ἔσφαλεν</span>”
+				 <i><span class="en">
+					LXX
+					<u>Jb.</u>
+					21.10
+				</span></i>
+			, <i><span class="en">
+				<u>Si.</u>
+				13.22
+			</span></i>, <i><span class="en">
+				<u>Am.</u>
+				5.2
+			</span></i>, opt. <span class="alpheios-lex-greek" lang="grc">σφάλαι</span> ib.<i><span class="en">
+				<u>Jb.</u>
+				18.7
+			</span></i>, are prob. forms of a Hellenistic aor. 1
+			<span class="alpheios-lex-greek" lang="grc">Ἔσφᾰλα</span> (presupposing
+				<span class="alpheios-lex-greek" lang="grc">Ἔσφᾰλον</span> as <span class="alpheios-lex-greek" lang="grc">ἦλθα</span> presupposes <span class="alpheios-lex-greek" lang="grc">ἦλθον</span>, etc.): pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔσφαλκα</span>”
+				 <i><span class="en">
+					Plb.
+					8.9.2
+				</span></i>
+			:— 
+				Pass.
+			, fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">σφᾰλήσομαι</span>”
+				 <i><span class="en">
+					S.
+					<u>Tr.</u>
+					719
+				</span></i>
+			,<i><span class="en">
+				1113
+			</span></i>, <i><span class="en">
+				Th.
+				3.14
+			</span></i>, etc.; freq. in med. form <span class="alpheios-lex-greek" lang="grc">σφᾰλοῦμαι</span>, <i><span class="en">
+				S.
+				<u>Fr.</u>
+				588
+			</span></i>, <i><span class="en">
+				X.
+				<u>Smp.</u>
+				2.26
+			</span></i>: aor.
+			<span class="alpheios-lex-greek" lang="grc">ἐσφάλην [ᾰ</span>] <i><span class="en">
+				Alc.
+				<u>Supp.</u>
+				27.13
+			</span></i> (prob.), <i><span class="en">
+				Hdt.
+				4.140
+			</span></i>, <i><span class="en">
+				Th.
+				8.24
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">ἐσφάλθην</span> only in <i><span class="en">
+				Gal.
+				5.62
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔσφαλμαι</span>”
+				 <i><span class="en">
+					E.
+					<u>Andr.</u>
+					896
+				</span></i>
+			, <i><span class="en">
+				Pl.
+				<u>Cra.</u>
+				436c
+			</span></i>: plpf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔσφαλτο</span>”
+				 <i><span class="en">
+					Th.
+					7.47
+				</span></i>
+			:— <i>make to fall, overthrow</i>, properly <i>by
+				tripping up, trip up in wrestling</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">οὔτ᾽ Ὀδυσεὺς δύνατο σφῆλαι οὔδει τε
+					πελάσσαι</span>”
+				 <i><span class="en">
+					Il.
+					23.719
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐδ᾽ ἄρα μιν σφῆλεν βέλος</span>”
+				 <i><span class="en">
+					Od.
+					17.464
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">Ἕκτορα</span>”
+				 <i><span class="en">
+					Pi.
+					<u>O.</u>
+					2.81
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀλλάλους σφάλλοντι παλαίμασι</span>”
+				 <i><span class="en">
+					Theoc.
+					24.112
+				</span></i>
+			; [<span class="alpheios-lex-greek" lang="grc">πώλους</span>] <i><span class="en">
+				E.
+				<u>Hipp.</u>
+				1232
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">γόνυ τινός</span>”
+				 <i><span class="en">
+					Id.
+					<u>Heracl.</u>
+					128
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τινὰ γνύξ</span>”
+				 <i><span class="en">
+					A.R.
+					3.1310
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τινὰ ἐπὶ τὴν γῆν</span>”
+				 <i><span class="en">
+					D.S.
+					14.23
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τὸ μὴ ὑπερπίνειν ἧττον ἂν καὶ
+				σώματα καὶ γνώμας ς</span>. <i><span class="en">
+				X.
+				<u>Cyr.</u>
+				8.8.10
+			</span></i>, cf. <i><span class="en">
+				1.3.10
+			</span></i> (
+				Pass.
+			); <span class="alpheios-lex-greek" lang="grc">ς. ναῦς</span>
+			<i>throw</i> them <i>on</i> their <i>beam-ends</i>, <i><span class="en">
+				Plu.
+				<u>Them.</u>
+				14
+			</span></i>, cf. <i><span class="en">
+				Polyaen.
+				3.11.13
+			</span></i>; [<span class="alpheios-lex-greek" lang="grc">ἵπποι] ἔσφηλαν</span> (gnomic
+				aor.) <span class="alpheios-lex-greek" lang="grc">τὸν ἀναβάτην</span>
+			<i>throw</i> him, <i><span class="en">
+				X.
+				<u>Eq.</u>
+				3.9
+			</span></i>:—
+				Pass.
+			, <i>to be tripped up</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">Φρυνίχου παλαίσμασιν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ra.</u>
+					689
+				</span></i>
+			 (troch.); of a drunken man, <span class="alpheios-lex-greek" lang="grc">σφαλλόμενος προσέρχεται</span>
+			<i>reeling, staggering</i>, <i><span class="en">
+				Id.
+				<u>V.</u>
+				1324
+			</span></i>, cf. <i><span class="en">
+				Heraclit.
+				117
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ς. ὑπὸ οἴνου</span>”
+				 <i><span class="en">
+					X.
+					<u>Lac.</u>
+					5.7
+				</span></i>
+			, cf. <i><span class="en">
+				<u>AP</u>
+				11.26
+			</span></i> (Marc. Arg.); 
+				“<span class="alpheios-lex-greek" lang="grc">ς. ἵππος</span>”
+				 <i><span class="en">
+					Plu.
+					<u>Phil.</u>
+					18
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ς. [ἱππεύς</span>] <i>is
+			thrown</i>, <i><span class="en">
+				X.
+				<u>Eq.</u>
+				7.7
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> generally,
+				<i>cause to fall, overthrow</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">βία καὶ μεγάλαυχον ἔσφαλεν</span>”
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					8.15
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀνθρώπων κακῶν ὁμιλίαι ς. τινά</span>”
+				 <i><span class="en">
+					Hdt.
+					7.16
+				</span></i>
+			.
+				“<span class="alpheios-lex-greek" lang="grc">ά; σμικροὶ λόγοι ἔσφηλαν ἤδη καὶ
+					κατώρθωσαν βροτούς</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					416
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">σφάλλω . . ὅσοι φρονοῦσιν εἰς ἡμᾶς
+					μέγα</span>”
+				 <i><span class="en">
+					E.
+					<u>Hipp.</u>
+					6
+				</span></i>
+			; [
+				“<span class="alpheios-lex-greek" lang="grc">ὀργὴ] πλεῖστα . . ς. βροτούς</span>”
+				 <i><span class="en">
+					Id.
+					<u>Fr.</u>
+					31
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἡ καταφρόνησις, ἡ ἀπειρία ς.
+				τινά</span>, <i><span class="en">
+				Th.
+				1.122
+			</span></i>, <i><span class="en">
+				2.87
+			</span></i>: abs., 
+				“<span class="alpheios-lex-greek" lang="grc">ἀτρεκεῖς ἐπιτηδεύσεις φασὶ σφάλλειν
+					πλέον ἢ τέρπειν</span>”
+				 <i><span class="en">
+					E.
+					<u>Hipp.</u>
+					262
+				</span></i>
+			 (anap.): also of things, 
+				“<span class="alpheios-lex-greek" lang="grc">ἁμαρτίαι ς. τὴν σωτηρίαν</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					192
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">δειναὶ τύχαι ς. δόμους</span>”
+				 <i><span class="en">
+					E.
+					<u>Med.</u>
+					198
+				</span></i>
+			 (anap.); 
+				“<span class="alpheios-lex-greek" lang="grc">ς. τὰς πόλεις</span>”
+				 <i><span class="en">
+					Th.
+					3.37
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ς. δίκαν</span>”
+				 <i><span class="en">
+					E.
+					<u>Andr.</u>
+					780
+				</span></i>
+			 (lyr.); <span class="alpheios-lex-greek" lang="grc">σφάλλων</span>, name of a
+			throw of the dice, <i><span class="en">
+				Eub.
+				57.5
+			</span></i> (s. v.l.):—
+				Pass.
+			, <i>to be overthrown, fall</i>, esp. of persons falling
+			from high fortunes, 
+				“<span class="alpheios-lex-greek" lang="grc">σφαλεὶς γὰρ οὐδεὶς εὖ βεβουλεῦσθαι
+					δοκεῖ</span>”
+				 <i><span class="en">
+					Chaerem.
+					26
+				</span></i>
+			, cf. <i><span class="en">
+				S.
+				<u>Tr.</u>
+				297
+			</span></i>,<i><span class="en">
+				719
+			</span></i>, <i><span class="en">
+				E.
+				<u>Fr.</u>
+				262.2
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">ἢν σφαλῇ [ἡ
+			Ἑλλάς</span>] <i><span class="en">
+				Hdt.
+				7.168
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἢν ἄρα τι σφαλλώμεθα</span>,
+			opp. <span class="alpheios-lex-greek" lang="grc">κατορθοῦν</span>, <i><span class="en">
+				Th.
+				1.140
+			</span></i>, cf. <i><span class="en">
+				Ar.
+				<u>Ra.</u>
+				736
+			</span></i> (troch.), <i><span class="en">
+				<u>Pl.</u>
+				351
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">σφαλλομένους ἐπανορθῶν</span>”
+				 <i><span class="en">
+					X.
+					<u>Mem.</u>
+					2.4.6
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ταῖς τύχαις σφάλλεσθαι</span>”
+				 <i><span class="en">
+					Th.
+					2.87
+				</span></i>
+			, cf. <i><span class="en">
+				43
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὑπὸ νόσων, ἐρώτων, μέθης
+				ἐσφαλμένος</span>, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				396d
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὑπὸ χρόνων τι ς</span>.
+				<i>suffer</i> from length of time, <i><span class="en">
+				Id.
+				<u>Lg.</u>
+				769c
+			</span></i>: c. dat. modi, 
+				“<span class="alpheios-lex-greek" lang="grc">σφάλλεσθαι ἀξιόχρεῳ δυνάμει</span>”
+				 <i><span class="en">
+					Th.
+					6.10
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῖς ἀγῶσι</span>”
+				 <i><span class="en">
+					Id.
+					7.61
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῖς ὅλοις</span>”
+				 <i><span class="en">
+					Plb.
+					1.43.8
+				</span></i>
+			: with a Prep., 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν τῇ μάχῃ</span>”
+				 <i><span class="en">
+					X.
+					<u>HG</u>
+					7.2.2
+				</span></i>
+			, cf. <i><span class="en">
+				Hdt.
+				7.50
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τι ἐν τοῖς λόγοις</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Grg.</u>
+					461d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">περί τι</span>”
+				 <i><span class="en">
+					Id.
+					<u>R.</u>
+					451a
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">περί τινος</span>”
+				 <i><span class="en">
+					Plu.
+					2.164c
+				</span></i>
+			: with neut. Adj., 
+				“<span class="alpheios-lex-greek" lang="grc">σφάλλεσθαι ἓν μέγα</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					648e
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐν τοῖς δικασταῖς, κοὐκ ἐμοί,
+				τόδ᾽ ἐσφάλη</span> this <i>mishap took place</i> by
+			means of . . , <i><span class="en">
+				S.
+				<u>Aj.</u>
+				1136
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οὔ τι μὴ σφαλῶ γ᾽ ἐν σοί</span>
+			<i>I shall</i> not <i>fail</i> in thy business, <i><span class="en">
+				Id.
+				<u>Tr.</u>
+				621
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>baffle, balk, frustrate</i>, of an oracle, <i><span class="en">
+				Hdt.
+				7.142
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">θεὰ ἤδη μ᾽ . . ἔσφηλεν</span>”
+				 <i><span class="en">
+					S.
+					<u>Aj.</u>
+					452
+				</span></i>
+			, cf. <i><span class="en">
+				E.
+				<u>Alc.</u>
+				34
+			</span></i> (anap.), <i><span class="en">
+				<u>Andr.</u>
+				223
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἐκ τοῦ φανεροῦ τὴν πόλιν
+			ς</span>. <i><span class="en">
+				Aeschin.
+				3.125
+			</span></i>:— 
+				Pass.
+			, <i>err, go wrong, be mistaken</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">κατὰ γνώμην</span>”
+				 <i><span class="en">
+					Hdt.
+					7.52
+				</span></i>
+			: abs., <i><span class="en">
+				S.
+				<u>El.</u>
+				1481
+			</span></i>, <i><span class="en">
+				E.
+				<u>IA</u>
+				1541
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">μῶν ἐσφάλμεθ᾽</span>;
+				<i>am I mistaken?</i>
+			<i><span class="en">
+				Id.
+				<u>Andr.</u>
+				896
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡ ψυχὴ πολλὰ σφάλλεται</span>”
+				 <i><span class="en">
+					Isoc.
+					1.32
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">γνώμῃ σφαλέντες</span>”
+				 <i><span class="en">
+					Th.
+					4.18
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">διανοίᾳ ς</span>. <i><span class="en">
+				Pl.
+				<u>Sph.</u>
+				229c
+			</span></i>; so <span class="alpheios-lex-greek" lang="grc">ς. τὴν γνώμην, τὸν
+			λογισμόν</span>, <i><span class="en">
+				Clearch.
+				23
+			</span></i>, <i><span class="en">
+				Plu.
+				<u>Sull.</u>
+				15
+			</span></i>: c. inf., <span class="alpheios-lex-greek" lang="grc">οὐκ ἂν
+				σφαλείη . . ἑλέσθαι</span>
+			<i>be led astray</i> into choosing, <i><span class="en">
+				Id.
+				2.711b
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			
+				Pass.
+			 also, c. gen. rei, <i>to be balked of</i> or <i>foiled
+				in</i> a thing, <span class="alpheios-lex-greek" lang="grc">ἦ καὶ πατήρ τι
+				σφάλλεται βουλευμάτων</span>; <i><span class="en">
+				A.
+				<u>Eu.</u>
+				717
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">γάμων, δόξης, τύχης</span>,
+				<i><span class="en">
+				E.
+				<u>Or.</u>
+				1078
+			</span></i>, <i><span class="en">
+				<u>Med.</u>
+				1010
+			</span></i>, <i><span class="en">
+				<u>Ph.</u>
+				758
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τῆς δόξης</span>”
+				 <i><span class="en">
+					Th.
+					4.85
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ αὐχήματος</span>”
+				 <i><span class="en">
+					Id.
+					7.66
+				</span></i>
+			, cf. <i><span class="en">
+				5.110
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐκ ἔσφαλται τῆς ἀληθείας</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Cra.</u>
+					436c
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τῶν πραγμάτων ᾗ ἔχει</span>”
+				 <i><span class="en">
+					Id.
+					<u>Hp.Mi.</u>
+					372b
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἀνδρός</span>
+			<i>lose</i> him, <i><span class="en">
+				S.
+				<u>Tr.</u>
+				1113
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ παντός</span>”
+				 <i><span class="en">
+					Plu.
+					<u>Brut.</u>
+					20
+				</span></i>
+			:—<span class="alpheios-lex-greek" lang="grc">σφάλλειν τινὰ ἀπ᾽
+				ἐλπίδος</span>
+			<i>cast</i> him <i>down</i> from his hope, <i><span class="en">
+				Luc.
+				<u>Dem.Enc.</u>
+				29
+			</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

@@ -1,0 +1,661 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n10921" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἀνύω</span></b>  (<span class="alpheios-lex-greek" lang="grc">ᾰνῠ</span>), <i><span class="en">
+			Il.
+			4.56
+		</span></i>, <i><span class="en">
+			Ar.
+			<u>Ra.</u>
+			606
+		</span></i>, 
+			Att.
+		
+		<b><span class="alpheios-lex-greek" lang="grc">ἀνύτω</span></b>  or <b><span class="alpheios-lex-greek" lang="grc">ἁνύτω</span></b> 
+		<i><span class="en">
+			Th.
+			2.75
+		</span></i>, <i><span class="en">
+			Pl.
+			<u>R.</u>
+			486c
+		</span></i>, al.: impf.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">ἤνυον</span>”
+				 <i><span class="en">
+					Hdt.
+					9.66
+				</span></i>
+			, <i><span class="en">
+				E.
+				<u>Hec.</u>
+				1167
+			</span></i>: fut.
+			<span class="alpheios-lex-greek" lang="grc">ἀνύσω <span class="alpheios-lex-greek" lang="grc">[ῠ]</span>,</span>
+			<i><span class="en">
+				S.
+				<u>Aj.</u>
+				607
+			</span></i>, <i><span class="en">
+				Ar.
+				<u>Ra.</u>
+				649
+			</span></i>, 
+				Ep.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐξ-ανύω</span>”
+				 <i><span class="en">
+					11.11.365
+				</span></i>
+			: aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἤνῠσα</span>”
+				 <i><span class="en">
+					Od.
+					24.71
+				</span></i>
+			, <i><span class="en">
+				A.
+				<u>Pers.</u>
+				726
+			</span></i>, etc.; poet. <span class="alpheios-lex-greek" lang="grc">ἥνυσσα</span> (
+				Dor.
+			
+			<span class="alpheios-lex-greek" lang="grc">ᾱν-</span>) <i><span class="en">
+				Pi.
+				<u>P.</u>
+				12.11
+			</span></i>, <i><span class="en">
+				A.R.
+				4.413
+			</span></i>, 
+				Ep.
+			
+			<span class="alpheios-lex-greek" lang="grc">ἄνυσσα [ᾰ</span>] <i><span class="en">
+				Hes.
+				<u>Th.</u>
+				954
+			</span></i>, <i><span class="en">
+				Maiist.
+				57
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">ὑπ-</span>): pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἤνῠκα</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Plt.</u>
+					264b
+				</span></i>
+			:—
+				Pass.
+			, pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἤνυσμαι</span>”
+				 <i><span class="en">
+					Plb.
+					8.29.1
+				</span></i>
+			, etc., 
+				“<span class="alpheios-lex-greek" lang="grc">δι-ήνυσμαι</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					1.4.28
+				</span></i>
+			: aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἠνύσθην</span>”
+				 <i><span class="en">
+					Plb.
+					32.3.17
+				</span></i>
+			, <i><span class="en">
+				D.Chr.
+				3.127
+			</span></i>: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἀνυσθήσομαι</span>”
+				 <i><span class="en">
+					J.
+					<u>AJ</u>
+					1.19.1
+				</span></i>
+			, <i><span class="en">
+				Ael.
+				<u>VH</u>
+				1.21
+			</span></i>:—
+				Med.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">ἀνύομαι</span>”
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					2.49
+				</span></i>
+			, <i><span class="en">
+				Bion
+				<u>Fr.</u>
+				4.6
+			</span></i>: impf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἠνυτόμην</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					1159
+				</span></i>
+			: fut.
+			<span class="alpheios-lex-greek" lang="grc">ἀνύσομαι</span> (v. infr.): aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἠνυσάμην</span>”
+				 <i><span class="en">
+					A.
+					<u>Pr.</u>
+					700
+				</span></i>
+			, <i><span class="en">
+				S.
+				<u>Tr.</u>
+				995
+			</span></i>(lyr.), inf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἀνύσασθαι</span>”
+				 <i><span class="en">
+					X.
+					<u>An.</u>
+					7.7.24
+				</span></i>
+			 (Valck.)—Non-thematic forms are found in poets:
+				impf.
+			
+				Act.
+			
+			<span class="alpheios-lex-greek" lang="grc">ἄνῠμες,</span>
+			
+				Dor.
+			 for <span class="alpheios-lex-greek" lang="grc">ἤνυμεν,</span>
+			<i><span class="en">
+				Theoc.
+				7.10
+			</span></i>: pres.
+			
+				Pass.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἄνυται</span>”
+				 <i><span class="en">
+					Opp.
+					<u>H.</u>
+					3.427
+				</span></i>
+			, <i><span class="en">
+				Nic.
+				<u>Al.</u>
+				599
+			</span></i>: impf.
+			
+				Pass.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἤνῠτο</span>”
+				 <i><span class="en">
+					Od.
+					5.243
+				</span></i>
+			 (nisileg.<span class="alpheios-lex-greek" lang="grc">ἤνετο</span>); 
+				Dor.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἄνῠτο</span>”
+				 <i><span class="en">
+					Theoc.
+					2.92
+				</span></i>
+			. [<span class="alpheios-lex-greek" lang="grc">ῠ</span> in all parts:
+			hence <span class="alpheios-lex-greek" lang="grc">ἀνῦσαι</span> in <i><span class="en">
+				Tryph.
+				126
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ἀνῡσάμενοι</span> in <i><span class="en">
+				<u>AP</u>
+				10.12
+			</span></i> should be written with <span class="alpheios-lex-greek" lang="grc">σς</span>:
+				<span class="alpheios-lex-greek" lang="grc">ἀνΰων</span> is corrupt in <i><span class="en">
+				Nonn.
+				<u>D.</u>
+				21.16
+			</span></i>]:—<i>effect, accomplish,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἤνυτο δ᾽ ἔρλον</span>”
+				 <i><span class="en">
+					Od.
+					5.243
+				</span></i>
+			 (v. supr.), cf.<i><span class="en">
+				A.
+				<u>Pers.</u>
+				726
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς θανάτῳ θάνατον ἀνύσασα</span>”
+				 <i><span class="en">
+					S.
+					<u>Tr.</u>
+					886
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀρωγάν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ph.</u>
+					1145
+				</span></i>
+			 (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">τοὔπος ὡς ἄρ᾽ ὀρθὸν ἤνυσας</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ant.</u>
+					1178
+				</span></i>
+			, cf. <i><span class="en">
+				<u>OC</u>
+				454
+			</span></i>: abs., <span class="alpheios-lex-greek" lang="grc">οὐδὲν ἤνυε</span> he
+				<i>did</i> no <i>good,</i>
+			<i><span class="en">
+				Hdt.
+				9.66
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">εἴ τι ἔμελλεν ἀνύτειν</span>
+			whatever was like ly <i>to forward the work,</i>
+			<i><span class="en">
+				Th.
+				2.75
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">σμικρὸν ἀνύτειν</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Sph.</u>
+					230a
+				</span></i>
+			, al.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἧσσον ἁνύτειν</span>”
+				 <i><span class="en">
+					Th.
+					2.76
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐδὲν ἤνυε τούτοις</span>”
+				 <i><span class="en">
+					D.
+					21.104
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἀ. εἴς τι</span>
+			<i>to conduce</i> towards . ., <i><span class="en">
+				Pl.
+				<u>Ax.</u>
+				369d
+			</span></i>: c. acc. et inf., <span class="alpheios-lex-greek" lang="grc">Ἀπόλλων . . ἐκεῖνον ἤνυσε φονέα γενέσθαι</span>
+			<i>brought it to pass</i> that . ., <i><span class="en">
+				S.
+				<u>OT</u>
+				720
+			</span></i>:—
+				Med.
+			, <i>accomplish for one's own advantage,</i>
+			<span class="alpheios-lex-greek" lang="grc">ἀνύσσεσθαι τάδε ἔργα</span> (if not in
+			pass. sense, <i>will be accomplished</i>) <i><span class="en">
+				Od.
+				16.373
+			</span></i>, cf. <i><span class="en">
+				Hp.
+				<u>Ep.</u>
+				27
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">θεός . . τέκμαρ
+				ἀνύ&lt;&gt;ται</span>
+			<i><span class="en">
+				Pi.
+				<u>P.</u>
+				2.49
+			</span></i>, cf. <i><span class="en">
+				Ar.
+				<u>Pl.</u>
+				196
+			</span></i>, dub. in <i><span class="en">
+				Pl.
+				<u>Phd.</u>
+				69d
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>make an end of, destroy,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">φλόξ σε ἤνυσεν</span>”
+				 <i><span class="en">
+					Od.
+					24.71
+				</span></i>
+			; <i>kill,</i>
+			<i><span class="en">
+				Pi.
+				<u>P.</u>
+				12.11
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> c. dupl.
+			acc., <i>make, cause to be,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἠνύσατ᾽ ἐκτοπίαν φλόγα</span>”
+				 <i><span class="en">
+					S.
+					<u>OT</u>
+					166
+				</span></i>
+			 (lyr.), <i><span class="en">
+				Nic.
+				<u>Al.</u>
+				400
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>make,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἰκόνα</span>”
+				 <i><span class="en">
+					<u>AP</u>
+					12.56
+				</span></i>
+			(<i><span class="en">
+				Mel.
+			</span></i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>finish a journey,</i>
+			<span class="alpheios-lex-greek" lang="grc">ὅσσον τε πανημερίη γλαφυρὴ νηῦς
+			ἤνυσεν</span> (sc. <span class="alpheios-lex-greek" lang="grc">ὁδοῦ</span>) as
+			much as a ship <i>gets over</i> in a day, <i><span class="en">
+				Od.
+				4.357
+			</span></i>; so 
+				“<span class="alpheios-lex-greek" lang="grc">πολλὴν κέλευθον ἤνυδεν</span>”
+				 <i><span class="en">
+					A.
+					<u>Pers.</u>
+					748
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πορείαν</span>”
+				 <i><span class="en">
+					Onos.
+					6.1
+				</span></i>
+			: c. acc. loci, 
+				“<span class="alpheios-lex-greek" lang="grc">ὄφρα τάχιστα νηῦς ἀνύσειε θαλάσσης .
+					. ὕδωρ</span>”
+				 <i><span class="en">
+					Od.
+					15.294
+				</span></i>
+			, cf. <i><span class="en">
+				Thgn.
+				511
+			</span></i>, <i><span class="en">
+				S.
+				<u>Ant.</u>
+				231
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b> in Trag.
+			freq. abs. (sc. <span class="alpheios-lex-greek" lang="grc">ὁδόν</span> or <span class="alpheios-lex-greek" lang="grc">κέλευθον</span>), <i>make one's way, win,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς πόλιν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Tr.</u>
+					657
+				</span></i>
+			 (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ ἀκτάν</span>”
+				 <i><span class="en">
+					E.
+					<u>Hipp.</u>
+					743
+				</span></i>
+			; also <span class="alpheios-lex-greek" lang="grc">θάλαμον ἀνύτειν</span>
+			(i.e. <span class="alpheios-lex-greek" lang="grc">εἰς θάλαμον</span>) <i>reach</i>
+			the bridal chamber, <i><span class="en">
+				S.
+				<u>Ant.</u>
+				805
+			</span></i> (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">ἀ. Ἅιδαν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Aj.</u>
+					607
+				</span></i>
+			 (lyr.), <i><span class="en">
+				E.
+				<u>Supp.</u>
+				1142
+			</span></i> (lyr.): metaph., <span class="alpheios-lex-greek" lang="grc">ζυγὰ ἤνυσε δούλια
+				Τροία</span> (s.v.l.) <i><span class="en">
+				Id.
+				<u>Tr.</u>
+				599
+			</span></i> (<span class="alpheios-lex-greek" lang="grc">Τροίᾳ</span> Sch.): rarely with
+				inf. instead of acc., <span class="alpheios-lex-greek" lang="grc">στρατὸς ἤνυσε περᾶν</span>
+			<i>succeeded in</i> crossing, <i><span class="en">
+				A.
+				<u>Pers.</u>
+				721
+			</span></i>: with Adj., <i>come to be,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">εὐδαίμων ἀνύσει καὶ μέγας</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					720
+				</span></i>
+			 (lyr.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>7.</b> in 
+				Pass.
+			 of Time, <i>come to an end,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">χρόνος ἄνυτο</span>”
+				 <i><span class="en">
+					Theoc.
+					2.92
+				</span></i>
+			, cf. <i><span class="en">
+				Eus.Mynd.
+				63
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>8.</b> in 
+				Pass.
+			 of persons, <i>grow up,</i>
+			<span class="alpheios-lex-greek" lang="grc">ἠνυτόμαν τροφαῖς</span> (lyr.) <i><span class="en">
+				A.
+				<u>Ag.</u>
+				1159
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>9.</b>
+			<i>get, obtain,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">γαστρὶ φορβάν</span>”
+				 <i><span class="en">
+					S.
+					<u>Ph.</u>
+					711
+				</span></i>
+			 (lyr.), cf. <i><span class="en">
+				Theoc.
+				5.144
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τίνος χρείας ἀνύσαι;</span>
+			i.e. 
+				“<span class="alpheios-lex-greek" lang="grc">τίνος χρείας προσπίτνετε, ὥστε ἀνύσαι
+					αὐτήν;</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					1755
+				</span></i>
+			:—
+				Med.
+			, <span class="alpheios-lex-greek" lang="grc">χρείαν ἠνύσασθε</span> ye
+				<i>obtained</i> it, <i><span class="en">
+				A.
+				<u>Pr.</u>
+				700
+			</span></i>, cf. <i><span class="en">
+				<u>Ch.</u>
+				858
+			</span></i>, <i><span class="en">
+				S.
+				<u>Tr.</u>
+				995
+			</span></i> (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦτο ἐκ Μοιρέων ἠνύσατο</span>”
+				 <i><span class="en">
+					<u>AP</u>
+					7.506
+				</span></i>
+			 (<i><span class="en">
+				Leon.
+			</span></i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> c.
+				part., <span class="alpheios-lex-greek" lang="grc">οὐκ ἀνύω φθονέουσα</span>
+			<i>I gain</i> nothing by grudging, <i><span class="en">
+				Il.
+				4.56
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> in Com.,
+				<i>do quickly, make haste,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">οὐ μέλλειν . ., ἀλλ᾽ ἀνύειν</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					607
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Ra.</u>
+				606
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οὐκ ἀνύσεις τι;</span>
+			<i>make haste!</i> ib.<i><span class="en">
+				649
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀλλ᾽ ἄνυσον, οὐ μέλλειν ἐχρῆν</span>”
+				 <i><span class="en">
+					<u>Fr.</u>
+					102
+				</span></i>
+			: c. part., <span class="alpheios-lex-greek" lang="grc">ἄνυε πράττων</span>
+			<i>make haste</i> about it, <i><span class="en">
+				<u>Pl.</u>
+				413
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἄνυσον ὑποδησάμενος</span>
+			<i>make haste</i> and get your shoes on, <i><span class="en">
+				<u>V.</u>
+				1168
+			</span></i>, cf. <i><span class="en">
+				<u>Av.</u>
+				241
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄνυσόν ποτ᾽ ἐξελθών</span>”
+				 <i><span class="en">
+					Pherecr.
+					40
+				</span></i>
+			: more freq. in part.
+			<span class="alpheios-lex-greek" lang="grc">ἀνύσας,</span> or <span class="alpheios-lex-greek" lang="grc">ἀνύσας τι</span> with a Verb, <span class="alpheios-lex-greek" lang="grc">ἄνοιγ᾽, ἄνοιγ᾽ ἀνύσας</span>
+			<i>make haste</i> and open the door, <i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				181
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀνάβαιν᾽ ἀνύσας</span>”
+				 <i><span class="en">
+					<u>V.</u>
+					398
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">σὺδ᾽ ἔγχεον πιεῖν ἀνύσας τι</span>”
+				 <i><span class="en">
+					<u>Eq.</u>
+					119
+				</span></i>
+			, cf. <i><span class="en">
+				<u>V.</u>
+				202
+			</span></i>,<i><span class="en">
+				847
+			</span></i>, <i><span class="en">
+				1158
+			</span></i>, <i><span class="en">
+				<u>Pl.</u>
+				648
+			</span></i>,<i><span class="en">
+				974
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">βοηθησάτω τις ἀνύσας</span>”
+				 <i><span class="en">
+					<u>Ach.</u>
+					571
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">νῦν οὖν ἀνύσαντε φροντίσωμεν</span>”
+				 <i><span class="en">
+					<u>Eq.</u>
+					71
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀκολουθήσεις ἐμοὶ ἀνύσας τι</span>”
+				 <i><span class="en">
+					<u>Nu.</u>
+					506
+				</span></i>
+			, cf. <i><span class="en">
+				1253
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀπόδωμεν ἀνύσαντε</span>”
+				 <i><span class="en">
+					<u>Pax</u>
+					872
+				</span></i>
+			. (The distinction of meaning <span class="alpheios-lex-greek" lang="grc">ἀνύτω</span>
+			<i>accomplish, make way,</i>
+			<span class="alpheios-lex-greek" lang="grc">ἀνύω</span>
+			<i>hasten,</i> is doubtful, cf. <i><span class="en">
+				<u>AB</u>
+				411
+			</span></i>.—
+				Att.
+			
+			
+			<span class="alpheios-lex-greek" lang="grc">ἁνύω</span> acc. to Hdn.Gr.<i><span class="en">
+				1.541
+			</span></i>, <i><span class="en">
+				Phryn.
+				<u>PS</u>
+				p.23B.
+			</span></i>, cf. 
+				“<span class="alpheios-lex-greek" lang="grc">καθανύσαι</span>”
+				 <i><span class="en">
+					X.
+					<u>HG</u>
+					7.1.15
+				</span></i>
+			 (<i><span class="en">
+				Hsch.
+			</span></i>); but <span class="alpheios-lex-greek" lang="grc">κατανύειν</span> (q.v.)
+			occurs in Trag., cf. 
+				“<span class="alpheios-lex-greek" lang="grc">ταῦτ᾽ ἀνύσηται</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					196
+				</span></i>
+			.) (I.-<i><span class="en">
+				E.
+			</span></i>
+			<i>sen-,</i>
+			pres. stem <i>s[ngnull]neu-,</i> cf. Skt.
+				<i>sanoti</i> 'wins'.)</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>
