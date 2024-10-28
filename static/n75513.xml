@@ -1,0 +1,260 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n75513" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ὅς</span></b> , <span class="alpheios-lex-greek" lang="grc">ἥ, ὅν</span>
+		(not <span class="alpheios-lex-greek" lang="grc">ὅ,</span>
+		v.
+		<i><span class="en">
+			Il.
+			1.609
+		</span></i>,<i><span class="en">
+			21.305
+		</span></i>, <i><span class="en">
+			Od.
+			11.515
+		</span></i>), gen. <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">οἷο</span>”
+				 <i><span class="en">
+					Il.
+					3.333
+				</span></i>
+			, <i><span class="en">
+				Od.
+				1.330
+			</span></i>, al., 
+				“<span class="alpheios-lex-greek" lang="grc">οὗ</span>”
+				 <i><span class="en">
+					23.150
+				</span></i>
+			, al. ; Cret. <b><span class="alpheios-lex-greek" lang="grc">ϝός</span></b> 
+			<i><span class="en">
+				<u>Leg.Gort.</u>
+				1.18
+			</span></i>,al., <i><span class="en">
+				<u>SIG</u>
+				1183
+			</span></i> ; so in 
+				Aeol.
+			, <i><span class="en">
+				Sapph.
+				<u>Supp.</u>
+				1.6
+			</span></i>, <i><span class="en">
+				<u>Lyr.Adesp.</u>
+				32
+			</span></i>, cf. <i><span class="en">
+				A.D.
+				<u>Pron.</u>
+				107.11
+			</span></i> :—POSSES<i><span class="en">
+				S.
+			</span></i> PRON.: </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>I.</b> of the <i><span class="en">
+				3
+			</span></i> pers., <i>his, her,</i> put either before or after its
+			Noun, <span class="alpheios-lex-greek" lang="grc">ᾧ πενθερῷ, ὃν θυμόν,</span>
+			etc., <i><span class="en">
+				Il.
+				6.170
+			</span></i>,<i><span class="en">
+				202
+			</span></i>, etc. ; 
+				“<span class="alpheios-lex-greek" lang="grc">ἧς ἀρχῆς</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					12.761
+				</span></i>
+			 ; <span class="alpheios-lex-greek" lang="grc">πόσιος οὗ, πατέρι ᾧ,</span>
+			<i><span class="en">
+				Od.
+				23.150
+			</span></i>,<i><span class="en">
+				3.39
+			</span></i>, etc.: sts. also with Art., 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ ἃ κῆλα</span>”
+				 <i><span class="en">
+					Il.
+					12.280
+				</span></i>
+			 ; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ ἃ δώματα</span>”
+				 <i><span class="en">
+					Od.
+					14.153
+				</span></i>
+			, etc.; also in Lyr., <i><span class="en">
+				Pi.
+				<u>O.</u>
+				5.8
+			</span></i>, <i><span class="en">
+				<u>P.</u>
+				6.36
+			</span></i> (elsewh. <i><span class="en">
+				Pi.
+			</span></i> prefers <span class="alpheios-lex-greek" lang="grc">ἑός</span>), <i><span class="en">
+				B.
+				5.47
+			</span></i>: sts. in Trag., 
+				“<span class="alpheios-lex-greek" lang="grc">λέσχας ἇς</span>”
+				 <i><span class="en">
+					A.
+					<u>Eu.</u>
+					367
+				</span></i>
+			 (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">ὧν παίδων</span>”
+				 <i><span class="en">
+					S.
+					<u>OC</u>
+					1639
+				</span></i>
+			 (iamb.); 
+				“<span class="alpheios-lex-greek" lang="grc">ἐκγόνοισιν οἷς</span>”
+				 <i><span class="en">
+					E.
+					<u>Med.</u>
+					955
+				</span></i>
+			 (iamb.): with Art., 
+				“<span class="alpheios-lex-greek" lang="grc">λιτῶν τῶν ὧν</span>”
+				 <i><span class="en">
+					A.
+					<u>Th.</u>
+					641
+				</span></i>
+			 ; 
+				“<span class="alpheios-lex-greek" lang="grc">ὅπλων τῶν ὧν</span>”
+				 <i><span class="en">
+					S.
+					<u>Aj.</u>
+					442
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τῶν ὧν τέκνων</span>”
+				 <i><span class="en">
+					Id.
+					<u>Tr.</u>
+					266
+				</span></i>
+			, cf. <i><span class="en">
+				525
+			</span></i> (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">τοῖς οἷσιν αὐτοῦ</span>”
+				 <i><span class="en">
+					Id.
+					<u>OT</u>
+					1248
+				</span></i>
+			: so in Cret. Prose, 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ ϝὰ αὐτᾶς</span>”
+				 <i><span class="en">
+					<u>Leg.Gort.</u>
+					2.46
+				</span></i>
+			 ; in <i><span class="en">
+				Thgn.
+				1009
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ὧν αὐτοῦ κτεάνων</span> is to
+			be restd. for <span class="alpheios-lex-greek" lang="grc">τῶν . . </span> from <i><span class="en">
+				<u>IG</u>
+				12.499
+			</span></i> ; once in <i><span class="en">
+				Hdt.
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">γυναῖκα ἥν</span>”
+				 <i><span class="en">
+					1.205
+				</span></i>
+			; never in 
+				Att.
+			 Prose. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> of
+			the <i><span class="en">
+				2
+			</span></i> pers., for <span class="alpheios-lex-greek" lang="grc">σός,</span>
+			<i>thy, thine,</i>
+			<i><span class="en">
+				Hes.
+				<u>Op.</u>
+				381
+			</span></i>, <i><span class="en">
+				<u>AP</u>
+				7.539
+			</span></i> (<i><span class="en">
+				Pers.
+			</span></i>), <i><span class="en">
+				Mosch.
+				4.77
+			</span></i>(dub. in <i><span class="en">
+				Hom.
+			</span></i>, v. infr.); and </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b> of the I pers., for <span class="alpheios-lex-greek" lang="grc">ἐμός,</span>
+			<i>my, mine,</i>
+			<i><span class="en">
+				Od.
+				9.28
+			</span></i>,<i><span class="en">
+				13.320
+			</span></i>, <i><span class="en">
+				A.R.
+				4.1015
+			</span></i>,<i><span class="en">
+				1036
+			</span></i>.—Signfs. II and III were denied for Homer by <i><span class="en">
+				Aristarch.
+			</span></i>, see esp. <i><span class="en">
+				A.D.
+				<u>Pron.</u>
+				109.20
+			</span></i> ; in <i><span class="en">
+				Od.
+				9.28
+			</span></i> and <i><span class="en">
+				34
+			</span></i> he (or at least <i><span class="en">
+				A.
+			</span></i>
+			<i><span class="en">
+				D.
+			</span></i> l.c.) rendered <span class="alpheios-lex-greek" lang="grc">ἧς γαίης</span>
+			and <span class="alpheios-lex-greek" lang="grc">πατρίδος</span>
+			<i>'a man's own</i> fatherland', and athetized <i><span class="en">
+				Od.
+				13.320
+			</span></i>: in <i><span class="en">
+				Il.
+				14.221
+			</span></i>,<i><span class="en">
+				264
+			</span></i>,<i><span class="en">
+				16.36
+			</span></i>,<i><span class="en">
+				19.174
+			</span></i>, al., <span class="alpheios-lex-greek" lang="grc">φρεσὶ σῇσιν</span> has
+			better Ms. authority than <span class="alpheios-lex-greek" lang="grc">φρεσὶν
+			ᾗσιν</span>; and in <i><span class="en">
+				Od.
+				15.542
+			</span></i>, cf. <i><span class="en">
+				1.402
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">δώμασι σοῖσιν</span> than
+				<span class="alpheios-lex-greek" lang="grc">δώμασιν οἷσιν</span>; 
+				v.
+				<span class="alpheios-lex-greek" lang="grc">ἑός.</span>
+			 (Cogn. with Skt. <span class="alpheios-lex-greek" lang="grc">σϝάς</span> 'his
+			(my, thy) own', Slav. stem. <i>svo-</i> (used of all <i><span class="en">
+				3
+			</span></i> persons, as in Skt.): I.-<i><span class="en">
+				E.
+			</span></i>
+			<i>swo-</i> was related to I.-<i><span class="en">
+				E.
+			</span></i>
+			<i>sewo-,</i>
+			
+				v.
+				<span class="alpheios-lex-greek" lang="grc">ἑός.</span>
+			)</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

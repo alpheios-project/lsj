@@ -1,0 +1,356 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n113556" body-key=""><b><span class="alpheios-lex-greek" lang="grc">χειμών</span></b> , <span class="alpheios-lex-greek" lang="grc">ῶνος</span>, ὁ, (<span class="alpheios-lex-greek" lang="grc">χεῖμα</span>) <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b><i>winter,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνος δυσθαλπέος ὅς ῥά τε ἔργων
+					ἀνθρώπους ἀνέπαυσεν</span>”
+				 <i><span class="en">
+					Il.
+					17.549
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνι</span>”
+				<i>in winter,</i>
+				 <i><span class="en">
+					21.283
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν χειμῶνι</span>”
+				 <i><span class="en">
+					Pi.
+					<u>I.</u>
+					2.42
+				</span></i>
+			, <i><span class="en">
+				A.
+				<u>Ag.</u>
+				969
+			</span></i>, <i><span class="en">
+				X.
+				<u>Mem.</u>
+				4.3.8
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν τῷ χ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>Cyr.</u>
+					8.8.17
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνος ὥρᾳ</span>”
+				 <i><span class="en">
+					And.
+					1.137
+				</span></i>
+			; also 
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνος</span>”
+				<i>in winter-time,</i>
+				 <i><span class="en">
+					X.
+					<u>Mem.</u>
+					3.8.9
+				</span></i>
+			, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				415e
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">χ. μέσου</span>
+			<i>in</i> mid-<i>winter,</i>
+			<i><span class="en">
+				Ar.
+				<u>Fr.</u>
+				569.1
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ χ.</span>”
+				<i>in the course of the winter,</i>
+				 <i><span class="en">
+					Th.
+					7.31
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ αὐτοῦ χ.</span>”
+				 <i><span class="en">
+					Id.
+					8.30
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">διὰ χειμῶνος, διὰ τοῦ χ.,</span>
+			<i><span class="en">
+				Pl.
+				<u>Ti.</u>
+				74c
+			</span></i>, <i><span class="en">
+				X.
+				<u>HG</u>
+				3.2.9
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνα</span>”
+				<i>during winter,</i>
+				 <i><span class="en">
+					S.
+					<u>OT</u>
+					1138
+				</span></i>
+			 (
+				v.l.
+				<span class="alpheios-lex-greek" lang="grc">χειμῶνι</span>
+			)<span class="alpheios-lex-greek" lang="grc">; τὸν χ.</span>
+			<i>during</i> the <i>winter,</i>
+			<i><span class="en">
+				Hdt.
+				3.117
+			</span></i>, <i><span class="en">
+				X.
+				<u>HG</u>
+				1.4.1
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν δεινὸν χ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>An.</u>
+					7.6.9
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν χ. ὅλον</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Fr.</u>
+					345
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὁ ἀμφὶ τὸν χ. χρόνος</span>”
+				 <i><span class="en">
+					X.
+					<u>Cyr.</u>
+					8.6.22
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ὄρος ἄβατον ὑπὸ
+			χειμῶνος</span> in consequence of <i>the cold weather,</i>
+			<i><span class="en">
+				Hdt.
+				8.138
+			</span></i>, cf. <i><span class="en">
+				Th.
+				2.101
+			</span></i>: pl., 
+				“<span class="alpheios-lex-greek" lang="grc">νιφοστιβεῖς χειμῶνες</span>”
+				 <i><span class="en">
+					S.
+					<u>Aj.</u>
+					671
+				</span></i>
+			; opp. <span class="alpheios-lex-greek" lang="grc">καύματα,</span>
+			<i><span class="en">
+				Pl.
+				<u>Lg.</u>
+				829b
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἀμυντικὴ χειμώνων</span>”
+				 <i><span class="en">
+					Id.
+					<u>Plt.</u>
+					280e
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>the wintry quarter</i> of the heavens, <i>the north,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">Βορέης καὶ χ.</span>”
+				 <i><span class="en">
+					Hdt.
+					2.26
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>wintry, stormy weather</i>: generally, <i>storm,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐπεὶ οὖν χειμῶνα φύγον καὶ
+					ἀθέσφατον ὄμβρον</span>”
+				 <i><span class="en">
+					Il.
+					3.4
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">οὐ νιφετὸς οὔτ᾽ ἂρ χ. πολὺς οὔτε
+					ποτ᾽ ὄμβρος</span>”
+				 <i><span class="en">
+					Od.
+					4.566
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὅτε τις χ. ἔκπαγλος ὄροιτο</span>”
+				 <i><span class="en">
+					14.522
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὀπωρινὸν ὄμβρον καὶ χειμῶν᾽ ἐπιόντα</span>”
+				 <i><span class="en">
+					Hes.
+					<u>Op.</u>
+					675
+				</span></i>
+			, cf. <i><span class="en">
+				Alc.
+				18
+			</span></i>, <i><span class="en">
+				Sapph.
+				<u>Supp.</u>
+				11.6
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">Γαιάοχος εὐδίαν ὄπασσεν ἐκ χειμῶνος</span>”
+				 <i><span class="en">
+					Pi.
+					<u>I.</u>
+					7(6).39
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">θεὸς χειμῶν᾽ ὦρσε</span>”
+				 <i><span class="en">
+					A.
+					<u>Pers.</u>
+					496
+				</span></i>
+			, cf. <i><span class="en">
+				<u>Ag.</u>
+				649
+			</span></i>, <i><span class="en">
+				656
+			</span></i>, <i><span class="en">
+				S.
+				<u>Aj.</u>
+				1145
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">χ. ὀρνιθίας</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ach.</u>
+					876
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">χ. κατερράγη</span>”
+				 <i><span class="en">
+					Hdt.
+					1.87
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπέπεσέ σφι χ. τε μέγας καὶ πολλὸς
+					ἄνεμος</span>”
+				 <i><span class="en">
+					Id.
+					7.188
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>Prt.</u>
+				344d
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπιγενόμενος χ.</span>”
+				 <i><span class="en">
+					Hdt.
+					7.34
+				</span></i>
+			, <i><span class="en">
+				Th.
+				4.6
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">χειμῶνι χρησάμενοι</span>”
+				 <i><span class="en">
+					Antipho
+					5.21
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">χ. νοτερός</span>
+			<i>a storm</i> of rain, <i><span class="en">
+				Th.
+				3.21
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν εὐδίᾳ χειμῶνα ποιεῖν</span>”
+				 <i><span class="en">
+					X.
+					<u>HG</u>
+					2.4.14
+				</span></i>
+			: pl., <span class="alpheios-lex-greek" lang="grc">ὑπὸ τῶν χ.</span> because
+			of the <i>winter-storms,</i>
+			<i><span class="en">
+				Hdt.
+				4.62
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔν γε χειμῶσιν καὶ ἐν εὐδίαις</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Lg.</u>
+					961e
+				</span></i>
+			, cf. <i><span class="en">
+				919a
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> metaph.,
+				<span class="alpheios-lex-greek" lang="grc">θεόσσυτος χ.</span>
+			<i>storm of calamity</i> sent by the gods, <i><span class="en">
+				A.
+				<u>Pr.</u>
+				643
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">χ. καὶ κακῶν τρικυμία</span>
+				ib.<i><span class="en">
+				1015
+			</span></i>, cf. <i><span class="en">
+				<u>Ch.</u>
+				202
+			</span></i> (pl.), <i><span class="en">
+				1066
+			</span></i> (anap.); <span class="alpheios-lex-greek" lang="grc">δορὸς . . ἐν
+			χειμῶνι</span> in the <i>storm</i> of battle, <i><span class="en">
+				S.
+				<u>Ant.</u>
+				670
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">θολερῷ . . χ. νοσήσας,</span>
+			of the madness of Ajax, <i><span class="en">
+				Id.
+				<u>Aj.</u>
+				207
+			</span></i> (anap.); <span class="alpheios-lex-greek" lang="grc">χ. γήρως βαρύς,</span>
+			of life's <i>winter,</i>
+			<i><span class="en">
+				AP
+				10.100
+			</span></i> (<i><span class="en">
+				Antiphan.
+			</span></i>); of a person, 
+				“<span class="alpheios-lex-greek" lang="grc">χ. ὁ μειρακίσκος ἐστὶ τοῖς φίλοις</span>”
+				 <i><span class="en">
+					Alex.
+					178.7
+				</span></i>
+			, cf. <i><span class="en">
+				46.4
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">χ. κατ᾽ οἴκους . . κακὴ γυνή</span>”
+				 <i><span class="en">
+					Men.
+					<u>Mon.</u>
+					540
+				</span></i>
+			: rare in Prose, of battle, <i><span class="en">
+				Onos.
+				32.10
+			</span></i>; of mental and moral <i>trouble,</i>
+			<i><span class="en">
+				Epicur.
+				<u>Ep.</u>
+				3p.62U.
+			</span></i>, Polystr.<i><span class="en">
+				p.19W.
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">χ. τοῦ κλύδωνος
+			χαλεπώτερος,</span> of pirates, <i><span class="en">
+				Them.
+				<u>Or.</u>
+				23.286a
+			</span></i>: pl., <span class="alpheios-lex-greek" lang="grc">χειμῶνας ἔχειν</span> to
+			have <i>trouble</i> (in cutting teeth), <i><span class="en">
+				Hp.
+				<u>Dent.</u>
+				12
+			</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

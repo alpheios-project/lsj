@@ -1,0 +1,706 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n46381" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ζῶ</span></b>  (
+			contr.
+		 fr. <span class="alpheios-lex-greek" lang="grc">ζώω</span>: <span class="alpheios-lex-greek" lang="grc">ζάω</span> only in Gramm., <i><span class="en">
+			<u>EM</u>
+			410.38
+		</span></i>), <span class="alpheios-lex-greek" lang="grc">ζῇς</span> (<i><span class="en">
+			Choerob.
+			<u>in Theod.</u>
+			2.28
+		</span></i>), <span class="alpheios-lex-greek" lang="grc">ζῇ, ζῆτε</span> (but <span class="alpheios-lex-greek" lang="grc">ζῆς, ζῆ</span> acc. to <i><span class="en">
+			Anon.
+		</span></i> ap. <i><span class="en">
+			<u>EM</u>
+			410.48
+		</span></i>, Sophronius ap.<i><span class="en">
+			Choerob.
+			<u>in Theod.</u>
+			2.416
+		</span></i>); imper. <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">ζῆ</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					167
+				</span></i>
+			, <i><span class="en">
+				E.
+				<u>IT</u>
+				699
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ζῆθι</span> (as if from <span class="alpheios-lex-greek" lang="grc">ζῆμι</span>, cf. <u>EM</u> l.c.) <i><span class="en">
+				Pherecr.
+				11
+			</span></i>
+			<i><span class="en">
+				D.
+			</span></i>, <i><span class="en">
+				Men.
+				<u>Mon.</u>
+				191
+			</span></i>, <i><span class="en">
+				<u>AP</u>
+				10.43
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">σύ-ζηθι</span>”
+				 <i><span class="en">
+					Philem.
+				</span></i>
+			 ap. <u>Et.Gen.</u>
+			
+				s.v.
+				<span class="alpheios-lex-greek" lang="grc">ζῆ</span>
+			; opt. <span class="alpheios-lex-greek" lang="grc">ζῴην</span>; inf.
+			<span class="alpheios-lex-greek" lang="grc">ζῆν</span>: impf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔζων</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					323
+				</span></i>
+			, <i><span class="en">
+				Ar.
+				<u>Ra.</u>
+				1072
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἔζην</span> in most codd. of
+				<i><span class="en">
+				D.
+				24.7
+			</span></i> is a form suggested by <span class="alpheios-lex-greek" lang="grc">ἔζης,
+			ἔζη</span>; 3pl.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔζων</span>”
+				 <i><span class="en">
+					Ar.
+					<u>V.</u>
+					709
+				</span></i>
+			, <i><span class="en">
+				Pl.
+				<u>Lg.</u>
+				679c
+			</span></i>: fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζήσω</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Pl.</u>
+					263
+				</span></i>
+			, <i><span class="en">
+				Pl.
+				<u>R.</u>
+				465d
+			</span></i>, <i><span class="en">
+				Men.
+				<u>Mon.</u>
+				186
+			</span></i>, [<i><span class="en">
+				Epich.
+			</span></i>]<i><span class="en">
+				267
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ζήσομαι</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Nat.Puer.</u>
+					30
+				</span></i>
+			, <i><span class="en">
+				D.
+				25.82
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>Pol.</u>
+				1327b5
+			</span></i>: aor. 1
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔζησα</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Prog.</u>
+					1
+				</span></i>
+			, <i><span class="en">
+				<u>AP</u>
+				7.470
+			</span></i> (<i><span class="en">
+				Mel.
+			</span></i>), <i><span class="en">
+				Plu.
+				2.786a
+			</span></i>, etc.: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔζηκα</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Metaph.</u>
+					1048b25
+				</span></i>
+			, <i><span class="en">
+				D.H.
+				5.68
+			</span></i>, etc.: but in 
+				Att.
+			
+			aor. and pf. are mostly supplied from <span class="alpheios-lex-greek" lang="grc">βιόω.-</span> Exc. part.
+			<span class="alpheios-lex-greek" lang="grc">ζῶντος</span>, <i><span class="en">
+				Il.
+				1.88
+			</span></i>, <i><span class="en">
+				Hom.
+			</span></i> always uses the 
+				Ep.
+			
+			
+				Ion.
+			 Lyr. pres.
+			<b><span class="alpheios-lex-greek" lang="grc">ζώω</span></b>  (also in <i><span class="en">
+				Pi.
+				<u>O.</u>
+				2.25
+			</span></i>, <i><span class="en">
+				Hdt.
+				7.46
+			</span></i>, al., <i><span class="en">
+				Diog.Apoll.
+				4
+			</span></i>, <i><span class="en">
+				Herod.
+				2.29
+			</span></i>, <i><span class="en">
+				<u>IG</u>
+				12(8).600.9
+			</span></i> (<span class="entity">Thasos</span>), and Trag. (in lyr.), <i><span class="en">
+				S.
+				<u>El.</u>
+				157
+			</span></i>, <i><span class="en">
+				<u>OC</u>
+				1213
+			</span></i>, cf. <i><span class="en">
+				<u>BCH</u>
+				47.95
+			</span></i> (<span class="entity">Cavalla</span>), <i><span class="en">
+				<u>Bull.Soc.Arch.Bulg.</u>
+				7.13
+			</span></i> (<span class="entity">Macedonia</span>); subj.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζώῃ</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					12(8).262.12
+				</span></i>
+			 (Thasos, <span class="entity">v B.C.</span>), cf. <i><span class="en">
+				<u>Schwyzer</u>
+				339
+			</span></i>, al. (Delph.), 
+				contr.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζῷ</span>”
+				 <i><span class="en">
+					<u>Berl.Sitzb.</u>
+					1927.161
+				</span></i>
+			 (<span class="entity">Cyrene</span>); Cret. <b><span class="alpheios-lex-greek" lang="grc">δώω</span></b> 
+			<i><span class="en">
+				<u>Leg.Gort.</u>
+				4.21
+			</span></i>, al.); inf.
+			<span class="alpheios-lex-greek" lang="grc">ζωέμεναι, -έμεν</span>, <i><span class="en">
+				Od.
+				7.140
+			</span></i>,<i><span class="en">
+				24.436
+			</span></i>: impf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἔζωον</span>”
+				 <i><span class="en">
+					22.245
+				</span></i>
+			, <i><span class="en">
+				Hes.
+				<u>Op.</u>
+				112
+			</span></i>, <i><span class="en">
+				Hdt.
+				4.112
+			</span></i>; 
+				Ion.
+			
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζώεσκον</span>”
+				 <i><span class="en">
+					Hes.
+					<u>Op.</u>
+					90
+				</span></i>
+			, <i><span class="en">
+				Bion
+				1.30
+			</span></i>: aor. 1
+			<span class="alpheios-lex-greek" lang="grc">ἔζωσα </span>(<span class="alpheios-lex-greek" lang="grc">ἐπ-</span>) <i><span class="en">
+				Hdt.
+				1.120
+			</span></i>; inf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζῶσαι</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					11(4).1299
+				</span></i>
+			 (<span class="entity">Delos</span>): pf.
+			part.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐζωκότα</span>”
+				 <i><span class="en">
+					<u>BMus.Inscr.</u>
+					1009
+				</span></i>
+			 (<span class="entity">Cyzicus</span>); inf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζόειν</span>”
+				 <i><span class="en">
+					Semon.
+					1.17
+				</span></i>
+			: impf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ζόεν</span>”
+				 <i><span class="en">
+					<u>AP</u>
+					13.21
+				</span></i>
+			 (<i><span class="en">
+				Theodorid.
+			</span></i>). (Root <i>g[uglide]iē-,
+				g[uglide]iō-</i> also in <span class="alpheios-lex-greek" lang="grc">βίος</span> and <span class="alpheios-lex-greek" lang="grc">ὑγιής</span>
+			(q.v.).) </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>I.</b> prop. of
+			animal life, <i>live</i>, <i><span class="en">
+				Hom.
+			</span></i> (v. infr.), etc.; also of plants, 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ ζῆν κοινὸν εἶναι φαίνεται καὶ
+					τοῖς φυτοῖς</span>”
+				 <i><span class="en">
+					Arist.
+					<u>EN</u>
+					1097b33
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐλέγχιστε ζωόντων</span> vilest
+				<i>of living men</i>, <i><span class="en">
+				Od.
+				10.72
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ζώειν καὶ ὁρᾶν φάος ἠελίοιο</span>”
+				 <i><span class="en">
+					Il.
+					24.558
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζῶντος καὶ ἐπὶ χθονὶ δερκομένοιο</span>”
+				 <i><span class="en">
+					1.88
+				</span></i>
+			, cf. <i><span class="en">
+				Od.
+				16.439
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ζῶν καὶ βλέπων</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					677
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζώει τε καὶ ἔστιν</span>”
+				 <i><span class="en">
+					Od.
+					24.263
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζώντων καὶ ὄντων</span>”
+				 <i><span class="en">
+					D.
+					18.72
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τοῦ εἶναί τε καὶ ζῆν ἕνεκα</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					369d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζῶσα πόλις καὶ ἐγρηγορυῖα</span>”
+				 <i><span class="en">
+					Id.
+					<u>Lg.</u>
+					809d
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζῶν καὶ ἔμψυχος</span>”
+				 <i><span class="en">
+					Id.
+					<u>Phdr.</u>
+					276a
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ῥεῖα ζώοντες</span>
+			<i>living</i> at ease, of the gods, <i><span class="en">
+				Il.
+				6.138
+			</span></i>, al.; <span class="alpheios-lex-greek" lang="grc">ζῶν κατακαυθῆναι</span> to
+			be burnt <i>alive</i>, <i><span class="en">
+				Hdt.
+				1.86
+			</span></i>: c. acc. temp., 
+				“<span class="alpheios-lex-greek" lang="grc">ζ. ἤματα πάντα</span>”
+				 <i><span class="en">
+					<u>h.Ven.</u>
+					221
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ὀλίγα ἔτεα</span>”
+				 <i><span class="en">
+					Hdt.
+					3.22
+				</span></i>
+			: c. dat. modi, <span class="alpheios-lex-greek" lang="grc">δμῶες . . ἄλλα τε
+				πολλὰ οἷσίν τ᾽ εὖ ζώουσι</span> whereby men
+			<i>live</i> in comfort, <i><span class="en">
+				Od.
+				17.423
+			</span></i>, cf. <i><span class="en">
+				D.
+				60.5
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">κοράκων πονηρίᾳ</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Th.</u>
+					868
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐπὶ τοῖς αἰσχίστοις ἔργοις,
+				ἐπὶ τοῖς παροῦσιν ἀγαθοῖς</span>, <i><span class="en">
+				And.
+				1.100
+			</span></i>, <i><span class="en">
+				Isoc.
+				10.18
+			</span></i>; also <span class="alpheios-lex-greek" lang="grc">ζῆν ἀπό τινος</span>
+			<i>to live on</i> a thing, <i><span class="en">
+				Thgn.
+				1156
+			</span></i>, <i><span class="en">
+				Hdt.
+				1.216
+			</span></i>, <i><span class="en">
+				2.36
+			</span></i>,<i><span class="en">
+				4.22
+			</span></i>, <i><span class="en">
+				Ar.
+				<u>Pax</u>
+				850
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἔκ τινος</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ec.</u>
+					591
+				</span></i>
+			, <i><span class="en">
+				D.
+				57.36
+			</span></i>, <i><span class="en">
+				<u>1 Ep.Cor.</u>
+				9.14
+			</span></i>: c. part., 
+				“<span class="alpheios-lex-greek" lang="grc">ζῆν συκοφαντῶν</span>”
+				 <i><span class="en">
+					And.
+					1.99
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐργαζόμενοι</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Pol.</u>
+					1292b27
+				</span></i>
+			: c. dat. commodi, <span class="alpheios-lex-greek" lang="grc">ζῆν ἑαυτῷ</span>
+			<i>for</i> oneself, dub. l. in <i><span class="en">
+				E.
+				<u>Ion</u>
+				646
+			</span></i>, cf. <i><span class="en">
+				Ar.
+				<u>Pl.</u>
+				470
+			</span></i>, <i><span class="en">
+				Men.
+				507
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὸ ζῆν</span>,= <span class="alpheios-lex-greek" lang="grc">ζωή</span>, <i><span class="en">
+				A.
+				<u>Pr.</u>
+				681
+			</span></i>, <i><span class="en">
+				Pl.
+				<u>Phd.</u>
+				77d
+			</span></i> (without Art. 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς ἕτερον ζ.</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ax.</u>
+					365d
+				</span></i>
+			); 
+				“<span class="alpheios-lex-greek" lang="grc">διὰ παντὸς τοῦ ζῆν</span>”
+				 <i><span class="en">
+					<u>Ep.Hebr.</u>
+					2.15
+				</span></i>
+			; also, <i>a living</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ ζ. οὐκ ἔχομεν</span>”
+				 <i><span class="en">
+					<u>OGI</u>
+					515.57
+				</span></i>
+			 (Mylasa, <span class="entity">iii A.D.</span>); <span class="alpheios-lex-greek" lang="grc">ζήτω
+				ὁ βασιλεύς</span>
+			<i>long live</i> the king, <i><span class="en">
+				LXX
+				<u>1 Ki.</u>
+				10.24
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">βασιλεῦ, εἰς τὸν αἰῶνα
+			ζῆθι</span> ib.<i><span class="en">
+				<u>Da.</u>
+				3.9
+			</span></i>; asseverations, <span class="alpheios-lex-greek" lang="grc">ζῶ ἐγώ, καὶ ζῶν
+				τὸ ὄνομά μου, καί . . </span> ib.<i><span class="en">
+				<u>Nu.</u>
+				14.21
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ζῇ κύριος, εἰ . . , ὅτι . .
+			</span>, ib.<i><span class="en">
+				<u>1 Ki.</u>
+				19.6
+			</span></i>, <i><span class="en">
+				29.6
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ζῇ ἡ ψυχή σου, εἰ
+			οἶδα</span> ib.<i><span class="en">
+				17.55
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			
+				=
+				<span class="alpheios-lex-greek" lang="grc">βιόω</span>
+			, <i>live, pass one's life</i>, c. acc. cogn., 
+				“<span class="alpheios-lex-greek" lang="grc">ζώεις δ᾽ ἀγαθὸν βίον</span>”
+				 <i><span class="en">
+					Od.
+					15.491
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζ. βίον μοχθηρόν</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					599
+				</span></i>
+			, cf. <i><span class="en">
+				E.
+				<u>Med.</u>
+				249
+			</span></i>, <i><span class="en">
+				Ar.
+				<u>V.</u>
+				506
+			</span></i>, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ζόην τὴν αὐτήν</span>”
+				 <i><span class="en">
+					Hdt.
+					4.112
+				</span></i>
+			, cf. <i><span class="en">
+				Pl.
+				<u>R.</u>
+				344e
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸν βίον ἀσφαλῶς</span>”
+				 <i><span class="en">
+					Philem.
+					213.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἥδιστον ἀνθρώπων βίον</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					583.4
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">νυμφίων βίον</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Av.</u>
+					161
+				</span></i>
+			; also 
+				“<span class="alpheios-lex-greek" lang="grc">ζ. ἀβλαβεῖ βίῳ</span>”
+				 <i><span class="en">
+					S.
+					<u>El.</u>
+					650
+				</span></i>
+			, cf.<i><span class="en">
+				<u>Tr.</u>
+				168
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">εὖ ζῆν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Ph.</u>
+					505
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">κακῶς</span>”
+				 <i><span class="en">
+					Id.
+					<u>OC</u>
+					799
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζ. δοῦλος</span>”
+				 <i><span class="en">
+					Id.
+					<u>OT</u>
+					410
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἐκ τῶν ἄλλων ὧν ἔζης</span>
+			from the other <i>acts of your life</i>, <i><span class="en">
+				D.
+				21.134
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ποιεῖσθαι φθόνον ἐξ ὧν
+			ζῇς</span> ib.<i><span class="en">
+				196
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			aor. 1
+			<span class="alpheios-lex-greek" lang="grc">ἔζησα</span>, causal, <i>quicken</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν τῇ ὁδῷ σου ζῆσόν με</span>”
+				 <i><span class="en">
+					LXX
+					<u>Ps.</u>
+					118(119).37
+				</span></i>
+			, al. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>live</i> in the fullest sense, 
+				“<span class="alpheios-lex-greek" lang="grc">δι᾽ ὧν ζῆν ἐπιστάμεθα</span>”
+				 <i><span class="en">
+					X.
+					<u>Mem.</u>
+					3.3.11
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">βιοὺς μὲν ἔτη τόσα, ζήσας δὲ ἔτη
+					ἑπτά</span>”
+				 <i><span class="en">
+					D.C.
+					69.19
+				</span></i>
+			; in religious or mystical sense, <i><span class="en">
+				<u>Ep.Rom.</u>
+				7.9
+			</span></i>, al., cf. Ramsay <i>Cilies and Bishoprics</i>
+			<i><span class="en">
+				2p.565
+			</span></i> (Phryg.); 
+				“<span class="alpheios-lex-greek" lang="grc">θεὸς ζῶν</span>”
+				 <i><span class="en">
+					LXX
+					<u>De.</u>
+					5.26(23)
+				</span></i>
+			, etc.: freq. metaph. of things, <i>to be in full
+			vigour</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ὄλβος ζώει μάσσων</span>”
+				 <i><span class="en">
+					Pi.
+					<u>I.</u>
+					3.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄτης θύελλαι ζῶσι</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					819
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ζῶντι χρώμενος ποδί</span>”
+				 <i><span class="en">
+					S.
+					<u>Fr.</u>
+					790
+				</span></i>
+			; [
+				“<span class="alpheios-lex-greek" lang="grc">μαντεῖα] αἰεὶ ζῶντα περιποτᾶται</span>”
+				 <i><span class="en">
+					Id.
+					<u>OT</u>
+					482
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἀεὶ ζῇ ταῦτα [νόμιμα</span>]
+				<i><span class="en">
+				Id.
+				<u>Ant.</u>
+				457
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">τὰς ξυμφορὰς τῶν βουλευμάτων
+				ζώσας μάλιστα</span>
+			<i>have</i> most <i>living power</i>, <i><span class="en">
+				Id.
+				<u>OT</u>
+				45
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">λόγια ζῶντα</span>”
+				 <i><span class="en">
+					<u>Act.Ap.</u>
+					7.38
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">χρόνῳ τῷ ζῶντι καὶ παρόντι</span>”
+				 <i><span class="en">
+					S.
+					<u>Tr.</u>
+					1169
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ζῶσα φλόξ</span>
+			<i>living</i> fire, <i><span class="en">
+				E.
+				<u>Ba.</u>
+				8
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ὕδωρ ζῶν</span>
+			<i>spring</i> water, <i><span class="en">
+				LXX
+				<u>Nu.</u>
+				5.17
+			</span></i> (and metaph., <i><span class="en">
+				<u>Ev.Jo.</u>
+				4.10
+			</span></i>); 
+				“<span class="alpheios-lex-greek" lang="grc">ζώσης φωνῆς</span>”
+				 <i><span class="en">
+					Cic.
+					<u>Att.</u>
+					2.12.2
+				</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

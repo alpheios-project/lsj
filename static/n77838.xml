@@ -1,0 +1,134 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n77838" body-key=""><b><span class="alpheios-lex-greek" lang="grc">παράγγ-ελμα</span></b> , <span class="alpheios-lex-greek" lang="grc">ατος</span>,
+			τό, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b><i>message transmitted</i> by beacons, 
+				“<span class="alpheios-lex-greek" lang="grc">φλογὸς παραγγέλμασιν</span>”
+				 <i><span class="en">
+					A.
+					<u>Ag.</u>
+					480
+				</span></i>
+			 (lyr.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b>
+			<i>order, word of command</i>, <i><span class="en">
+				Lys.
+				12.17
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">παράγγελμα ἐχόντων μὴ
+			χωρίζεσθαι</span> Test. ap. <i><span class="en">
+				D.
+				21.168
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀπὸ παραγγέλματος</span> by
+				<i>word of command</i>, <i><span class="en">
+				Th.
+				8.99
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐκ π.</span>”
+				 <i><span class="en">
+					Plb.
+					1.27.8
+				</span></i>
+			, etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">διδόναι τὰ παραγγέλματα</span>”
+				 <i><span class="en">
+					Id.
+					10.23.9
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄρχων παντὸς π.</span>”
+				 <i><span class="en">
+					LXX
+					<u>1 Ki.</u>
+					22.14
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>mobilization order,</i>
+			<i><span class="en">
+				PHib.
+				1.78
+			</span></i>
+			<span class="entity">(iii B. C.)</span>; <i>mobilization</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">μὴ εἶναί σε ἐμ βασιλικῷ π.</span>”
+				 <i><span class="en">
+					<u>PBaden</u>
+					48.10
+				</span></i>
+			
+			<span class="entity">(ii B. C.)</span>, cf. <i><span class="en">
+				<u>Ostr.</u>
+				1535
+			</span></i>
+			<span class="entity">(ii B. C.)</span>, <i><span class="en">
+				<u>PAmh.</u>
+				2.50.5
+			</span></i>
+			<span class="entity">(ii B. C.)</span>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>edict</i> of a Roman governor, Wilcken <i><span class="en">
+				<u>Chr.</u>
+				202
+			</span></i>
+			<span class="entity">(ii A. D.)</span>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>III.</b>
+			<i>instruction, precept</i>, <i><span class="en">
+				Democr.
+				208
+			</span></i>, <i><span class="en">
+				X.
+				<u>Cyn.</u>
+				13.9
+			</span></i>, <i><span class="en">
+				Arist.
+				<u>Insomn.</u>
+				458b21
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ δικανικὰ π.</span>”
+				 <i><span class="en">
+					Id.
+					<u>Rh.Al.</u>
+					1421b4
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τὰ π. ὡς δεῖ ζῆν</span>”
+				 <i><span class="en">
+					Zeno Stoic.
+					1.57
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">π. σοφιστικά</span>”
+				 <i><span class="en">
+					Phld.
+					<u>Rh.</u>
+					1.89
+				</span></i>
+			
+			<i><span class="en">
+				S.
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ π. τῶν τεχνῶν</span>”
+				 <i><span class="en">
+					D.H.
+					<u>Comp.</u>
+					25
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τεχνικὰ π.</span>”
+				 <i><span class="en">
+					Longin.
+					2.1
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τούτῳ δέδωκεν ὁ Ζεὺς π.</span>”
+				 <i><span class="en">
+					<u>SIG</u>
+					985.12
+				</span></i>
+			 (Philadelphia, <span class="entity">i A. D.</span>); distd. from <span class="alpheios-lex-greek" lang="grc">τόπος</span>, <i><span class="en">
+				Thphr.
+				<u>Fr.</u>
+				70
+			</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

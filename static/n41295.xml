@@ -1,0 +1,160 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n41295" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἐπιτέλλω</span></b>  (A), aor.
+		<span class="alpheios-lex-greek" lang="grc">ἐπέτειλα</span>:—
+			Med.
+		, aor.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">ἐπετειλάμην</span>”
+				 <i><span class="en">
+					A.R.
+					3.264
+				</span></i>
+			:—
+				Pass.
+			, 3sg.
+			plpf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ.. ἐτέταλτο</span>”
+				 <i><span class="en">
+					Il.
+					2.643
+				</span></i>
+			:—<i>enjoin, prescribe, command,</i>
+			<i><span class="en">
+				Hom.
+			</span></i>, etc.—Constr. : c. dat. pers. et acc. rei,
+				<span class="alpheios-lex-greek" lang="grc">ἀλόχῳ δ᾽ ἐπὶ μῦθον ἔτελλεν</span>
+			<i>spake</i> a speech of <i>command</i> to her, <i><span class="en">
+				Od.
+				23.349
+			</span></i> : c. acc. rei only, 
+				“<span class="alpheios-lex-greek" lang="grc">κρατερὸν δ᾽ ἐπὶ μῦθον ἔτελλε</span>”
+				 <i><span class="en">
+					Il.
+					1.25
+				</span></i>
+			, etc. ; 
+				“<span class="alpheios-lex-greek" lang="grc">μῦθον.. ὃν Νέστωρ ἐπέτελλε</span>”
+				 <i><span class="en">
+					11.840
+				</span></i>
+			 ; <span class="alpheios-lex-greek" lang="grc">ἐλήθετο συνθεσιάων ἃς
+				ἐπέτελλε.. Διομήδης</span> which he <i>enjoined,
+				prescribed,</i>
+			<i><span class="en">
+				5.320
+			</span></i> ; <span class="alpheios-lex-greek" lang="grc">ἐφετμέων ἃς
+			ἐπέτειλας</span> ib.<i><span class="en">
+				818
+			</span></i> ; [<span class="alpheios-lex-greek" lang="grc">ἀέθλους</span>] <i><span class="en">
+				Hes.
+				<u>Th.</u>
+				995
+			</span></i> ; so 
+				“<span class="alpheios-lex-greek" lang="grc">θάνατον ἐπιτέλλειν</span>”
+				 <i><span class="en">
+					Pi.
+					<u>N.</u>
+					10.77
+				</span></i>
+			 ; <span class="alpheios-lex-greek" lang="grc">ἐ. μόχθων τέρματα</span>
+			<i>fix</i> them, <i><span class="en">
+				A.
+				<u>Pr.</u>
+				100
+			</span></i> (where others take it intr. <i>arise, appear</i>) : c.
+			dat. pers. only, <i>give orders to,</i>
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὴν εὖ τοῖς ἐπιτείλω</span>”
+				 <i><span class="en">
+					Il.
+					10.63
+				</span></i>
+			, <i><span class="en">
+				13.753
+			</span></i>, etc. : and so abs., 
+				“<span class="alpheios-lex-greek" lang="grc">ὁ δὲ σημαίνων ἐπέτελλεν</span>”
+				 <i><span class="en">
+					21.445
+				</span></i>
+			 : c. dat. pers. et inf., <i>order</i> him
+				<i>to</i> do, <i><span class="en">
+				12.84
+			</span></i>, <i><span class="en">
+				21.230
+			</span></i> ; so <span class="alpheios-lex-greek" lang="grc">πέμπων μ᾽ ὧδ᾽
+			ἐπέτελλε</span> (sc. <span class="alpheios-lex-greek" lang="grc">ποιεῖν</span>)
+				<i><span class="en">
+				24.780
+			</span></i>, cf. <i><span class="en">
+				11.765
+			</span></i>, <i><span class="en">
+				Od.
+				17.9
+			</span></i>:—
+				Med.
+			, just like
+			
+				Act.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">ἄλλοισιν δὴ ταῦτ᾽ ἐπιτέλλεο</span>”
+				 <i><span class="en">
+					Il.
+					1.295
+				</span></i>
+			 ; [<span class="alpheios-lex-greek" lang="grc">νόστον Ἀχαιῶν</span>] 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπετείλατο Παλλάς</span>”
+				 <i><span class="en">
+					Od.
+					1.327
+				</span></i>
+			 ; 
+				“<span class="alpheios-lex-greek" lang="grc">ὁ δέ μοι χαλεποὺς ἐπετέλλετ᾽ ἀέθλους</span>”
+				 <i><span class="en">
+					11.622
+				</span></i>
+			 ; 
+				“<span class="alpheios-lex-greek" lang="grc">κραδίῃ ἀνίας</span>”
+				 <i><span class="en">
+					A.R.
+					3.264
+				</span></i>
+			 : c. dat. pers. et inf., <i><span class="en">
+				Od.
+				21.240
+			</span></i> : abs., <i><span class="en">
+				17.21
+			</span></i> ; 
+				“<span class="alpheios-lex-greek" lang="grc">ἁγητὴρ υἱῷ ἐπιτελλόμενος</span>”
+				 <i><span class="en">
+					Pi.
+					<u>P.</u>
+					1.70
+				</span></i>
+			:—
+				Pass.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">τῷ δ᾽ ἐπὶ πάντ᾽ ἐτέταλτο ἀνασσέμεν
+					Αἰτωλοῖσι</span>”
+				 <i><span class="en">
+					Il.
+					2.643
+				</span></i>
+			, cf. <i><span class="en">
+				Od.
+				11.524
+			</span></i>.—Poet. and later Prose, <i><span class="en">
+				<u>BGU</u>
+				886.2
+			</span></i> (
+				Med.
+			, <span class="entity">ii A.D.</span>), <i><span class="en">
+				<u>PThead.</u>
+				18.4
+			</span></i>
+			<span class="entity">(iii/iv A.D.)</span>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>

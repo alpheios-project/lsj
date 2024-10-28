@@ -1,0 +1,842 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n33770" body-key=""><b><span class="alpheios-lex-greek" lang="grc">ἕλκω</span></b>  (<b><span class="alpheios-lex-greek" lang="grc">ἑλκύω</span></b>  late, <i><span class="en">
+			Tz.
+			<u>H.</u>
+			6.621
+		</span></i>), <i><span class="en">
+			Il.
+			24.52
+		</span></i>, etc., impf.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>A.</b>
+				“<span class="alpheios-lex-greek" lang="grc">εἷλκον</span>”
+				 <i><span class="en">
+					A.
+					<u>Fr.</u>
+					39
+				</span></i>
+			, etc., 
+				Ep.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκον</span>”
+				 <i><span class="en">
+					Il.
+					4.213
+				</span></i>
+			,al. (never <span class="alpheios-lex-greek" lang="grc">εἵλκυον</span>):
+				fut.
+				“<span class="alpheios-lex-greek" lang="grc">ἕλξω</span>”
+				 <i><span class="en">
+					A.
+					<u>Supp.</u>
+					909
+				</span></i>
+			, etc., rarely <span class="alpheios-lex-greek" lang="grc">ἑλκύσω [ῠ</span>]
+				<i><span class="en">
+				Hp.
+				<u>Fract.</u>
+				2
+			</span></i>, <i><span class="en">
+				Philem.
+				174
+			</span></i>: aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἵλκῠσα</span>”
+				 <i><span class="en">
+					Batr.
+					232
+				</span></i>
+			, <i><span class="en">
+				Pi.
+				<u>N.</u>
+				7.103
+			</span></i>, Trag. and 
+				Att.
+			, <i><span class="en">
+				E.
+				<u>Ph.</u>
+				987
+			</span></i>, <i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				540
+			</span></i>, <i><span class="en">
+				<u>SIG</u>
+				2587.23
+			</span></i>, al., etc.; 
+				“<span class="alpheios-lex-greek" lang="grc">ἥλκυσα</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					11(2).287
+				</span></i>
+			
+			<i><span class="en">
+				<u>B</u>
+				61
+			</span></i> (Delos, <span class="entity">ii B.C.</span>), <i><span class="en">
+				<u>CIG</u>
+				4993
+			</span></i>,<i><span class="en">
+				5006
+			</span></i> (Egypt, <span class="entity">iii A.D.</span>); later <span class="alpheios-lex-greek" lang="grc">εἷλξα</span>, poet. 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλξα</span>”
+				 <i><span class="en">
+					<u>AP</u>
+					9.370
+				</span></i>
+			 (<i><span class="en">
+				Tib.
+			</span></i> Ill.), <i><span class="en">
+				Orph.
+				<u>A.</u>
+				258
+			</span></i>, <i><span class="en">
+				Gal.
+				<u>Nat.Fac.</u>
+				1.12
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἵλκῠκα</span>”
+				 <i><span class="en">
+					D.
+					22.59
+				</span></i>
+			; pf.
+			part.
+			<span class="alpheios-lex-greek" lang="grc">ἑολκώς</span> prob.in <i><span class="en">
+				Epich.
+				177
+			</span></i>:—
+				Med.
+			, fut.
+			<span class="alpheios-lex-greek" lang="grc">-ύσομαι </span>(<span class="alpheios-lex-greek" lang="grc">ἐφ-</span>) <i><span class="en">
+				Antyll.
+			</span></i> ap. <i><span class="en">
+				Orib.
+				6.10.9
+			</span></i>: aor.
+			<span class="alpheios-lex-greek" lang="grc">εἱλκυσάμην </span>(<span class="alpheios-lex-greek" lang="grc">ἀφ-</span>) v.l. in
+			<i><span class="en">
+				Hp.
+				<u>Art.</u>
+				11
+			</span></i>, subj.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἀφελκύσωμαι</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Ach.</u>
+					1120
+				</span></i>
+			; rarely 
+				“<span class="alpheios-lex-greek" lang="grc">εἱλξάμην</span>”
+				 <i><span class="en">
+					Gal.
+					4.534
+				</span></i>
+			:—
+				Pass.
+			, fut.
+			
+				“<span class="alpheios-lex-greek" lang="grc">ἑλκυσθήσομαι</span>”
+				 <i><span class="en">
+					A.
+					<u>Th.</u>
+					614
+				</span></i>
+			 (<span class="alpheios-lex-greek" lang="grc">ξυγκαθ-</span>), <i><span class="en">
+				Lyc.
+				358
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἑλχθήσομαι</span>”
+				 <i><span class="en">
+					Gal.
+					<u>UP</u>
+					7.7
+				</span></i>
+			: aor.
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἱλκύσθην</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Epid.</u>
+					4.14
+				</span></i>
+			, (<span class="alpheios-lex-greek" lang="grc">ἐξ-</span>) <i><span class="en">
+				Ar.
+				<u>Ec.</u>
+				688
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἑλκ-</span>”
+				 <i><span class="en">
+					Hdt.
+					1.140
+				</span></i>
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">ἡλκ-</span>”
+				 <i><span class="en">
+					<u>IG</u>
+					12(7).115.11
+				</span></i>
+			 (<span class="entity">Amorgos</span>); later 
+				“<span class="alpheios-lex-greek" lang="grc">εἵλχθην</span>”
+				 <i><span class="en">
+					Ph.
+					2.11
+				</span></i>
+			, <i><span class="en">
+				Philostr.
+				<u>VA</u>
+				8.15
+			</span></i>, <i><span class="en">
+				D.L.
+				6.91
+			</span></i>: pf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἵλκυσμαι</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Superf.</u>
+					16
+				</span></i>
+			, <i><span class="en">
+				E.
+				<u>Rh.</u>
+				576
+			</span></i>,<i><span class="en">
+				Ph.
+				1.316
+			</span></i>, (<span class="alpheios-lex-greek" lang="grc">καθ-</span>) <i><span class="en">
+				Th.
+				6.50
+			</span></i>, <span class="alpheios-lex-greek" lang="grc">ἕλκυσμαι </span>(<span class="alpheios-lex-greek" lang="grc">ἀν-</span>) <i><span class="en">
+				Hdt.
+				9.98
+			</span></i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἥλκυσμαι</span>”
+				 <i><span class="en">
+					<u>BGU</u>
+					1256.11
+				</span></i>
+			<span class="entity">(ii B.C.)</span>: plpf.
+			
+				“<span class="alpheios-lex-greek" lang="grc">εἵλκυστο</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Epid.</u>
+					4.36
+				</span></i>
+			.—In 
+				Att.
+			, <span class="alpheios-lex-greek" lang="grc">ἕλκω, ἕλξω</span> were
+			alone used in pres. and fut., while the other
+			tenses were formed from <span class="alpheios-lex-greek" lang="grc">ἑλκυ-</span>; cf.
+				<span class="alpheios-lex-greek" lang="grc">ἑλκέω</span> (q.v.), <span class="alpheios-lex-greek" lang="grc">ἑλκυστάζω</span>. In <i><span class="en">
+				Hom.
+			</span></i>, <i><span class="en">
+				Aristarch.
+			</span></i> rejected the augm. (Cf. Lat. <i>sulcus</i>, Lith.
+				<i>velkù</i> 'drag'):— <i>draw,
+			drag</i>, with collat.notion of force or exertion, <span class="alpheios-lex-greek" lang="grc">ὣς εἰπὼν ποδὸς ἕλκε</span>
+			<i>began to drag</i> [the dead body] by the foot, <i><span class="en">
+				Il.
+				13.383
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἤν περ . . ποδῶν ἕλκωσι θύραζε</span>”
+				 <i><span class="en">
+					Od.
+					16.276
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">τινὰ τῆς ῥινός</span>”
+				 <i><span class="en">
+					Luc.
+					<u>Herm.</u>
+					73
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">Ἕκτορα . . περὶ σῆμ᾽ ἑτάροιο ἕλκει</span>”
+				 <i><span class="en">
+					Il.
+					24.52
+				</span></i>
+			; <i>drag away</i> a prisoner, <i><span class="en">
+				22.65
+			</span></i> (
+				Pass.
+			); <i>draw</i> ships down to the sea, <i><span class="en">
+				2.152
+			</span></i>, etc.; <i>draw along</i> a felled tree, <i><span class="en">
+				17.743
+			</span></i>; of mules, <i>draw</i> a chariot, <i><span class="en">
+				24.324
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἑλκέμεναι νειοῖο . . πηκτὸν
+				ἄροτρον</span>
+			<i>draw</i> the plough <i>through</i> the field, <i><span class="en">
+				10.353
+			</span></i>, cf. <i><span class="en">
+				23.518
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἕ. τινὰ ἐπὶ κνάφου</span>”
+				 <i><span class="en">
+					Hdt.
+					1.92
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">περιβαλόντας σχοινία ἕ</span>.
+				<i>haul at</i> them, <i><span class="en">
+				Id.
+				5.85
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>draw after one</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐν δ᾽ ἔπεσ᾽ Ὠκεανῷ . . φάος
+					ἠελίοιο, ἕλκον νύκτα μέλαιναν</span>”
+				 <i><span class="en">
+					Il.
+					8.486
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">πέδας ἕ</span>. <i>trail</i>
+			fetters <i>after one</i>, <i><span class="en">
+				Hdt.
+				3.129
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἕ. χλανίδα</span>
+			<i>let</i> one's cloak <i>trail behind</i>, <i><span class="en">
+				Ephipp.
+				19
+			</span></i>(anap.); 
+				“<span class="alpheios-lex-greek" lang="grc">θοἰμάτιον</span>”
+				 <i><span class="en">
+					Archipp.
+					45
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>tear</i>
+			
+			<i>in pieces</i> (used by <i><span class="en">
+				Hom.
+			</span></i> only in the form <span class="alpheios-lex-greek" lang="grc">ἑλκέω</span>)
+				“<span class="alpheios-lex-greek" lang="grc">, ὀνύχεσσι παρειάν</span>”
+				 <i><span class="en">
+					E.
+					<u>Tr.</u>
+					280
+				</span></i>
+			; <i>worry</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">τὰς κύνας ὥλαφος ἕλκοι</span>”
+				 <i><span class="en">
+					Theoc.
+					1.135
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἑλκυσθῆναι ὑπὸ κυνός</span>”
+				 <i><span class="en">
+					Hdt.
+					1.140
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> metaph.,
+				<i>carp at</i>, <i><span class="en">
+				Pi.
+				<u>N.</u>
+				7.103
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>draw</i> a bow, 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκε . . γλυφίδας τε λαβὼν καὶ νεῦρα
+					βόεια</span>”
+				 <i><span class="en">
+					Il.
+					4.122
+				</span></i>
+			, cf. <i><span class="en">
+				Od.
+				21.419
+			</span></i>, <i><span class="en">
+				Hdt.
+				3.21
+			</span></i>, <i><span class="en">
+				X.
+				<u>An.</u>
+				4.2.28
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>draw</i> a sword, <i><span class="en">
+				S.
+				<u>Ant.</u>
+				1233
+			</span></i>, <i><span class="en">
+				E.
+				<u>Rh.</u>
+				576
+			</span></i> (
+				Pass.
+			):—
+				Med.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκετο δ᾽ ἐκ κολεοῖο . . ξίφος</span>”
+				 <i><span class="en">
+					Il.
+					1.194
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕ. ἱστία</span>
+			<i>hoist</i> sails, <i><span class="en">
+				Od.
+				2.426
+			</span></i>:—also in 
+				Med.
+			,<i><span class="en">
+				<u>h.Bacch.</u>
+				32
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>7.</b>
+			<i>lift up</i> scales, so as to poise them, 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκε δὲ μέσσα λαβών</span>”
+				 <i><span class="en">
+					Il.
+					8.72
+				</span></i>
+			, <i><span class="en">
+				22.212
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>II.</b> after <i><span class="en">
+				Hom.
+			</span></i>, </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>pull</i> a barge-pole, <i><span class="en">
+				Hdt.
+				1.194
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>tow</i> a ship, <i><span class="en">
+				Th.
+				2.90
+			</span></i>, etc. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>drag into court</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκω σε κλητεύσοντα</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Nu.</u>
+					1218
+				</span></i>
+			, cf. <i><span class="en">
+				1004
+			</span></i> (
+				Pass.
+			); 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς ἀγοράν</span>”
+				 <i><span class="en">
+					<u>Act.Ap.</u>
+					16.19
+				</span></i>
+			; <i>drag about</i>, esp. with lewd violence, 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκει καὶ βιάζεται</span>”
+				 <i><span class="en">
+					D.
+					21.150
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">μηδένα ἕλξειν μηδ᾽
+			ὑβριεῖν</span> ib. <i><span class="en">
+				221
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἕλκειν γυναῖκα</span>”
+				 <i><span class="en">
+					Lys.
+					1.12
+				</span></i>
+			: metaph., <span class="alpheios-lex-greek" lang="grc">ἄνω κάτω τοὺς λόγους
+			ἕ</span>. <i><span class="en">
+				Pl.
+				<u>Tht.</u>
+				195c
+			</span></i>, cf. <i><span class="en">
+				Arist.
+				<u>SE</u>
+				167a35
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἡμέας ὁ καιρὸς ἕλκει</span>”
+				 <i><span class="en">
+					Herod.
+					2.10
+				</span></i>
+			; also <span class="alpheios-lex-greek" lang="grc">ἥλκυσμαι λαμπαδάρχης</span>
+			I <i>have been compelled to serve</i> as <span class="alpheios-lex-greek" lang="grc">λ</span>., <u>BGU</u> l.c. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>draw</i> or <i>suck up</i>, [
+				“<span class="alpheios-lex-greek" lang="grc">ἥλιος] ἕλκει τὸ ὕδωρ ἐπ᾽ ἑωυτόν</span>”
+				 <i><span class="en">
+					Hdt.
+					2.25
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἕ. τὸν ἀέρα</span>
+			<i>draw</i> it <i>in, breathe</i> it, <i><span class="en">
+				Hp.
+			</span></i><i>Aër.</i><i><span class="en">
+				19
+			</span></i>, <i><span class="en">
+				Ti.Locr.
+				101d
+			</span></i> (
+				Pass.
+			), cf. <i><span class="en">
+				Philyll.
+				20
+			</span></i>: <span class="alpheios-lex-greek" lang="grc">ζωὴν φύσιν</span> Archel. ap.
+				<i><span class="en">
+				Antig.
+				<u>Mir.</u>
+				89
+			</span></i>; esp. of persons drinking, <i>drink in long draughts,
+			quaff</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">μέθυ</span>”
+				 <i><span class="en">
+					E.
+					<u>Ion</u>
+					1200
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ἄμυστιν</span>”
+				 <i><span class="en">
+					Id.
+					<u>Cyc.</u>
+					417
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">τὴν . . τοῦ Πραμνίου
+			[σπονδήν</span>] <i><span class="en">
+				Ar.
+				<u>Eq.</u>
+				107
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">οἶνον ἐκ . . λεπαστῆς</span> Telecl<i><span class="en">
+				Id.
+				24
+			</span></i> (lyr.); 
+				“<span class="alpheios-lex-greek" lang="grc">ἀπνευστί</span>”
+				 <i><span class="en">
+					Antiph.
+					74.14
+				</span></i>
+			, etc.: with acc. of the cup, 
+				“<span class="alpheios-lex-greek" lang="grc">δέπας μεστὸν . . ἕλκουσι γνάθοις
+					ἀπαύστοις</span>”
+				 <i><span class="en">
+					Id.
+					237
+				</span></i>
+			, cf. <i><span class="en">
+				Eub.
+				56.7
+			</span></i>, al.; so <span class="alpheios-lex-greek" lang="grc">ἕ. μαστόν</span>
+			<i>suck</i> it, <i><span class="en">
+				E.
+				<u>Ph.</u>
+				987
+			</span></i>; <i>inhale</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ὀσμήν</span>”
+				 <i><span class="en">
+					Antig.
+					<u>Mir.</u>
+					89
+				</span></i>
+			; of roots, <i>draw up</i> nourishment, <i><span class="en">
+				Thphr.
+				<u>HP</u>
+				1.6.10
+			</span></i>: metaph., <span class="alpheios-lex-greek" lang="grc">χανδὸν καὶ ἀμυστὶ τῶν
+				μαθηυάτων ἕ</span>. <i><span class="en">
+				Eun.
+				<u>VS</u>
+				p.474D.
+			</span></i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>draw</i> from a receptacle, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐξ ἑκάστου κιβωτίου πινάκιον ἕν</span>”
+				 <i><span class="en">
+					Arist.
+					<u>Ath.</u>
+					64.1
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕ. βίοτον, ζόαν</span>, <i>drag
+			out</i> a weary life, <i><span class="en">
+				E.
+				<u>Or.</u>
+				207
+			</span></i> (lyr.), <i><span class="en">
+				<u>Ph.</u>
+				1535
+			</span></i> (lyr.); <span class="alpheios-lex-greek" lang="grc">προφάσιας ἕ</span>.
+				<i>keep making</i> excuses, <i><span class="en">
+				Hdt.
+				6.86
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">πάσας τε προφάσεις . . ἕλκουσι</span>”
+				 <i><span class="en">
+					Ar.
+					<u>Lys.</u>
+					727
+				</span></i>
+			; <span class="alpheios-lex-greek" lang="grc">ἕ. χρόνους</span>
+			<i>make long</i>, in prosody, <i><span class="en">
+				Longin.
+				<u>Proll. Heph.</u>
+				p.83C.
+			</span></i>: hence intr., <span class="alpheios-lex-greek" lang="grc">ἐπὶ τοσοῦτο λέγεται
+				ἑλκύσαι τὴν σύστασιν . .</span> that the conflict
+				<i>dragged on, lasted</i>, <i><span class="en">
+				Hdt.
+				7.167
+			</span></i>, cf. <i><span class="en">
+				<u>PHib.</u>
+				1.83.9
+			</span></i>
+			<span class="entity">(iii B.C.)</span>:—
+				Pass.
+			, 
+				“<span class="alpheios-lex-greek" lang="grc">τῶν ἐγκλημάτων εἱκλυσμένων πλείονα
+					χρόνον</span>”
+				 <i><span class="en">
+					<u>Supp.Epigr.</u>
+					2.281
+				</span></i>
+			 (Delph., <span class="entity">ii B.C.</span>); also of a person, 
+				“<span class="alpheios-lex-greek" lang="grc">ἑλκόμενος καὶ μόγις</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					350d
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>7.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕ. κόρδακα</span>
+			<i>dance</i> in <i>long, measured</i> steps, <i><span class="en">
+				Ar.
+				<u>Nu.</u>
+				540
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἓν τουτὶ </span>(<span class="alpheios-lex-greek" lang="grc">σχῆμα</span>) <i><span class="en">
+				Id.
+				<u>Pax</u>
+				328
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>8.</b>
+			<i>draw to oneself, attract</i>, of the magnet, <i><span class="en">
+				E.
+				<u>Fr.</u>
+				567
+			</span></i>; by spells, 
+				“<span class="alpheios-lex-greek" lang="grc">τινὰ ποτὶ δῶμα</span>”
+				 <i><span class="en">
+					Theoc.
+					2.17
+				</span></i>
+			, cf.<i><span class="en">
+				X.
+				<u>Mem.</u>
+				3.11.18
+			</span></i>, <i><span class="en">
+				Plot.
+				4.4.40
+			</span></i>, etc.; <span class="alpheios-lex-greek" lang="grc">πείθειν καὶ ἑ</span>.
+				<i><span class="en">
+				Pl.
+				<u>R.</u>
+				458d
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">ἐχθροὺς ἐφ᾽ ἑαυτόν</span>”
+				 <i><span class="en">
+					D.
+					22.59
+				</span></i>
+			; <i>draw on</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐπὶ ἡδονάς</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Phdr.</u>
+					238a
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">εἰς τυραννίδας ἕ. τὰς πολιτείας</span>”
+				 <i><span class="en">
+					Id.
+					<u>R.</u>
+					568c
+				</span></i>
+			:—
+				Pass.
+			, <i>to be drawn on</i> as by a spell, 
+				“<span class="alpheios-lex-greek" lang="grc">ἴυγγι δ᾽ ἕλκομαι ἦτορ</span>”
+				 <i><span class="en">
+					Pi.
+					<u>N.</u>
+					4.35
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς φιλοσοφίαν</span>”
+				 <i><span class="en">
+					Pl.
+					<u>R.</u>
+					494e
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>9.</b> of things
+			weighed, <span class="alpheios-lex-greek" lang="grc">ἕ. σταθμὸν τάλαντα δέκα</span>
+			<i>draw down</i> the balance, i.e. <i>weigh</i> ten talents,
+				<i><span class="en">
+				Hdt.
+				1.50
+			</span></i>, cf. <i><span class="en">
+				Eup.
+				116
+			</span></i>: abs., <span class="alpheios-lex-greek" lang="grc">τὸ δ᾽ ἂν ἑλκύσῃ</span>
+			whatever it <i>weigh</i>, <i><span class="en">
+				Hdt.
+				2.65
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">πλεῖον ἕ</span>. <i><span class="en">
+				Pl.
+				<u>Min.</u>
+				316a
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕ. τὰς ψήφους</span>
+			<i>cast up</i> the account, <i><span class="en">
+				<u>PPetr.</u>
+				2p.37
+			</span></i>
+			<span class="entity">(iii B.C.)</span>, <i><span class="en">
+				<u>PHib.</u>
+				1.17.25
+			</span></i>
+			<span class="entity">(iii B.C.)</span>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>10.</b>
+			<i>draw</i> or <i>derive</i> from a source, 
+				“<span class="alpheios-lex-greek" lang="grc">ἐντεῦθεν εἵλκυσεν ἐπὶ τὴν . . τέχνην
+					τὸ πρός φορον αὐτῇ</span>”
+				 <i><span class="en">
+					Pl.
+					<u>Phdr.</u>
+					270a
+				</span></i>
+			, cf. <i><span class="en">
+				Jul.
+				<u>Or.</u>
+				7.207a
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">τὸ γένος ἀπό τινος</span>”
+				 <i><span class="en">
+					Str.
+					11.9.3
+				</span></i>
+			; <i>assume</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">μείζω φαντασίαν</span>”
+				 <i><span class="en">
+					Plb.
+					32.10.5
+				</span></i>
+			; 
+				“<span class="alpheios-lex-greek" lang="grc">ὁ ἄρτος ἕλκει χρῶμα κάλλιστον</span>”
+				 <i><span class="en">
+					Ath.
+					3.113c
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>11.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἑλκύσαι πλίνθους</span>
+			<i>make</i> bricks, <i><span class="en">
+				Hdt.
+				1.179
+			</span></i>, cf. <i><span class="en">
+				<u>PPetr.</u>
+				3p.137
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἕ. λάγανον</span> Chrysipp.
+			Tyan. ap. <i><span class="en">
+				Ath.
+				14.647e
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>12.</b>
+			<span class="alpheios-lex-greek" lang="grc">αἱ θυρίδες ἕλκουσι</span> the win dows
+				<i>draw in</i> air, <i><span class="en">
+				Thphr.
+				<u>Vent.</u>
+				29
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>13.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕ. ἑαυτόν</span>, expressing some kind
+			of athletic exercise, <i><span class="en">
+				Pl.
+				<u>Prm.</u>
+				135d
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>B.</b>
+			
+				Med.
+			, <span class="alpheios-lex-greek" lang="grc">ἕ. χαίτας ἐκ κεφαλῆς</span>
+			<i>tear one's</i> hair, <i><span class="en">
+				Il.
+				10.15
+			</span></i>; <span class="alpheios-lex-greek" lang="grc">ἀσσοτέρω πυρὸς ἕλκετο δίφρον</span>
+			<i>drew his</i> chair nearer to the fire, <i><span class="en">
+				Od.
+				19.506
+			</span></i>, cf. <i><span class="en">
+				Semon.
+				7.26
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>draw to oneself, scrape up, amass</i>, <span class="alpheios-lex-greek" lang="grc">τιμάς, ἄφενος ἕλκεσθαι</span>, <i><span class="en">
+				Thgn.
+				30
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<span class="alpheios-lex-greek" lang="grc">ἕλκεσθαι στάθμας περισσᾶς</span> in
+				<i><span class="en">
+				Pi.
+				<u>P.</u>
+				2.90
+			</span></i>, means lit., <i>to drag at</i> too great a line,
+				i.e.<i>grasp</i> more than one's due-- but whence the metaphor
+			is taken remains unexplained. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>C.</b>
+			
+				Pass.
+			, <i>to be drawn</i> or <i>wrenched</i>, <span class="alpheios-lex-greek" lang="grc">νῶτα . . ἑλκόμενα στερεῶς</span>, of
+			wrestlers, <i><span class="en">
+				Il.
+				23.715
+			</span></i>; of the nails, to be <i>curved</i>, <i><span class="en">
+				Hp.
+				<u>Morb.</u>
+				2.48
+			</span></i>; <i>to close in</i> when the core is removed, of the
+			timber of certain trees, <i><span class="en">
+				Thphr.
+				<u>HP</u>
+				5.5.2
+			</span></i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>to be drawn</i> or <i>to flow at a place</i>, of streams, <i><span class="en">
+				Lyc.
+				702
+			</span></i>; 
+				“<span class="alpheios-lex-greek" lang="grc">πρὸς ἀντολίην ἕ. αἶα</span>”
+				 <i><span class="en">
+					D.P.
+					1086
+				</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>to be drawn</i> or <i>contracted</i>, 
+				“<span class="alpheios-lex-greek" lang="grc">εἱλκύσθη ἐπὶ τὰ δεξιὰ τράχηλος</span>”
+				 <i><span class="en">
+					Hp.
+					<u>Epid.</u>
+					4.14
+				</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Greek-English Lexicon</u>
+        </u> (Henry George Liddell, Robert Scott, Oxford, Clarendon Press, 1940) </div>
+</div>
